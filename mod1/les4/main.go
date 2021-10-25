@@ -3,6 +3,7 @@ package main
 import (
 	"errors"
 	"fmt"
+	"log"
 )
 
 func main() {
@@ -14,8 +15,12 @@ func main() {
 	// 		log.Fatal(err)
 	// 	}
 	// 	fmt.Println(massager)
-
-	fmt.Println(prediction("dwedw"))
+	res, err := enterTheClub(22)
+	if err != nil {
+		log.Fatal(err)
+	}
+	fmt.Println(res)
+	fmt.Println(prediction("day"))
 	func() {
 		fmt.Println("anonymous funk")
 	}()
@@ -50,7 +55,7 @@ func enterTheClub(age int) (string, error) {
 	if age >= 18 && age < 65 {
 		return "Enter, but careful", nil
 	} else if age >= 65 {
-		return "Stop, You are very old", errors.New("You are very old")
+		return "Stop, You are very old", errors.New("you are very old")
 	}
 
 	return "Stop, You are very young", errors.New("you are very young")
