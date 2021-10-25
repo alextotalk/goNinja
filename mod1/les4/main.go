@@ -7,6 +7,7 @@ import (
 )
 
 func init() {
+	fmt.Println("It called before main")
 }
 func main() {
 	fmt.Println(Min(2, 3, 443, -32, -1))
