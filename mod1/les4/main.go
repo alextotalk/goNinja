@@ -6,6 +6,8 @@ import (
 	"log"
 )
 
+func init() {
+}
 func main() {
 	fmt.Println(Min(2, 3, 443, -32, -1))
 	fmt.Println(Max(2, 3, 443, -32, -1))
