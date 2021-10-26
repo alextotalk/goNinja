@@ -3,6 +3,7 @@ package main
 import (
 	"errors"
 	"fmt"
+	"log"
 )
 
 func init() {
@@ -36,8 +37,10 @@ func main() {
 	//massages[0] = 1
 	//massages[1] = 2
 	////massages[2] = 3
-	printMassages(massages)
-
+	err := printMassages(massages)
+	if err != nil {
+		log.Fatal(err.Error())
+	}
 	fmt.Println(massages)
 	for i := 0; i < 10; i++ {
 		fmt.Println(i)
