@@ -1,0 +1,5 @@
+ID: 334 | Email: comeUser334@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-31 11:25:21.499505557 +0200 EET m=+3.426388461
+2. [logged out] at 2021-10-31 11:25:21.499505815 +0200 EET m=+3.426388701
+3. [delete record] at 2021-10-31 11:25:21.499506181 +0200 EET m=+3.426389058

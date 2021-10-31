@@ -1,0 +1,5 @@
+ID: 767 | Email: comeUser767@gmail.com
+Activity Log:
+1. [create record] at 2021-10-31 11:25:25.959108548 +0200 EET m=+7.885991554
+2. [create record] at 2021-10-31 11:25:25.959109149 +0200 EET m=+7.885992075
+3. [delete record] at 2021-10-31 11:25:25.959109499 +0200 EET m=+7.885992424

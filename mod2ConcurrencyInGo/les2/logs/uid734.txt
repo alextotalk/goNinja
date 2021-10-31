@@ -1,0 +1,6 @@
+ID: 734 | Email: comeUser734@gmail.com
+Activity Log:
+1. [logged in] at 2021-10-31 11:25:25.619872542 +0200 EET m=+7.546755452
+1560
+2. [create record] at 2021-10-28 20:57:02.505822017 +0300 EEST m=+7.517782125
+3. [create record] at 2021-10-28 20:57:02.505835598 +0300 EEST m=+7.517795713

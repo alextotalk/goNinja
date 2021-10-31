@@ -1,0 +1,6 @@
+ID: 593 | Email: comeUser593@gmail.com
+Activity Log:
+1. [logged in] at 2021-10-31 11:25:24.169195284 +0200 EET m=+6.096078164
+2. [delete record] at 2021-10-31 11:25:24.169195484 +0200 EET m=+6.096078344
+3. [delete record] at 2021-10-31 11:25:24.16919564 +0200 EET m=+6.096078498
+4. [delete record] at 2021-10-31 11:25:24.169195789 +0200 EET m=+6.096078653

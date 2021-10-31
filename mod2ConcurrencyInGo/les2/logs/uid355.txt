@@ -1,0 +1,7 @@
+ID: 355 | Email: comeUser355@gmail.com
+Activity Log:
+1. [logged in] at 2021-10-31 11:25:21.715833004 +0200 EET m=+3.642715901
+2. [delete record] at 2021-10-31 11:25:21.715833317 +0200 EET m=+3.642716208
+3. [create record] at 2021-10-31 11:25:21.715833639 +0200 EET m=+3.642716535
+41
+4. [create record] at 2021-10-28 20:57:51.295520771 +0300 EEST m=+3.635803581

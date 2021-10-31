@@ -1,0 +1,7 @@
+ID: 90 | Email: comeUser90@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-28 20:57:48.57110506 +0300 EEST m=+0.911387826
+2. [logged in] at 2021-10-28 20:57:48.571105462 +0300 EEST m=+0.911388228
+2597
+3. [create record] at 2021-10-28 20:56:55.899682681 +0300 EEST m=+0.911642721
+4. [delete record] at 2021-10-28 20:56:55.899682909 +0300 EEST m=+0.911642946

@@ -1,0 +1,4 @@
+ID: 65 | Email: comeUser65@gmail.com
+Activity Log:
+1. [logged out] at 2021-10-28 20:57:48.314368041 +0300 EEST m=+0.654650835
+2. [delete record] at 2021-10-28 20:57:48.314368336 +0300 EEST m=+0.654651111

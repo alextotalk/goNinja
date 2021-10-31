@@ -1,0 +1,6 @@
+ID: 775 | Email: comeUser775@gmail.com
+Activity Log:
+1. [create record] at 2021-10-31 11:25:26.041319366 +0200 EET m=+7.968202266
+2. [delete record] at 2021-10-31 11:25:26.041319647 +0200 EET m=+7.968202523
+3. [logged out] at 2021-10-31 11:25:26.041320019 +0200 EET m=+7.968202887
+4. [logged out] at 2021-10-31 11:25:26.04132026 +0200 EET m=+7.968203128

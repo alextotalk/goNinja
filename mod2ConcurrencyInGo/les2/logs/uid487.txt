@@ -1,0 +1,6 @@
+ID: 487 | Email: comeUser487@gmail.com
+Activity Log:
+1. [logged out] at 2021-10-31 11:25:23.07821189 +0200 EET m=+5.005094821
+2. [logged out] at 2021-10-31 11:25:23.078212326 +0200 EET m=+5.005095234
+3. [create record] at 2021-10-31 11:25:23.078212529 +0200 EET m=+5.005095412
+4. [create record] at 2021-10-31 11:25:23.07822424 +0200 EET m=+5.005107139

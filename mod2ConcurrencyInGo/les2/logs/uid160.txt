@@ -1,0 +1,6 @@
+ID: 160 | Email: comeUser160@gmail.com
+Activity Log:
+1. [create record] at 2021-10-31 11:25:19.709768278 +0200 EET m=+1.636651233
+2. [delete record] at 2021-10-31 11:25:19.709769321 +0200 EET m=+1.636652239
+. [delete record] at 2021-10-28 20:57:49.290557339 +0300 EEST m=+1.630840142
+4. [create record] at 2021-10-28 20:57:49.290557577 +0300 EEST m=+1.630840376

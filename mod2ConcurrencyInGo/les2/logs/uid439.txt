@@ -1,0 +1,6 @@
+ID: 439 | Email: comeUser439@gmail.com
+Activity Log:
+1. [logged in] at 2021-10-31 11:25:22.58476418 +0200 EET m=+4.511647075
+2. [delete record] at 2021-10-31 11:25:22.584764437 +0200 EET m=+4.511647303
+3. [logged out] at 2021-10-31 11:25:22.584764637 +0200 EET m=+4.511647506
+4. [delete record] at 2021-10-31 11:25:22.584764751 +0200 EET m=+4.511647620

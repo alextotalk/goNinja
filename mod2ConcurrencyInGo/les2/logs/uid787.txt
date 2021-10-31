@@ -1,0 +1,5 @@
+ID: 787 | Email: comeUser787@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-28 20:57:55.740774599 +0300 EEST m=+8.081057435
+2. [delete record] at 2021-10-28 20:57:55.740774978 +0300 EEST m=+8.081057766
+3. [logged in] at 2021-10-28 20:57:55.740775191 +0300 EEST m=+8.081057979

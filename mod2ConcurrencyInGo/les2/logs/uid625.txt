@@ -1,0 +1,6 @@
+ID: 625 | Email: comeUser625@gmail.com
+Activity Log:
+1. [logged out] at 2021-10-31 11:25:24.498895377 +0200 EET m=+6.425778320
+2. [delete record] at 2021-10-31 11:25:24.498895752 +0200 EET m=+6.425778646
+3. [create record] at 2021-10-31 11:25:24.498896031 +0200 EET m=+6.425778927
+4. [delete record] at 2021-10-31 11:25:24.498896229 +0200 EET m=+6.425779125

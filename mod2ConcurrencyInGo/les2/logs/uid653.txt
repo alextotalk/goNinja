@@ -1,0 +1,7 @@
+ID: 653 | Email: comeUser653@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-31 11:25:24.786491682 +0200 EET m=+6.713374591
+2. [create record] at 2021-10-31 11:25:24.786492091 +0200 EET m=+6.713374984
+3. [logged out] at 2021-10-31 11:25:24.786492334 +0200 EET m=+6.713375215
+30869
+4. [delete record] at 2021-10-28 20:57:54.363948309 +0300 EEST m=+6.704231121

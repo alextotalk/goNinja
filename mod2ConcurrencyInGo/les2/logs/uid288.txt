@@ -1,0 +1,5 @@
+ID: 288 | Email: comeUser288@gmail.com
+Activity Log:
+1. [logged out] at 2021-10-31 11:25:21.026382071 +0200 EET m=+2.953265013
+2. [create record] at 2021-10-31 11:25:21.026382517 +0200 EET m=+2.953265426
+ [create record] at 2021-10-28 20:57:50.607572401 +0300 EEST m=+2.947855187

@@ -1,0 +1,5 @@
+ID: 569 | Email: comeUser569@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-28 20:57:53.499986664 +0300 EEST m=+5.840269499
+2. [create record] at 2021-10-28 20:57:53.499987222 +0300 EEST m=+5.840270052
+3. [logged out] at 2021-10-28 20:57:53.499987618 +0300 EEST m=+5.840270433

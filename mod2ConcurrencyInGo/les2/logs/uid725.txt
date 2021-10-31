@@ -1,0 +1,7 @@
+ID: 725 | Email: comeUser725@gmail.com
+Activity Log:
+1. [create record] at 2021-10-31 11:25:25.527199687 +0200 EET m=+7.454082589
+
+2. [delete record] at 2021-10-28 20:57:55.102711856 +0300 EEST m=+7.442994676
+3. [logged in] at 2021-10-28 20:57:55.102712114 +0300 EEST m=+7.442994910
+4. [logged in] at 2021-10-28 20:57:55.102712445 +0300 EEST m=+7.442995248

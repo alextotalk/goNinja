@@ -1,0 +1,4 @@
+ID: 822 | Email: comeUser822@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-28 20:57:56.099971885 +0300 EEST m=+8.440254709
+2. [create record] at 2021-10-28 20:57:56.099972315 +0300 EEST m=+8.440255116

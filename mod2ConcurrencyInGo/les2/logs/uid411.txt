@@ -1,0 +1,4 @@
+ID: 411 | Email: comeUser411@gmail.com
+Activity Log:
+1. [logged out] at 2021-10-28 20:57:51.870241243 +0300 EEST m=+4.210524049
+2. [create record] at 2021-10-28 20:56:59.19207386 +0300 EEST m=+4.204033893

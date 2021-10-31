@@ -1,0 +1,5 @@
+ID: 624 | Email: comeUser624@gmail.com
+Activity Log:
+1. [create record] at 2021-10-31 11:25:24.488635167 +0200 EET m=+6.415518058
+2. [logged in] at 2021-10-31 11:25:24.488642315 +0200 EET m=+6.415525176
+3. [logged out] at 2021-10-28 20:57:01.381174279 +0300 EEST m=+6.393134327

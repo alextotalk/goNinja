@@ -1,0 +1,6 @@
+ID: 932 | Email: comeUser932@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-28 20:57:57.234868714 +0300 EEST m=+9.575151544
+delete record] at 2021-10-28 20:57:04.544366285 +0300 EEST m=+9.556326318
+3. [delete record] at 2021-10-28 20:57:04.544366439 +0300 EEST m=+9.556326467
+4. [logged out] at 2021-10-28 20:57:04.544366608 +0300 EEST m=+9.556326639

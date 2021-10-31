@@ -1,0 +1,6 @@
+ID: 582 | Email: comeUser582@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-28 20:57:53.633623695 +0300 EEST m=+5.973906478
+2. [create record] at 2021-10-28 20:57:00.946761705 +0300 EEST m=+5.958721748
+3. [delete record] at 2021-10-28 20:57:00.946761905 +0300 EEST m=+5.958721948
+4. [logged out] at 2021-10-28 20:57:00.946762104 +0300 EEST m=+5.958722146

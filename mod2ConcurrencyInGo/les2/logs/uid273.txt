@@ -1,0 +1,6 @@
+ID: 273 | Email: comeUser273@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-31 11:25:20.872214134 +0200 EET m=+2.799097040
+[logged in] at 2021-10-28 20:56:57.775761949 +0300 EEST m=+2.787722008
+3. [create record] at 2021-10-28 20:56:57.775762135 +0300 EEST m=+2.787722194
+4. [delete record] at 2021-10-28 20:56:57.775762401 +0300 EEST m=+2.787722463

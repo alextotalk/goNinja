@@ -1,0 +1,6 @@
+ID: 795 | Email: comeUser795@gmail.com
+Activity Log:
+1. [logged in] at 2021-10-31 11:25:26.247187633 +0200 EET m=+8.174070637
+2. [delete record] at 2021-10-31 11:25:26.247188216 +0200 EET m=+8.174071124
+3. [delete record] at 2021-10-31 11:25:26.247188617 +0200 EET m=+8.174071533
+logged in] at 2021-10-28 20:57:03.131032332 +0300 EEST m=+8.142992387

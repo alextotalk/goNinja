@@ -1,0 +1,5 @@
+ID: 737 | Email: comeUser737@gmail.com
+Activity Log:
+1. [create record] at 2021-10-28 20:57:02.5366578 +0300 EEST m=+7.548617877
+2. [create record] at 2021-10-28 20:57:02.536658174 +0300 EEST m=+7.548618228
+3. [logged in] at 2021-10-28 20:57:02.536658388 +0300 EEST m=+7.548618439

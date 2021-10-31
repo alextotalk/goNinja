@@ -1,0 +1,6 @@
+ID: 95 | Email: comeUser95@gmail.com
+Activity Log:
+1. [logged in] at 2021-10-31 11:25:19.040817629 +0200 EET m=+0.967700575
+2. [create record] at 2021-10-31 11:25:19.040818303 +0200 EET m=+0.967701196
+3. [delete record] at 2021-10-31 11:25:19.040818852 +0200 EET m=+0.967701745
+4. [delete record] at 2021-10-31 11:25:19.040819333 +0200 EET m=+0.967702226

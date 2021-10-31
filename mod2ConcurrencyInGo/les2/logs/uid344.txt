@@ -1,0 +1,4 @@
+ID: 344 | Email: comeUser344@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-28 20:57:51.182150012 +0300 EEST m=+3.522432851
+2. [delete record] at 2021-10-28 20:57:51.182150441 +0300 EEST m=+3.522433233

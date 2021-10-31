@@ -1,0 +1,7 @@
+ID: 406 | Email: comeUser406@gmail.com
+Activity Log:
+1. [logged out] at 2021-10-31 11:25:22.24588694 +0200 EET m=+4.172769915
+
+2. [create record] at 2021-10-28 20:57:51.819276563 +0300 EEST m=+4.159559329
+3. [create record] at 2021-10-28 20:57:51.819276721 +0300 EEST m=+4.159559489
+4. [create record] at 2021-10-28 20:57:51.819276829 +0300 EEST m=+4.159559595

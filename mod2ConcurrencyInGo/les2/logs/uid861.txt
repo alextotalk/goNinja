@@ -1,0 +1,5 @@
+ID: 861 | Email: comeUser861@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-28 20:57:56.502204827 +0300 EEST m=+8.842487733
+2. [create record] at 2021-10-28 20:57:56.502205385 +0300 EEST m=+8.842488214
+te record] at 2021-10-28 20:57:03.806984319 +0300 EEST m=+8.818944372

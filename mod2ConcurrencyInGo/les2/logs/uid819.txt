@@ -1,0 +1,5 @@
+ID: 819 | Email: comeUser819@gmail.com
+Activity Log:
+1. [logged out] at 2021-10-28 20:57:56.069099468 +0300 EEST m=+8.409382321
+2. [delete record] at 2021-10-28 20:57:56.069100122 +0300 EEST m=+8.409382926
+3. [delete record] at 2021-10-28 20:57:56.069100563 +0300 EEST m=+8.409383377

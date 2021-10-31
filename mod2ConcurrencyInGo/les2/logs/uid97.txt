@@ -1,0 +1,5 @@
+ID: 97 | Email: comeUser97@gmail.com
+Activity Log:
+1. [create record] at 2021-10-31 11:25:19.061332035 +0200 EET m=+0.988214933
+2. [create record] at 2021-10-31 11:25:19.061332255 +0200 EET m=+0.988215116
+3. [create record] at 2021-10-31 11:25:19.061332354 +0200 EET m=+0.988215215

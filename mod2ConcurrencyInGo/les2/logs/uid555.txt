@@ -1,0 +1,7 @@
+ID: 555 | Email: comeUser555@gmail.com
+Activity Log:
+1. [logged out] at 2021-10-31 11:25:23.779092631 +0200 EET m=+5.705975600
+2. [delete record] at 2021-10-31 11:25:23.779093222 +0200 EET m=+5.705976135
+
+3. [delete record] at 2021-10-28 20:57:53.356407594 +0300 EEST m=+5.696690367
+delete record] at 2021-10-28 20:57:00.669829274 +0300 EEST m=+5.681789311

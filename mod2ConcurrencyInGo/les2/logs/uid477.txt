@@ -1,0 +1,6 @@
+ID: 477 | Email: comeUser477@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-31 11:25:22.976020208 +0200 EET m=+4.902903093
+[delete record] at 2021-10-28 20:56:59.869231817 +0300 EEST m=+4.881191868
+3. [logged in] at 2021-10-28 20:56:59.869232029 +0300 EEST m=+4.881192068
+4. [logged out] at 2021-10-28 20:56:59.869232173 +0300 EEST m=+4.881192214

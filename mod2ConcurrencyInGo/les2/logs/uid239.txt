@@ -1,0 +1,5 @@
+ID: 239 | Email: comeUser239@gmail.com
+Activity Log:
+1. [create record] at 2021-10-31 11:25:20.522425304 +0200 EET m=+2.449308204
+2. [logged out] at 2021-10-31 11:25:20.522425678 +0200 EET m=+2.449308580
+5

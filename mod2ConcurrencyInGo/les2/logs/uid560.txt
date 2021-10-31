@@ -1,0 +1,5 @@
+ID: 560 | Email: comeUser560@gmail.com
+Activity Log:
+1. [create record] at 2021-10-31 11:25:23.830860392 +0200 EET m=+5.757743373
+2. [logged out] at 2021-10-31 11:25:23.830861685 +0200 EET m=+5.757744850
+3. [delete record] at 2021-10-31 11:25:23.830863098 +0200 EET m=+5.757745996

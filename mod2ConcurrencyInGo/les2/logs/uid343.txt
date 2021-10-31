@@ -1,0 +1,5 @@
+ID: 343 | Email: comeUser343@gmail.com
+Activity Log:
+1. [logged out] at 2021-10-31 11:25:21.592110487 +0200 EET m=+3.518993418
+2. [logged out] at 2021-10-31 11:25:21.592110964 +0200 EET m=+3.518993870
+440

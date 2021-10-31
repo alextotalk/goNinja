@@ -1,0 +1,5 @@
+ID: 605 | Email: comeUser605@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-31 11:25:24.29244935 +0200 EET m=+6.219332271
+ [logged out] at 2021-10-28 20:57:53.870503106 +0300 EEST m=+6.210785891
+3. [logged out] at 2021-10-28 20:57:53.870503276 +0300 EEST m=+6.210786057

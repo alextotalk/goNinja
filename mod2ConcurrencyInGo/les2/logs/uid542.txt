@@ -1,0 +1,6 @@
+ID: 542 | Email: comeUser542@gmail.com
+Activity Log:
+1. [logged in] at 2021-10-31 11:25:23.64495414 +0200 EET m=+5.571837124
+2. [create record] at 2021-10-31 11:25:23.644954721 +0200 EET m=+5.571837618
+3. [logged out] at 2021-10-31 11:25:23.644955118 +0200 EET m=+5.571838036
+8267342

@@ -1,0 +1,6 @@
+ID: 137 | Email: comeUser137@gmail.com
+Activity Log:
+1. [logged in] at 2021-10-31 11:25:19.472719406 +0200 EET m=+1.399602347
+2. [logged out] at 2021-10-31 11:25:19.472719995 +0200 EET m=+1.399602912
+3. [create record] at 2021-10-31 11:25:19.472720375 +0200 EET m=+1.399603277
+089

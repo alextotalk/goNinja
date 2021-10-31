@@ -1,0 +1,7 @@
+ID: 527 | Email: comeUser527@gmail.com
+Activity Log:
+1. [logged out] at 2021-10-28 20:57:53.068454809 +0300 EEST m=+5.408737642
+2. [logged in] at 2021-10-28 20:57:53.068455207 +0300 EEST m=+5.408737993
+68
+3. [logged out] at 2021-10-28 20:57:00.38225776 +0300 EEST m=+5.394217804
+4. [create record] at 2021-10-28 20:57:00.382257936 +0300 EEST m=+5.394217993

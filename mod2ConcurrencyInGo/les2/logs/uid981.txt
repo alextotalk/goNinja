@@ -1,0 +1,6 @@
+ID: 981 | Email: comeUser981@gmail.com
+Activity Log:
+1. [logged in] at 2021-10-28 20:57:57.740358926 +0300 EEST m=+10.080641758
+2. [delete record] at 2021-10-28 20:57:57.740363755 +0300 EEST m=+10.080646542
+3. [delete record] at 2021-10-28 20:57:57.74036406 +0300 EEST m=+10.080646852
+4. [logged out] at 2021-10-28 20:57:57.740364341 +0300 EEST m=+10.080647129

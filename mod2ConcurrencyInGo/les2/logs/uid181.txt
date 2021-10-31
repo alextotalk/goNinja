@@ -1,0 +1,7 @@
+ID: 181 | Email: comeUser181@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-31 11:25:19.925919484 +0200 EET m=+1.852802388
+2. [logged in] at 2021-10-31 11:25:19.925919905 +0200 EET m=+1.852802796
+3. [delete record] at 2021-10-31 11:25:19.925920166 +0200 EET m=+1.852803064
+4. [delete record] at 2021-10-31 11:25:19.925920381 +0200 EET m=+1.852803275
+249

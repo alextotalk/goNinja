@@ -1,0 +1,6 @@
+ID: 465 | Email: comeUser465@gmail.com
+Activity Log:
+1. [logged out] at 2021-10-31 11:25:22.852297501 +0200 EET m=+4.779180435
+212
+2. [delete record] at 2021-10-28 20:56:59.745983448 +0300 EEST m=+4.757943486
+3. [logged out] at 2021-10-28 20:56:59.745983599 +0300 EEST m=+4.757943642

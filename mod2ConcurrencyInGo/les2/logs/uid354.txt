@@ -1,0 +1,7 @@
+ID: 354 | Email: comeUser354@gmail.com
+Activity Log:
+1. [create record] at 2021-10-31 11:25:21.705587829 +0200 EET m=+3.632470826
+
+2. [create record] at 2021-10-28 20:57:51.285244169 +0300 EEST m=+3.625526995
+3. [logged in] at 2021-10-28 20:57:51.285244463 +0300 EEST m=+3.625527269
+4. [delete record] at 2021-10-28 20:57:51.285245338 +0300 EEST m=+3.625528552

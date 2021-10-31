@@ -1,0 +1,5 @@
+ID: 462 | Email: comeUser462@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-31 11:25:22.821547447 +0200 EET m=+4.748430335
+2. [logged in] at 2021-10-31 11:25:22.821547668 +0200 EET m=+4.748430540
+21

@@ -1,0 +1,5 @@
+ID: 64 | Email: comeUser64@gmail.com
+Activity Log:
+1. [logged in] at 2021-10-31 11:25:18.721761395 +0200 EET m=+0.648644364
+2. [logged in] at 2021-10-31 11:25:18.721762013 +0200 EET m=+0.648644942
+3. [create record] at 2021-10-31 11:25:18.72176245 +0200 EET m=+0.648645375

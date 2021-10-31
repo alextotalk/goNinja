@@ -1,0 +1,5 @@
+ID: 111 | Email: comeUser111@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-31 11:25:19.20534711 +0200 EET m=+1.132230071
+2. [create record] at 2021-10-31 11:25:19.205347654 +0200 EET m=+1.132230582
+ [logged out] at 2021-10-28 20:56:56.114564102 +0300 EEST m=+1.126524177

@@ -1,0 +1,4 @@
+ID: 954 | Email: comeUser954@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-28 20:57:57.461931344 +0300 EEST m=+9.802214215
+[create record] at 2021-10-28 20:57:04.768686703 +0300 EEST m=+9.780646786

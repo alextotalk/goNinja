@@ -1,0 +1,6 @@
+ID: 234 | Email: comeUser234@gmail.com
+Activity Log:
+1. [logged in] at 2021-10-28 20:57:50.052034287 +0300 EEST m=+2.392317103
+2. [logged in] at 2021-10-28 20:57:50.052034702 +0300 EEST m=+2.392317494
+3. [delete record] at 2021-10-28 20:57:50.052034935 +0300 EEST m=+2.392317725
+

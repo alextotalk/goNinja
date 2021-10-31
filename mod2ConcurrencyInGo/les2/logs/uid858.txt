@@ -1,0 +1,4 @@
+ID: 858 | Email: comeUser858@gmail.com
+Activity Log:
+1. [create record] at 2021-10-28 20:57:56.471146755 +0300 EEST m=+8.811429648
+[delete record] at 2021-10-28 20:57:03.776223959 +0300 EEST m=+8.788184010

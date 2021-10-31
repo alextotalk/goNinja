@@ -1,0 +1,6 @@
+ID: 880 | Email: comeUser880@gmail.com
+Activity Log:
+1. [logged out] at 2021-10-28 20:57:56.698080238 +0300 EEST m=+9.038363138
+25
+2. [delete record] at 2021-10-28 20:57:04.000727258 +0300 EEST m=+9.012687305
+3. [logged out] at 2021-10-28 20:57:04.000727356 +0300 EEST m=+9.012687388

@@ -1,0 +1,6 @@
+ID: 970 | Email: comeUser970@gmail.com
+Activity Log:
+1. [logged in] at 2021-10-28 20:57:57.627133058 +0300 EEST m=+9.967415905
+2. [logged out] at 2021-10-28 20:57:57.627133835 +0300 EEST m=+9.967416627
+3. [logged in] at 2021-10-28 20:57:57.627134067 +0300 EEST m=+9.967416859
+4. [create record] at 2021-10-28 20:57:57.62713437 +0300 EEST m=+9.967417164

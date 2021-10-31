@@ -1,0 +1,6 @@
+ID: 642 | Email: comeUser642@gmail.com
+Activity Log:
+1. [create record] at 2021-10-31 11:25:24.673657441 +0200 EET m=+6.600540341
+2. [logged out] at 2021-10-31 11:25:24.67365767 +0200 EET m=+6.600540535
+3. [logged out] at 2021-10-31 11:25:24.673657836 +0200 EET m=+6.600540701
+04

@@ -1,0 +1,4 @@
+ID: 999 | Email: comeUser999@gmail.com
+Activity Log:
+1. [logged out] at 2021-10-28 20:57:05.230433093 +0300 EEST m=+10.242393178
+2. [create record] at 2021-10-28 20:57:05.230433434 +0300 EEST m=+10.242393473

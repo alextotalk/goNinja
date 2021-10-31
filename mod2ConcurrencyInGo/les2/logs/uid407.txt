@@ -1,0 +1,5 @@
+ID: 407 | Email: comeUser407@gmail.com
+Activity Log:
+1. [create record] at 2021-10-31 11:25:22.256095828 +0200 EET m=+4.182978740
+2. [create record] at 2021-10-31 11:25:22.256096111 +0200 EET m=+4.182978978
+3. [logged out] at 2021-10-31 11:25:22.256096241 +0200 EET m=+4.182979109

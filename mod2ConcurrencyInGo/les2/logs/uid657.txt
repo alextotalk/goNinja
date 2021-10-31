@@ -1,0 +1,5 @@
+ID: 657 | Email: comeUser657@gmail.com
+Activity Log:
+1. [create record] at 2021-10-28 20:57:54.405101405 +0300 EEST m=+6.745384243
+2. [logged out] at 2021-10-28 20:57:54.405101926 +0300 EEST m=+6.745384952
+3. [create record] at 2021-10-28 20:57:54.405102464 +0300 EEST m=+6.745385268

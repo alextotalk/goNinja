@@ -1,0 +1,5 @@
+ID: 656 | Email: comeUser656@gmail.com
+Activity Log:
+1. [logged in] at 2021-10-31 11:25:24.817276569 +0200 EET m=+6.744159577
+2. [delete record] at 2021-10-31 11:25:24.817277404 +0200 EET m=+6.744160352
+3. [logged out] at 2021-10-31 11:25:24.817278086 +0200 EET m=+6.744161007

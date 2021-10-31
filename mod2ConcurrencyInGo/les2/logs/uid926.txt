@@ -1,0 +1,4 @@
+ID: 926 | Email: comeUser926@gmail.com
+Activity Log:
+1. [create record] at 2021-10-28 20:57:57.173067961 +0300 EEST m=+9.513350838
+[logged out] at 2021-10-28 20:57:04.482518513 +0300 EEST m=+9.494478556

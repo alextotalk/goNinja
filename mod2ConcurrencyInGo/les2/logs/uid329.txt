@@ -1,0 +1,6 @@
+ID: 329 | Email: comeUser329@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-31 11:25:21.448039083 +0200 EET m=+3.374922050
+
+2. [logged in] at 2021-10-28 20:57:51.028051066 +0300 EEST m=+3.368333843
+3. [logged in] at 2021-10-28 20:57:51.028051336 +0300 EEST m=+3.368334109

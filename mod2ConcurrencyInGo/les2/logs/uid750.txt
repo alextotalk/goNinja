@@ -1,0 +1,6 @@
+ID: 750 | Email: comeUser750@gmail.com
+Activity Log:
+1. [logged in] at 2021-10-31 11:25:25.784179475 +0200 EET m=+7.711062379
+2. [create record] at 2021-10-31 11:25:25.784179822 +0200 EET m=+7.711062694
+47
+3. [logged out] at 2021-10-28 20:57:55.359846506 +0300 EEST m=+7.700129333

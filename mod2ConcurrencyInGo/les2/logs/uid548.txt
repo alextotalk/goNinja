@@ -1,0 +1,5 @@
+ID: 548 | Email: comeUser548@gmail.com
+Activity Log:
+1. [logged out] at 2021-10-28 20:57:53.284394204 +0300 EEST m=+5.624677025
+. [logged out] at 2021-10-28 20:57:00.598134389 +0300 EEST m=+5.610094448
+3. [delete record] at 2021-10-28 20:57:00.598134627 +0300 EEST m=+5.610094676

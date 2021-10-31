@@ -1,0 +1,5 @@
+ID: 587 | Email: comeUser587@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-31 11:25:24.10807598 +0200 EET m=+6.034958859
+2. [logged out] at 2021-10-31 11:25:24.108076228 +0200 EET m=+6.034959095
+3. [logged out] at 2021-10-31 11:25:24.108076407 +0200 EET m=+6.034959264

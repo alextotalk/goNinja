@@ -1,0 +1,4 @@
+ID: 24 | Email: comeUser24@gmail.com
+Activity Log:
+1. [create record] at 2021-10-31 11:25:18.308781525 +0200 EET m=+0.235664478
+2. [delete record] at 2021-10-31 11:25:18.308782056 +0200 EET m=+0.235664986

@@ -1,0 +1,7 @@
+ID: 621 | Email: comeUser621@gmail.com
+Activity Log:
+1. [create record] at 2021-10-28 20:57:54.035015443 +0300 EEST m=+6.375298263
+2. [logged in] at 2021-10-28 20:57:54.035015921 +0300 EEST m=+6.375298739
+633
+3. [create record] at 2021-10-28 20:57:01.350455706 +0300 EEST m=+6.362415744
+4. [create record] at 2021-10-28 20:57:01.350455843 +0300 EEST m=+6.362415882

@@ -1,0 +1,7 @@
+ID: 508 | Email: comeUser508@gmail.com
+Activity Log:
+1. [logged out] at 2021-10-28 20:57:52.873267287 +0300 EEST m=+5.213550175
+2. [logged out] at 2021-10-28 20:57:52.873267942 +0300 EEST m=+5.213550765
+1
+3. [logged out] at 2021-10-28 20:57:00.187252355 +0300 EEST m=+5.199212397
+4. [create record] at 2021-10-28 20:57:00.187252498 +0300 EEST m=+5.199212540

@@ -1,0 +1,5 @@
+ID: 290 | Email: comeUser290@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-31 11:25:21.046954082 +0200 EET m=+2.973837140
+
+2. [delete record] at 2021-10-28 20:57:50.628020897 +0300 EEST m=+2.968303703

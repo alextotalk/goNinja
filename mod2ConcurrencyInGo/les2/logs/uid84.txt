@@ -1,0 +1,5 @@
+ID: 84 | Email: comeUser84@gmail.com
+Activity Log:
+1. [create record] at 2021-10-31 11:25:18.927735313 +0200 EET m=+0.854618293
+2. [delete record] at 2021-10-31 11:25:18.92773596 +0200 EET m=+0.854618915
+88

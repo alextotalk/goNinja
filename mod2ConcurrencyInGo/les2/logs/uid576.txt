@@ -1,0 +1,6 @@
+ID: 576 | Email: comeUser576@gmail.com
+Activity Log:
+1. [create record] at 2021-10-31 11:25:23.995800637 +0200 EET m=+5.922683572
+2. [logged in] at 2021-10-28 20:57:53.571924147 +0300 EEST m=+5.912206934
+3. [logged out] at 2021-10-28 20:57:53.571924386 +0300 EEST m=+5.912207177
+4. [create record] at 2021-10-28 20:57:53.571924645 +0300 EEST m=+5.912207447

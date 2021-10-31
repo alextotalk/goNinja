@@ -1,0 +1,6 @@
+ID: 728 | Email: comeUser728@gmail.com
+Activity Log:
+1. [logged in] at 2021-10-31 11:25:25.558093902 +0200 EET m=+7.484976884
+0138
+2. [delete record] at 2021-10-28 20:57:55.133657851 +0300 EEST m=+7.473940678
+3. [logged out] at 2021-10-28 20:57:55.133658183 +0300 EEST m=+7.473940999

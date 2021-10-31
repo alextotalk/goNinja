@@ -1,0 +1,4 @@
+ID: 812 | Email: comeUser812@gmail.com
+Activity Log:
+1. [create record] at 2021-10-28 20:57:55.997019539 +0300 EEST m=+8.337302322
+2. [create record] at 2021-10-28 20:57:03.30534956 +0300 EEST m=+8.317309601

@@ -1,0 +1,6 @@
+ID: 604 | Email: comeUser604@gmail.com
+Activity Log:
+1. [create record] at 2021-10-31 11:25:24.282092617 +0200 EET m=+6.208975585
+2. [logged out] at 2021-10-31 11:25:24.282093335 +0200 EET m=+6.208976246
+3. [delete record] at 2021-10-31 11:25:24.28209368 +0200 EET m=+6.208976730
+4. [logged out] at 2021-10-31 11:25:24.282094034 +0200 EET m=+6.208976922

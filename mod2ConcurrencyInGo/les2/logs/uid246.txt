@@ -1,0 +1,5 @@
+ID: 246 | Email: comeUser246@gmail.com
+Activity Log:
+1. [logged in] at 2021-10-31 11:25:20.594348454 +0200 EET m=+2.521231335
+2. [create record] at 2021-10-31 11:25:20.594348695 +0200 EET m=+2.521231562
+. [delete record] at 2021-10-28 20:56:57.498652364 +0300 EEST m=+2.510612420

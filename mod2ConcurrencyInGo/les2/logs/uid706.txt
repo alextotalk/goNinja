@@ -1,0 +1,5 @@
+ID: 706 | Email: comeUser706@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-28 20:57:54.908215636 +0300 EEST m=+7.248498600
+2. [create record] at 2021-10-28 20:57:54.908216317 +0300 EEST m=+7.248499161
+3. [create record] at 2021-10-28 20:57:54.908216754 +0300 EEST m=+7.248499594

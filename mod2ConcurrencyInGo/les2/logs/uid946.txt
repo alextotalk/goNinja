@@ -1,0 +1,6 @@
+ID: 946 | Email: comeUser946@gmail.com
+Activity Log:
+1. [logged in] at 2021-10-28 20:57:57.379218867 +0300 EEST m=+9.719501690
+2. [logged out] at 2021-10-28 20:57:57.37921984 +0300 EEST m=+9.719502658
+3. [delete record] at 2021-10-28 20:57:57.379220129 +0300 EEST m=+9.719503124
+4. [create record] at 2021-10-28 20:57:57.379220622 +0300 EEST m=+9.719503631

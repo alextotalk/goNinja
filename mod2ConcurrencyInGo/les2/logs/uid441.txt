@@ -1,0 +1,6 @@
+ID: 441 | Email: comeUser441@gmail.com
+Activity Log:
+1. [create record] at 2021-10-31 11:25:22.605413237 +0200 EET m=+4.532296251
+2. [delete record] at 2021-10-31 11:25:22.605413874 +0200 EET m=+4.532296812
+3. [create record] at 2021-10-31 11:25:22.605414243 +0200 EET m=+4.532297173
+4. [create record] at 2021-10-31 11:25:22.605414612 +0200 EET m=+4.532297537

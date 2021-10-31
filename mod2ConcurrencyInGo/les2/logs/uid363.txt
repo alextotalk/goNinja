@@ -1,0 +1,6 @@
+ID: 363 | Email: comeUser363@gmail.com
+Activity Log:
+1. [logged in] at 2021-10-31 11:25:21.798150846 +0200 EET m=+3.725033797
+2. [delete record] at 2021-10-31 11:25:21.79815129 +0200 EET m=+3.725034214
+3. [delete record] at 2021-10-31 11:25:21.798151626 +0200 EET m=+3.725034521
+4. [create record] at 2021-10-31 11:25:21.798151849 +0200 EET m=+3.725034745

@@ -1,0 +1,6 @@
+ID: 726 | Email: comeUser726@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-31 11:25:25.537577844 +0200 EET m=+7.464460936
+2. [delete record] at 2021-10-31 11:25:25.537578586 +0200 EET m=+7.464461494
+. [logged out] at 2021-10-28 20:57:55.113034301 +0300 EEST m=+7.453317082
+4. [create record] at 2021-10-28 20:57:55.113034532 +0300 EEST m=+7.453317317

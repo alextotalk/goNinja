@@ -1,0 +1,7 @@
+ID: 209 | Email: comeUser209@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-31 11:25:20.213825716 +0200 EET m=+2.140708624
+2. [logged out] at 2021-10-31 11:25:20.21382604 +0200 EET m=+2.140708926
+7
+3. [logged out] at 2021-10-28 20:56:57.118202061 +0300 EEST m=+2.130162102
+4. [create record] at 2021-10-28 20:56:57.118202216 +0300 EEST m=+2.130162252

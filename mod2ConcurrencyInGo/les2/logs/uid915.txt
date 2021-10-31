@@ -1,0 +1,5 @@
+ID: 915 | Email: comeUser915@gmail.com
+Activity Log:
+1. [create record] at 2021-10-28 20:57:57.05930538 +0300 EEST m=+9.399588296
+2. [logged in] at 2021-10-28 20:57:57.059305981 +0300 EEST m=+9.399588777
+3. [logged out] at 2021-10-28 20:57:57.05930637 +0300 EEST m=+9.399589165

@@ -1,0 +1,6 @@
+ID: 331 | Email: comeUser331@gmail.com
+Activity Log:
+1. [create record] at 2021-10-28 20:57:51.048457866 +0300 EEST m=+3.388740665
+2. [logged in] at 2021-10-28 20:57:51.048458225 +0300 EEST m=+3.388741012
+3. [delete record] at 2021-10-28 20:57:51.048458488 +0300 EEST m=+3.388741271
+4. [logged out] at 2021-10-28 20:57:51.048458702 +0300 EEST m=+3.388741487

@@ -1,0 +1,5 @@
+ID: 797 | Email: comeUser797@gmail.com
+Activity Log:
+1. [logged in] at 2021-10-31 11:25:26.267596882 +0200 EET m=+8.194479782
+2. [create record] at 2021-10-31 11:25:26.267597296 +0200 EET m=+8.194480183
+3. [delete record] at 2021-10-31 11:25:26.26759764 +0200 EET m=+8.194480525

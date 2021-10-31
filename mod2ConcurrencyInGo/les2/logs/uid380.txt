@@ -1,0 +1,5 @@
+ID: 380 | Email: comeUser380@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-31 11:25:21.978108868 +0200 EET m=+3.904991765
+2. [delete record] at 2021-10-31 11:25:21.978109197 +0200 EET m=+3.904992076
+3. [create record] at 2021-10-31 11:25:21.978109375 +0200 EET m=+3.904992260

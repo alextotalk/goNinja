@@ -1,0 +1,4 @@
+ID: 347 | Email: comeUser347@gmail.com
+Activity Log:
+1. [create record] at 2021-10-28 20:57:51.21295326 +0300 EEST m=+3.553236116
+2. [create record] at 2021-10-28 20:57:51.21295383 +0300 EEST m=+3.553236656

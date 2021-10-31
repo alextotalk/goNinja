@@ -1,0 +1,7 @@
+ID: 744 | Email: comeUser744@gmail.com
+Activity Log:
+1. [create record] at 2021-10-31 11:25:25.722217213 +0200 EET m=+7.649100201
+
+2. [delete record] at 2021-10-28 20:57:55.298287549 +0300 EEST m=+7.638570366
+3. [create record] at 2021-10-28 20:57:55.29828786 +0300 EEST m=+7.638570677
+4. [logged out] at 2021-10-28 20:57:55.298288505 +0300 EEST m=+7.638571321

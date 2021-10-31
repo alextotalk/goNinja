@@ -1,0 +1,4 @@
+ID: 987 | Email: comeUser987@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-28 20:57:57.802129047 +0300 EEST m=+10.142411942
+2. [create record] at 2021-10-28 20:57:57.802129652 +0300 EEST m=+10.142412472

@@ -1,0 +1,5 @@
+ID: 17 | Email: comeUser17@gmail.com
+Activity Log:
+1. [logged out] at 2021-10-28 20:57:47.822604167 +0300 EEST m=+0.162886939
+2. [create record] at 2021-10-28 20:57:47.822604401 +0300 EEST m=+0.162887172
+. [logged out] at 2021-10-28 20:56:55.151694967 +0300 EEST m=+0.163655026

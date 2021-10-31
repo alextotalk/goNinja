@@ -1,0 +1,5 @@
+ID: 335 | Email: comeUser335@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-31 11:25:21.509711993 +0200 EET m=+3.436594894
+
+2. [delete record] at 2021-10-28 20:56:58.412408812 +0300 EEST m=+3.424368874

@@ -1,0 +1,6 @@
+ID: 738 | Email: comeUser738@gmail.com
+Activity Log:
+1. [create record] at 2021-10-28 20:57:55.23638184 +0300 EEST m=+7.576664669
+2. [create record] at 2021-10-28 20:57:55.23638241 +0300 EEST m=+7.576665233
+3. [logged out] at 2021-10-28 20:57:55.236382707 +0300 EEST m=+7.576665516
+4. [delete record] at 2021-10-28 20:57:55.236383091 +0300 EEST m=+7.576665894

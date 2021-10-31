@@ -1,0 +1,4 @@
+ID: 851 | Email: comeUser851@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-28 20:57:56.398577431 +0300 EEST m=+8.738860242
+2. [logged in] at 2021-10-28 20:57:56.398577726 +0300 EEST m=+8.738860505

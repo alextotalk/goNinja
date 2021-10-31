@@ -1,0 +1,6 @@
+ID: 799 | Email: comeUser799@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-28 20:57:55.863438689 +0300 EEST m=+8.203721474
+2. [logged out] at 2021-10-28 20:57:55.863438973 +0300 EEST m=+8.203721758
+3. [logged in] at 2021-10-28 20:57:55.863439238 +0300 EEST m=+8.203722015
+4. [logged out] at 2021-10-28 20:57:55.863439365 +0300 EEST m=+8.203722137

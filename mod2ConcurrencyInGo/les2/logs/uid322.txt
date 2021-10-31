@@ -1,0 +1,7 @@
+ID: 322 | Email: comeUser322@gmail.com
+Activity Log:
+1. [create record] at 2021-10-31 11:25:21.376122446 +0200 EET m=+3.303005386
+2. [logged out] at 2021-10-31 11:25:21.376122946 +0200 EET m=+3.303005848
+3. [logged in] at 2021-10-31 11:25:21.376123344 +0200 EET m=+3.303006242
+755
+16

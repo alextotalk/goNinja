@@ -1,0 +1,5 @@
+ID: 100 | Email: comeUser100@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-31 11:25:19.092169735 +0200 EET m=+1.019052696
+2. [logged out] at 2021-10-31 11:25:19.092170404 +0200 EET m=+1.019053304
+6

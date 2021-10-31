@@ -1,0 +1,6 @@
+ID: 702 | Email: comeUser702@gmail.com
+Activity Log:
+1. [create record] at 2021-10-31 11:25:25.290046477 +0200 EET m=+7.216929401
+2. [logged in] at 2021-10-31 11:25:25.290047361 +0200 EET m=+7.216930283
+
+3. [create record] at 2021-10-28 20:57:54.8671 +0300 EEST m=+7.207382819

@@ -1,0 +1,6 @@
+ID: 747 | Email: comeUser747@gmail.com
+Activity Log:
+1. [logged out] at 2021-10-31 11:25:25.753137052 +0200 EET m=+7.680020044
+2. [delete record] at 2021-10-31 11:25:25.753137576 +0200 EET m=+7.680020494
+3. [delete record] at 2021-10-31 11:25:25.753137894 +0200 EET m=+7.680020797
+4. [delete record] at 2021-10-31 11:25:25.753138157 +0200 EET m=+7.680021053

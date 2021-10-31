@@ -1,0 +1,5 @@
+ID: 632 | Email: comeUser632@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-31 11:25:24.570826617 +0200 EET m=+6.497709558
+2. [delete record] at 2021-10-31 11:25:24.570827033 +0200 EET m=+6.497709948
+3. [logged out] at 2021-10-31 11:25:24.570827333 +0200 EET m=+6.497710252

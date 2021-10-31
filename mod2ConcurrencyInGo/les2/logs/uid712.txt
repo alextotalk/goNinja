@@ -1,0 +1,6 @@
+ID: 712 | Email: comeUser712@gmail.com
+Activity Log:
+1. [create record] at 2021-10-31 11:25:25.393194378 +0200 EET m=+7.320077372
+
+2. [logged out] at 2021-10-28 20:57:54.969577749 +0300 EEST m=+7.309860556
+3. [logged in] at 2021-10-28 20:57:54.969578134 +0300 EEST m=+7.309860920

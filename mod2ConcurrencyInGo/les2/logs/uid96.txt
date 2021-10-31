@@ -1,0 +1,6 @@
+ID: 96 | Email: comeUser96@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-31 11:25:19.051077165 +0200 EET m=+0.977960151
+[logged in] at 2021-10-28 20:57:48.632554313 +0300 EEST m=+0.972837161
+3. [logged out] at 2021-10-28 20:57:48.632554663 +0300 EEST m=+0.972837493
+4. [logged in] at 2021-10-28 20:57:48.632554987 +0300 EEST m=+0.972837818

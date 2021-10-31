@@ -1,0 +1,6 @@
+ID: 174 | Email: comeUser174@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-28 20:56:56.760116695 +0300 EEST m=+1.772076776
+2. [create record] at 2021-10-28 20:56:56.760117007 +0300 EEST m=+1.772077045
+3. [create record] at 2021-10-28 20:56:56.760117134 +0300 EEST m=+1.772077170
+4. [delete record] at 2021-10-28 20:56:56.760117241 +0300 EEST m=+1.772077277

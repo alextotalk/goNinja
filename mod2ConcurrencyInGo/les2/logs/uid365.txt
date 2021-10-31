@@ -1,0 +1,7 @@
+ID: 365 | Email: comeUser365@gmail.com
+Activity Log:
+1. [logged out] at 2021-10-31 11:25:21.824540388 +0200 EET m=+3.751423263
+017
+2. [logged in] at 2021-10-28 20:57:51.398323989 +0300 EEST m=+3.738606816
+3. [create record] at 2021-10-28 20:57:51.398324387 +0300 EEST m=+3.738607193
+4. [create record] at 2021-10-28 20:57:51.398324627 +0300 EEST m=+3.738607434

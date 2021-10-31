@@ -1,0 +1,5 @@
+ID: 519 | Email: comeUser519@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-31 11:25:23.407825423 +0200 EET m=+5.334708344
+2. [logged in] at 2021-10-31 11:25:23.407825832 +0200 EET m=+5.334708725
+. [logged out] at 2021-10-28 20:57:00.300287294 +0300 EEST m=+5.312247354

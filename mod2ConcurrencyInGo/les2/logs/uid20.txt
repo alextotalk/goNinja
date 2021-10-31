@@ -1,0 +1,5 @@
+ID: 20 | Email: comeUser20@gmail.com
+Activity Log:
+1. [create record] at 2021-10-31 11:25:18.267790815 +0200 EET m=+0.194673758
+2. [delete record] at 2021-10-31 11:25:18.267791296 +0200 EET m=+0.194674194
+3. [delete record] at 2021-10-31 11:25:18.267791601 +0200 EET m=+0.194674506

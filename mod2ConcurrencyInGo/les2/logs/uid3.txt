@@ -1,0 +1,6 @@
+ID: 3 | Email: comeUser3@gmail.com
+Activity Log:
+1. [logged out] at 2021-10-31 11:25:18.093593774 +0200 EET m=+0.020476649
+2. [logged in] at 2021-10-31 11:25:18.093593976 +0200 EET m=+0.020476844
+3. [delete record] at 2021-10-31 11:25:18.093594078 +0200 EET m=+0.020476947
+4. [delete record] at 2021-10-31 11:25:18.093594258 +0200 EET m=+0.020477125

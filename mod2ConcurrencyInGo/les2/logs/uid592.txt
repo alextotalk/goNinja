@@ -1,0 +1,5 @@
+ID: 592 | Email: comeUser592@gmail.com
+Activity Log:
+1. [logged in] at 2021-10-31 11:25:24.159001885 +0200 EET m=+6.085884777
+2. [logged in] at 2021-10-31 11:25:24.159002199 +0200 EET m=+6.085885059
+3. [delete record] at 2021-10-31 11:25:24.159002294 +0200 EET m=+6.085885157

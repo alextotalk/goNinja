@@ -1,0 +1,4 @@
+ID: 948 | Email: comeUser948@gmail.com
+Activity Log:
+1. [logged out] at 2021-10-28 20:57:57.399822885 +0300 EEST m=+9.740105732
+2. [create record] at 2021-10-28 20:57:04.707393236 +0300 EEST m=+9.719353274

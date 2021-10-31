@@ -1,0 +1,6 @@
+ID: 379 | Email: comeUser379@gmail.com
+Activity Log:
+1. [logged out] at 2021-10-31 11:25:21.967928366 +0200 EET m=+3.894811263
+2. [delete record] at 2021-10-31 11:25:21.967928655 +0200 EET m=+3.894811526
+
+[create record] at 2021-10-28 20:56:58.863895069 +0300 EEST m=+3.875855137

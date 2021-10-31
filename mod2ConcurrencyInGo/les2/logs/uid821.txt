@@ -1,0 +1,5 @@
+ID: 821 | Email: comeUser821@gmail.com
+Activity Log:
+1. [logged out] at 2021-10-28 20:57:03.39753552 +0300 EEST m=+8.409495574
+2. [create record] at 2021-10-28 20:57:03.397535773 +0300 EEST m=+8.409495822
+3. [delete record] at 2021-10-28 20:57:03.397535988 +0300 EEST m=+8.409496027

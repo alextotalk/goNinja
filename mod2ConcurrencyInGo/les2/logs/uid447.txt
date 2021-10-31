@@ -1,0 +1,6 @@
+ID: 447 | Email: comeUser447@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-31 11:25:22.667366439 +0200 EET m=+4.594249358
+2. [logged in] at 2021-10-31 11:25:22.667366819 +0200 EET m=+4.594249713
+3. [delete record] at 2021-10-31 11:25:22.667367064 +0200 EET m=+4.594249947
+4. [delete record] at 2021-10-31 11:25:22.667376536 +0200 EET m=+4.594259419

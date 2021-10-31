@@ -1,0 +1,6 @@
+ID: 388 | Email: comeUser388@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-28 20:56:58.956159113 +0300 EEST m=+3.968119252
+2. [delete record] at 2021-10-28 20:56:58.956159559 +0300 EEST m=+3.968119635
+3. [logged out] at 2021-10-28 20:56:58.956159777 +0300 EEST m=+3.968119838
+4. [logged out] at 2021-10-28 20:56:58.956160065 +0300 EEST m=+3.968120121

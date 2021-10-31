@@ -1,0 +1,5 @@
+ID: 913 | Email: comeUser913@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-28 20:57:57.038666519 +0300 EEST m=+9.378949383
+2. [logged out] at 2021-10-28 20:57:04.336931418 +0300 EEST m=+9.348891456
+3. [create record] at 2021-10-28 20:57:04.336931571 +0300 EEST m=+9.348891600

@@ -1,0 +1,4 @@
+ID: 425 | Email: comeUser425@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-28 20:56:59.33569681 +0300 EEST m=+4.347656903
+2. [logged in] at 2021-10-28 20:56:59.335697127 +0300 EEST m=+4.347657178

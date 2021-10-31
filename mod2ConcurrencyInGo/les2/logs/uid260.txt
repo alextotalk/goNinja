@@ -1,0 +1,5 @@
+ID: 260 | Email: comeUser260@gmail.com
+Activity Log:
+1. [logged out] at 2021-10-28 20:57:50.319501382 +0300 EEST m=+2.659784153
+2. [delete record] at 2021-10-28 20:57:50.319501572 +0300 EEST m=+2.659784339
+3. [logged in] at 2021-10-28 20:57:50.319501729 +0300 EEST m=+2.659784490

@@ -1,0 +1,5 @@
+ID: 820 | Email: comeUser820@gmail.com
+Activity Log:
+1. [logged in] at 2021-10-28 20:57:56.079378106 +0300 EEST m=+8.419660927
+2. [delete record] at 2021-10-28 20:57:56.079378525 +0300 EEST m=+8.419661337
+3. [create record] at 2021-10-28 20:57:56.079378918 +0300 EEST m=+8.419661706

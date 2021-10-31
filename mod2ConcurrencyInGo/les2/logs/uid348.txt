@@ -1,0 +1,4 @@
+ID: 348 | Email: comeUser348@gmail.com
+Activity Log:
+1. [create record] at 2021-10-31 11:25:21.643675154 +0200 EET m=+3.570558089
+2. [logged out] at 2021-10-31 11:25:21.643675582 +0200 EET m=+3.570558500

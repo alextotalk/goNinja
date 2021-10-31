@@ -1,0 +1,5 @@
+ID: 646 | Email: comeUser646@gmail.com
+Activity Log:
+1. [logged out] at 2021-10-31 11:25:24.714655921 +0200 EET m=+6.641538936
+2. [logged out] at 2021-10-31 11:25:24.714656559 +0200 EET m=+6.641539483
+3. [delete record] at 2021-10-31 11:25:24.714656949 +0200 EET m=+6.641539862

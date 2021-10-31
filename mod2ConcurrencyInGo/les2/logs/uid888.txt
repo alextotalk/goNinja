@@ -1,0 +1,5 @@
+ID: 888 | Email: comeUser888@gmail.com
+Activity Log:
+1. [logged in] at 2021-10-28 20:57:56.780750082 +0300 EEST m=+9.121032943
+
+2. [create record] at 2021-10-28 20:57:04.082260716 +0300 EEST m=+9.094220749

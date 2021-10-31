@@ -1,0 +1,5 @@
+ID: 300 | Email: comeUser300@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-31 11:25:21.14977259 +0200 EET m=+3.076655583
+2. [delete record] at 2021-10-31 11:25:21.149773196 +0200 EET m=+3.076656112
+create record] at 2021-10-28 20:56:58.052781433 +0300 EEST m=+3.064741473

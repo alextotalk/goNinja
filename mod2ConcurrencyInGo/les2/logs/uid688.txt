@@ -1,0 +1,6 @@
+ID: 688 | Email: comeUser688@gmail.com
+Activity Log:
+1. [logged in] at 2021-10-31 11:25:25.14569322 +0200 EET m=+7.072576164
+2. [logged out] at 2021-10-31 11:25:25.145693595 +0200 EET m=+7.072576473
+3. [delete record] at 2021-10-31 11:25:25.14569375 +0200 EET m=+7.072576625
+4. [create record] at 2021-10-31 11:25:25.145694016 +0200 EET m=+7.072576894

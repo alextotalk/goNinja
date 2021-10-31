@@ -1,0 +1,6 @@
+ID: 550 | Email: comeUser550@gmail.com
+Activity Log:
+1. [create record] at 2021-10-28 20:57:53.305001329 +0300 EEST m=+5.645284145
+2. [create record] at 2021-10-28 20:57:53.305001707 +0300 EEST m=+5.645284493
+3. [create record] at 2021-10-28 20:57:53.305001956 +0300 EEST m=+5.645284739
+4. [logged out] at 2021-10-28 20:57:53.305002938 +0300 EEST m=+5.645285713

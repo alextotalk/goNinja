@@ -1,0 +1,6 @@
+ID: 109 | Email: comeUser109@gmail.com
+Activity Log:
+1. [create record] at 2021-10-31 11:25:19.184827997 +0200 EET m=+1.111710921
+2. [delete record] at 2021-10-31 11:25:19.184828356 +0200 EET m=+1.111711242
+3. [delete record] at 2021-10-31 11:25:19.184828603 +0200 EET m=+1.111711492
+create record] at 2021-10-28 20:57:48.766014383 +0300 EEST m=+1.106297198

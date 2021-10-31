@@ -1,0 +1,5 @@
+ID: 986 | Email: comeUser986@gmail.com
+Activity Log:
+1. [create record] at 2021-10-28 20:57:57.791875459 +0300 EEST m=+10.132158319
+2. [delete record] at 2021-10-28 20:57:57.791875967 +0300 EEST m=+10.132158754
+3. [delete record] at 2021-10-28 20:57:57.791876177 +0300 EEST m=+10.132158964

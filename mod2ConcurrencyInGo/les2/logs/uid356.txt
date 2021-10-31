@@ -1,0 +1,6 @@
+ID: 356 | Email: comeUser356@gmail.com
+Activity Log:
+1. [create record] at 2021-10-31 11:25:21.726205437 +0200 EET m=+3.653088625
+2. [delete record] at 2021-10-31 11:25:21.726206821 +0200 EET m=+3.653089712
+3. [create record] at 2021-10-31 11:25:21.726207171 +0200 EET m=+3.653090073
+eate record] at 2021-10-28 20:56:58.62764412 +0300 EEST m=+3.639604173

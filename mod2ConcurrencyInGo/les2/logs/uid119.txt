@@ -1,0 +1,6 @@
+ID: 119 | Email: comeUser119@gmail.com
+Activity Log:
+1. [create record] at 2021-10-31 11:25:19.287588472 +0200 EET m=+1.214471439
+ [create record] at 2021-10-28 20:57:48.8690743 +0300 EEST m=+1.209357106
+3. [logged out] at 2021-10-28 20:57:48.869074588 +0300 EEST m=+1.209357381
+4. [logged in] at 2021-10-28 20:57:48.869074892 +0300 EEST m=+1.209357675

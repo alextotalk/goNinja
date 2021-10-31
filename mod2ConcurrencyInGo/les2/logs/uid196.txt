@@ -1,0 +1,6 @@
+ID: 196 | Email: comeUser196@gmail.com
+Activity Log:
+1. [logged out] at 2021-10-28 20:57:49.661200132 +0300 EEST m=+2.001482991
+2. [logged out] at 2021-10-28 20:57:49.661200646 +0300 EEST m=+2.001483450
+3. [delete record] at 2021-10-28 20:57:49.661200926 +0300 EEST m=+2.001483727
+4. [logged in] at 2021-10-28 20:57:49.661201264 +0300 EEST m=+2.001484067

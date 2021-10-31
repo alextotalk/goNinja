@@ -1,0 +1,6 @@
+ID: 201 | Email: comeUser201@gmail.com
+Activity Log:
+1. [create record] at 2021-10-31 11:25:20.131533331 +0200 EET m=+2.058416207
+2. [create record] at 2021-10-31 11:25:20.131533558 +0200 EET m=+2.058416432
+3. [create record] at 2021-10-31 11:25:20.131533661 +0200 EET m=+2.058416523
+4. [logged in] at 2021-10-31 11:25:20.131533771 +0200 EET m=+2.058416634

@@ -1,0 +1,5 @@
+ID: 995 | Email: comeUser995@gmail.com
+Activity Log:
+1. [logged in] at 2021-10-28 20:57:57.884214079 +0300 EEST m=+10.224496925
+2. [create record] at 2021-10-28 20:57:57.884214597 +0300 EEST m=+10.224497393
+3. [delete record] at 2021-10-28 20:57:57.884215041 +0300 EEST m=+10.224497854

@@ -1,0 +1,6 @@
+ID: 584 | Email: comeUser584@gmail.com
+Activity Log:
+1. [logged out] at 2021-10-31 11:25:24.077510514 +0200 EET m=+6.004393391
+2. [create record] at 2021-10-31 11:25:24.077510754 +0200 EET m=+6.004393613
+3. [delete record] at 2021-10-28 20:57:53.654236244 +0300 EEST m=+5.994519022
+4. [logged out] at 2021-10-28 20:57:53.654236411 +0300 EEST m=+5.994519189

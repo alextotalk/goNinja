@@ -1,0 +1,6 @@
+ID: 312 | Email: comeUser312@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-28 20:57:50.853810846 +0300 EEST m=+3.194093713
+2. [logged out] at 2021-10-28 20:57:50.853811648 +0300 EEST m=+3.194094479
+3. [create record] at 2021-10-28 20:57:50.853812053 +0300 EEST m=+3.194094884
+4. [logged out] at 2021-10-28 20:57:50.853812449 +0300 EEST m=+3.194095281

@@ -1,0 +1,6 @@
+ID: 674 | Email: comeUser674@gmail.com
+Activity Log:
+1. [logged in] at 2021-10-31 11:25:25.001630051 +0200 EET m=+6.928512986
+2. [create record] at 2021-10-31 11:25:25.001630438 +0200 EET m=+6.928513325
+3. [delete record] at 2021-10-31 11:25:25.001630674 +0200 EET m=+6.928513559
+4. [delete record] at 2021-10-31 11:25:25.001630868 +0200 EET m=+6.928513752

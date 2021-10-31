@@ -1,0 +1,4 @@
+ID: 870 | Email: comeUser870@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-28 20:57:56.594853049 +0300 EEST m=+8.935135911
+2. [create record] at 2021-10-28 20:57:03.898648895 +0300 EEST m=+8.910608946

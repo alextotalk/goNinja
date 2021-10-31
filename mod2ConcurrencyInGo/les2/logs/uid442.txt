@@ -1,0 +1,5 @@
+ID: 442 | Email: comeUser442@gmail.com
+Activity Log:
+1. [create record] at 2021-10-31 11:25:22.615664655 +0200 EET m=+4.542547553
+2. [logged out] at 2021-10-31 11:25:22.615664985 +0200 EET m=+4.542547882
+

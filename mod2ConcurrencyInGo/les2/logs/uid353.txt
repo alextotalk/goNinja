@@ -1,0 +1,5 @@
+ID: 353 | Email: comeUser353@gmail.com
+Activity Log:
+1. [logged in] at 2021-10-28 20:56:58.596951496 +0300 EEST m=+3.608911571
+2. [create record] at 2021-10-28 20:56:58.596951832 +0300 EEST m=+3.608911881
+3. [logged out] at 2021-10-28 20:56:58.596952118 +0300 EEST m=+3.608912165

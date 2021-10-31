@@ -1,0 +1,7 @@
+ID: 696 | Email: comeUser696@gmail.com
+Activity Log:
+1. [logged in] at 2021-10-31 11:25:25.228149015 +0200 EET m=+7.155031964
+2. [create record] at 2021-10-31 11:25:25.22814956 +0200 EET m=+7.155032465
+215
+3. [logged out] at 2021-10-28 20:57:02.117808345 +0300 EEST m=+7.129768379
+4. [create record] at 2021-10-28 20:57:02.117808499 +0300 EEST m=+7.129768525

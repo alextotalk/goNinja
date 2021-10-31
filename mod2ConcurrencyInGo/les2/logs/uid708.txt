@@ -1,0 +1,4 @@
+ID: 708 | Email: comeUser708@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-28 20:57:54.928646597 +0300 EEST m=+7.268929423
+delete record] at 2021-10-28 20:57:02.239816043 +0300 EEST m=+7.251776082

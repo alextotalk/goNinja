@@ -1,0 +1,6 @@
+ID: 833 | Email: comeUser833@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-28 20:57:56.213386999 +0300 EEST m=+8.553669806
+2. [create record] at 2021-10-28 20:57:56.213387461 +0300 EEST m=+8.553682991
+3. [logged out] at 2021-10-28 20:57:56.213400654 +0300 EEST m=+8.553683464
+. [delete record] at 2021-10-28 20:57:03.520343847 +0300 EEST m=+8.532303904

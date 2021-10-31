@@ -1,0 +1,6 @@
+ID: 458 | Email: comeUser458@gmail.com
+Activity Log:
+1. [logged in] at 2021-10-31 11:25:22.780428918 +0200 EET m=+4.707311860
+5897
+2. [logged out] at 2021-10-28 20:56:59.674241354 +0300 EEST m=+4.686201389
+3. [delete record] at 2021-10-28 20:56:59.674241548 +0300 EEST m=+4.686201586

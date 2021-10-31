@@ -1,0 +1,7 @@
+ID: 40 | Email: comeUser40@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-31 11:25:18.472533602 +0200 EET m=+0.399416499
+2. [delete record] at 2021-10-31 11:25:18.472533916 +0200 EET m=+0.399416778
+3
+elete record] at 2021-10-28 20:56:55.387441162 +0300 EEST m=+0.399401213
+4. [logged out] at 2021-10-28 20:56:55.387441308 +0300 EEST m=+0.399401359

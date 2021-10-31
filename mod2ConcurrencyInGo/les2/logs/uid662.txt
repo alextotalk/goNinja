@@ -1,0 +1,5 @@
+ID: 662 | Email: comeUser662@gmail.com
+Activity Log:
+1. [logged in] at 2021-10-31 11:25:24.878722755 +0200 EET m=+6.805605744
+0310
+2. [create record] at 2021-10-28 20:57:54.456497803 +0300 EEST m=+6.796780588

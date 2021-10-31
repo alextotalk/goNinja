@@ -1,0 +1,6 @@
+ID: 792 | Email: comeUser792@gmail.com
+Activity Log:
+1. [create record] at 2021-10-31 11:25:26.216474379 +0200 EET m=+8.143357273
+2. [create record] at 2021-10-31 11:25:26.216474614 +0200 EET m=+8.143357473
+3. [logged out] at 2021-10-31 11:25:26.216474782 +0200 EET m=+8.143357643
+4. [delete record] at 2021-10-31 11:25:26.216474948 +0200 EET m=+8.143357809

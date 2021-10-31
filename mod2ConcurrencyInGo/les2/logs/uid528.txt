@@ -1,0 +1,6 @@
+ID: 528 | Email: comeUser528@gmail.com
+Activity Log:
+1. [create record] at 2021-10-31 11:25:23.500671072 +0200 EET m=+5.427554011
+2. [logged out] at 2021-10-31 11:25:23.500671553 +0200 EET m=+5.427554452
+
+3. [delete record] at 2021-10-28 20:57:53.078690833 +0300 EEST m=+5.418973625

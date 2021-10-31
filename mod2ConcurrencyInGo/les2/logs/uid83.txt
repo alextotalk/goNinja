@@ -1,0 +1,7 @@
+ID: 83 | Email: comeUser83@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-31 11:25:18.917423688 +0200 EET m=+0.844306582
+2. [logged in] at 2021-10-31 11:25:18.917424001 +0200 EET m=+0.844306890
+3. [delete record] at 2021-10-31 11:25:18.917424274 +0200 EET m=+0.844307150
+4. [delete record] at 2021-10-31 11:25:18.917424495 +0200 EET m=+0.844307371
+0124431

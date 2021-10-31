@@ -1,0 +1,6 @@
+ID: 668 | Email: comeUser668@gmail.com
+Activity Log:
+1. [logged in] at 2021-10-28 20:57:54.518156864 +0300 EEST m=+6.858439657
+
+2. [create record] at 2021-10-28 20:57:01.831943313 +0300 EEST m=+6.843903376
+3. [logged out] at 2021-10-28 20:57:01.831943566 +0300 EEST m=+6.843903625

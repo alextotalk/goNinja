@@ -1,0 +1,6 @@
+ID: 468 | Email: comeUser468@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-31 11:25:22.883135488 +0200 EET m=+4.810018401
+2. [delete record] at 2021-10-31 11:25:22.883135762 +0200 EET m=+4.810018630
+3. [logged in] at 2021-10-31 11:25:22.883135929 +0200 EET m=+4.810018795
+68

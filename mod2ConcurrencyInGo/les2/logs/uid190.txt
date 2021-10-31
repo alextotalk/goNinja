@@ -1,0 +1,5 @@
+ID: 190 | Email: comeUser190@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-28 20:57:49.599382598 +0300 EEST m=+1.939665392
+2. [logged out] at 2021-10-28 20:57:49.599382902 +0300 EEST m=+1.939665689
+3. [logged out] at 2021-10-28 20:57:49.599383155 +0300 EEST m=+1.939665942

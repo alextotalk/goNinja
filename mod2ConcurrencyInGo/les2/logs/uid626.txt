@@ -1,0 +1,5 @@
+ID: 626 | Email: comeUser626@gmail.com
+Activity Log:
+1. [create record] at 2021-10-28 20:57:54.086389625 +0300 EEST m=+6.426672454
+2. [delete record] at 2021-10-28 20:57:01.40171221 +0300 EEST m=+6.413672504
+3. [create record] at 2021-10-28 20:57:01.40171336 +0300 EEST m=+6.413673416

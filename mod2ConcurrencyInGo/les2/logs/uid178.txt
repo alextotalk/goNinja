@@ -1,0 +1,5 @@
+ID: 178 | Email: comeUser178@gmail.com
+Activity Log:
+1. [logged out] at 2021-10-31 11:25:19.895155875 +0200 EET m=+1.822038783
+400
+2. [delete record] at 2021-10-28 20:56:56.801067888 +0300 EEST m=+1.813027942

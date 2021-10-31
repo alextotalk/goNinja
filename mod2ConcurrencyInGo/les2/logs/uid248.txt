@@ -1,0 +1,6 @@
+ID: 248 | Email: comeUser248@gmail.com
+Activity Log:
+1. [logged in] at 2021-10-31 11:25:20.614860504 +0200 EET m=+2.541743419
+9013
+2. [delete record] at 2021-10-28 20:57:50.196006454 +0300 EEST m=+2.536289215
+3. [create record] at 2021-10-28 20:57:50.196006555 +0300 EEST m=+2.536289321

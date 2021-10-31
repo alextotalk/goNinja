@@ -1,0 +1,7 @@
+ID: 44 | Email: comeUser44@gmail.com
+Activity Log:
+1. [create record] at 2021-10-31 11:25:18.513377609 +0200 EET m=+0.440260538
+2. [logged in] at 2021-10-31 11:25:18.513378026 +0200 EET m=+0.440260925
+0
+3. [logged out] at 2021-10-28 20:56:55.428492898 +0300 EEST m=+0.440452932
+4. [create record] at 2021-10-28 20:56:55.428493062 +0300 EEST m=+0.440453097

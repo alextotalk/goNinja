@@ -1,0 +1,5 @@
+ID: 611 | Email: comeUser611@gmail.com
+Activity Log:
+1. [logged in] at 2021-10-31 11:25:24.354447249 +0200 EET m=+6.281330174
+2. [create record] at 2021-10-31 11:25:24.354447593 +0200 EET m=+6.281330460
+3. [delete record] at 2021-10-31 11:25:24.354448044 +0200 EET m=+6.281330925

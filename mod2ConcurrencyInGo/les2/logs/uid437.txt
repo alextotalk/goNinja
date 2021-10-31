@@ -1,0 +1,5 @@
+ID: 437 | Email: comeUser437@gmail.com
+Activity Log:
+1. [create record] at 2021-10-31 11:25:22.564220826 +0200 EET m=+4.491103754
+2. [logged in] at 2021-10-31 11:25:22.564221351 +0200 EET m=+4.491104248
+3. [delete record] at 2021-10-31 11:25:22.564221692 +0200 EET m=+4.491104593

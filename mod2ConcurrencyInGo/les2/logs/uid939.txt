@@ -1,0 +1,5 @@
+ID: 939 | Email: comeUser939@gmail.com
+Activity Log:
+1. [logged out] at 2021-10-28 20:57:57.307202631 +0300 EEST m=+9.647485466
+2. [delete record] at 2021-10-28 20:57:57.307202986 +0300 EEST m=+9.647485762
+3. [logged in] at 2021-10-28 20:57:57.307203204 +0300 EEST m=+9.647485977

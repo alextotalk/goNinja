@@ -1,0 +1,6 @@
+ID: 141 | Email: comeUser141@gmail.com
+Activity Log:
+1. [create record] at 2021-10-31 11:25:19.514046841 +0200 EET m=+1.440929825
+
+2. [logged out] at 2021-10-28 20:57:49.095403786 +0300 EEST m=+1.435686580
+. [logged out] at 2021-10-28 20:56:56.421904029 +0300 EEST m=+1.433864082

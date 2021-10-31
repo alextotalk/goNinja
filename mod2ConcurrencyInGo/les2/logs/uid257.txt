@@ -1,0 +1,4 @@
+ID: 257 | Email: comeUser257@gmail.com
+Activity Log:
+1. [logged out] at 2021-10-31 11:25:20.707338327 +0200 EET m=+2.634221240
+2. [create record] at 2021-10-31 11:25:20.707338656 +0200 EET m=+2.634221535

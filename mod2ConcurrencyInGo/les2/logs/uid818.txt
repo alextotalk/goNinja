@@ -1,0 +1,6 @@
+ID: 818 | Email: comeUser818@gmail.com
+Activity Log:
+1. [create record] at 2021-10-28 20:57:56.058746837 +0300 EEST m=+8.399029720
+2. [logged in] at 2021-10-28 20:57:56.058747475 +0300 EEST m=+8.399030314
+3. [create record] at 2021-10-28 20:57:56.058748019 +0300 EEST m=+8.399030835
+4. [delete record] at 2021-10-28 20:57:56.058748326 +0300 EEST m=+8.399031126

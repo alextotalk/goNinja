@@ -1,0 +1,6 @@
+ID: 417 | Email: comeUser417@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-28 20:57:51.931820483 +0300 EEST m=+4.272103274
+2. [create record] at 2021-10-28 20:57:51.931820741 +0300 EEST m=+4.272103521
+3. [logged out] at 2021-10-28 20:57:51.931820872 +0300 EEST m=+4.272103646
+4. [logged out] at 2021-10-28 20:57:51.931821109 +0300 EEST m=+4.272103890

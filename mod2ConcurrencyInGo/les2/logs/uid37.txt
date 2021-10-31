@@ -1,0 +1,4 @@
+ID: 37 | Email: comeUser37@gmail.com
+Activity Log:
+1. [create record] at 2021-10-31 11:25:18.44142439 +0200 EET m=+0.368307266
+2. [logged out] at 2021-10-31 11:25:18.44142462 +0200 EET m=+0.368307484

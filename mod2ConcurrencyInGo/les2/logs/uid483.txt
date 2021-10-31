@@ -1,0 +1,6 @@
+ID: 483 | Email: comeUser483@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-31 11:25:23.037321537 +0200 EET m=+4.964204437
+
+2. [logged out] at 2021-10-28 20:57:52.615029985 +0300 EEST m=+4.955312759
+39

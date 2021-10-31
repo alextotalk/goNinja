@@ -1,0 +1,7 @@
+ID: 753 | Email: comeUser753@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-31 11:25:25.815099788 +0200 EET m=+7.741982750
+2. [create record] at 2021-10-31 11:25:25.815100297 +0200 EET m=+7.741983215
+3. [delete record] at 2021-10-31 11:25:25.815100583 +0200 EET m=+7.741983482
+4. [logged in] at 2021-10-31 11:25:25.815100845 +0200 EET m=+7.741983748
+555

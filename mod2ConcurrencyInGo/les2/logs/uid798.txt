@@ -1,0 +1,5 @@
+ID: 798 | Email: comeUser798@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-28 20:57:55.853258592 +0300 EEST m=+8.193541385
+2. [create record] at 2021-10-28 20:57:03.161762033 +0300 EEST m=+8.173722071
+3. [logged out] at 2021-10-28 20:57:03.161762168 +0300 EEST m=+8.173722206

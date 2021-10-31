@@ -1,0 +1,6 @@
+ID: 124 | Email: comeUser124@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-31 11:25:19.339090696 +0200 EET m=+1.265973637
+2. [create record] at 2021-10-31 11:25:19.339091184 +0200 EET m=+1.265974095
+3. [create record] at 2021-10-31 11:25:19.339091447 +0200 EET m=+1.265974365
+4. [create record] at 2021-10-31 11:25:19.339091708 +0200 EET m=+1.265974612

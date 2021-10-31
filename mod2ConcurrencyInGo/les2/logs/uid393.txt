@@ -1,0 +1,7 @@
+ID: 393 | Email: comeUser393@gmail.com
+Activity Log:
+1. [logged in] at 2021-10-31 11:25:22.111722455 +0200 EET m=+4.038605393
+8543
+2. [create record] at 2021-10-28 20:56:59.007408755 +0300 EEST m=+4.019368791
+3. [logged out] at 2021-10-28 20:56:59.007408867 +0300 EEST m=+4.019368905
+4. [create record] at 2021-10-28 20:56:59.007409072 +0300 EEST m=+4.019369110

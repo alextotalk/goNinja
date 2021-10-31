@@ -1,0 +1,5 @@
+ID: 232 | Email: comeUser232@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-28 20:57:50.031418633 +0300 EEST m=+2.371701487
+2. [delete record] at 2021-10-28 20:57:50.031419055 +0300 EEST m=+2.371701860
+3. [create record] at 2021-10-28 20:57:50.031419296 +0300 EEST m=+2.371702083

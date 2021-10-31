@@ -1,0 +1,7 @@
+ID: 46 | Email: comeUser46@gmail.com
+Activity Log:
+1. [logged in] at 2021-10-31 11:25:18.533920685 +0200 EET m=+0.460803590
+2. [create record] at 2021-10-31 11:25:18.533921107 +0200 EET m=+0.460804005
+3. [delete record] at 2021-10-31 11:25:18.533921493 +0200 EET m=+0.460804374
+491760
+4. [delete record] at 2021-10-28 20:57:48.119209103 +0300 EEST m=+0.459491874

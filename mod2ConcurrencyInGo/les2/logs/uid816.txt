@@ -1,0 +1,5 @@
+ID: 816 | Email: comeUser816@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-28 20:57:56.038082628 +0300 EEST m=+8.378365464
+2. [logged in] at 2021-10-28 20:57:56.038082975 +0300 EEST m=+8.378365747
+3. [delete record] at 2021-10-28 20:57:56.038083222 +0300 EEST m=+8.378366001

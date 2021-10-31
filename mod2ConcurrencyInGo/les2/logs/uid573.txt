@@ -1,0 +1,6 @@
+ID: 573 | Email: comeUser573@gmail.com
+Activity Log:
+1. [logged out] at 2021-10-31 11:25:23.965142307 +0200 EET m=+5.892025203
+2. [delete record] at 2021-10-31 11:25:23.965142615 +0200 EET m=+5.892025503
+3. [create record] at 2021-10-31 11:25:23.965142881 +0200 EET m=+5.892025771
+4. [logged out] at 2021-10-31 11:25:23.965143063 +0200 EET m=+5.892025952

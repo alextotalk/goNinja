@@ -1,0 +1,4 @@
+ID: 677 | Email: comeUser677@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-31 11:25:25.032428897 +0200 EET m=+6.959311784
+

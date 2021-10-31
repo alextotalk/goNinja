@@ -1,0 +1,7 @@
+ID: 165 | Email: comeUser165@gmail.com
+Activity Log:
+1. [logged in] at 2021-10-31 11:25:19.761074381 +0200 EET m=+1.687957264
+2. [delete record] at 2021-10-31 11:25:19.761074634 +0200 EET m=+1.687957511
+11
+3. [create record] at 2021-10-28 20:56:56.667888992 +0300 EEST m=+1.679849055
+4. [delete record] at 2021-10-28 20:56:56.667889248 +0300 EEST m=+1.679849308

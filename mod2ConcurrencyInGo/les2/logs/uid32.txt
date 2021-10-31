@@ -1,0 +1,6 @@
+ID: 32 | Email: comeUser32@gmail.com
+Activity Log:
+1. [create record] at 2021-10-31 11:25:18.390457551 +0200 EET m=+0.317340445
+2. [create record] at 2021-10-31 11:25:18.390457999 +0200 EET m=+0.317340864
+3. [create record] at 2021-10-31 11:25:18.390458179 +0200 EET m=+0.317341044
+4. [logged in] at 2021-10-31 11:25:18.390458268 +0200 EET m=+0.317341131

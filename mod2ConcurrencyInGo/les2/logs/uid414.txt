@@ -1,0 +1,7 @@
+ID: 414 | Email: comeUser414@gmail.com
+Activity Log:
+1. [logged out] at 2021-10-31 11:25:22.328363749 +0200 EET m=+4.255246690
+483
+2. [delete record] at 2021-10-28 20:57:51.900958151 +0300 EEST m=+4.241240961
+3. [create record] at 2021-10-28 20:56:59.222841568 +0300 EEST m=+4.234801621
+4. [logged in] at 2021-10-28 20:56:59.222841708 +0300 EEST m=+4.234801760

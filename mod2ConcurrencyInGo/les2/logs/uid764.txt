@@ -1,0 +1,6 @@
+ID: 764 | Email: comeUser764@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-31 11:25:25.928106373 +0200 EET m=+7.854989320
+[logged out] at 2021-10-28 20:57:02.813426326 +0300 EEST m=+7.825386389
+3. [logged out] at 2021-10-28 20:57:02.813426579 +0300 EEST m=+7.825386635
+4. [logged in] at 2021-10-28 20:57:02.813426782 +0300 EEST m=+7.825386840

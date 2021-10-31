@@ -1,0 +1,7 @@
+ID: 930 | Email: comeUser930@gmail.com
+Activity Log:
+1. [logged in] at 2021-10-28 20:57:57.214288359 +0300 EEST m=+9.554571187
+2. [delete record] at 2021-10-28 20:57:57.214288813 +0300 EEST m=+9.554571608
+3. [logged out] at 2021-10-28 20:57:57.214289106 +0300 EEST m=+9.554571885
+4. [delete record] at 2021-10-28 20:57:57.214289264 +0300 EEST m=+9.554572043
+

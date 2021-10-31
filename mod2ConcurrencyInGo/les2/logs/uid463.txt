@@ -1,0 +1,4 @@
+ID: 463 | Email: comeUser463@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-31 11:25:22.831763853 +0200 EET m=+4.758646770
+2. [delete record] at 2021-10-31 11:25:22.831764242 +0200 EET m=+4.758647127

@@ -1,0 +1,4 @@
+ID: 195 | Email: comeUser195@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-31 11:25:20.06980914 +0200 EET m=+1.996692053
+4

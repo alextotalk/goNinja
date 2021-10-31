@@ -1,0 +1,4 @@
+ID: 392 | Email: comeUser392@gmail.com
+Activity Log:
+1. [create record] at 2021-10-31 11:25:22.101438143 +0200 EET m=+4.028321075
+2. [delete record] at 2021-10-31 11:25:22.101438584 +0200 EET m=+4.028321472

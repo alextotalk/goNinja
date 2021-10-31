@@ -1,0 +1,7 @@
+ID: 183 | Email: comeUser183@gmail.com
+Activity Log:
+1. [create record] at 2021-10-31 11:25:19.946385394 +0200 EET m=+1.873268295
+
+2. [logged out] at 2021-10-28 20:56:56.852350876 +0300 EEST m=+1.864310938
+3. [create record] at 2021-10-28 20:56:56.852351138 +0300 EEST m=+1.864311187
+4. [delete record] at 2021-10-28 20:56:56.852351278 +0300 EEST m=+1.864311341

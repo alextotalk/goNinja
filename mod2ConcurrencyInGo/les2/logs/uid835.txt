@@ -1,0 +1,5 @@
+ID: 835 | Email: comeUser835@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-28 20:57:56.23389055 +0300 EEST m=+8.574173369
+ [logged out] at 2021-10-28 20:57:03.540796062 +0300 EEST m=+8.552756105
+3. [logged in] at 2021-10-28 20:57:03.540796274 +0300 EEST m=+8.552756325

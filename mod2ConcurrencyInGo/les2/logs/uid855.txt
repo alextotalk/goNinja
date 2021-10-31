@@ -1,0 +1,5 @@
+ID: 855 | Email: comeUser855@gmail.com
+Activity Log:
+1. [create record] at 2021-10-28 20:57:56.440108284 +0300 EEST m=+8.780391481
+2. [logged out] at 2021-10-28 20:57:56.440109772 +0300 EEST m=+8.780392591
+3. [logged out] at 2021-10-28 20:57:56.440110193 +0300 EEST m=+8.780393020

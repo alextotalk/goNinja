@@ -1,0 +1,7 @@
+ID: 829 | Email: comeUser829@gmail.com
+Activity Log:
+1. [logged out] at 2021-10-28 20:57:56.172085895 +0300 EEST m=+8.512369023
+2. [logged out] at 2021-10-28 20:57:56.172086713 +0300 EEST m=+8.512369516
+3. [create record] at 2021-10-28 20:57:56.17208711 +0300 EEST m=+8.512369921
+4. [logged in] at 2021-10-28 20:57:56.172087883 +0300 EEST m=+8.512370695
+11

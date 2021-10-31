@@ -1,0 +1,6 @@
+ID: 709 | Email: comeUser709@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-31 11:25:25.362367087 +0200 EET m=+7.289250011
+2. [delete record] at 2021-10-31 11:25:25.362367695 +0200 EET m=+7.289250597
+3. [logged out] at 2021-10-31 11:25:25.362368019 +0200 EET m=+7.289250934
+4. [logged out] at 2021-10-31 11:25:25.362368424 +0200 EET m=+7.289251338

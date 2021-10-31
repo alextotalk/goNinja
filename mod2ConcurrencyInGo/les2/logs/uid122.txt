@@ -1,0 +1,6 @@
+ID: 122 | Email: comeUser122@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-31 11:25:19.318365526 +0200 EET m=+1.245248480
+2. [create record] at 2021-10-31 11:25:19.318365984 +0200 EET m=+1.245248923
+3. [create record] at 2021-10-31 11:25:19.31836622 +0200 EET m=+1.245249101
+4. [delete record] at 2021-10-31 11:25:19.318366401 +0200 EET m=+1.245249289

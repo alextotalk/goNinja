@@ -1,0 +1,5 @@
+ID: 188 | Email: comeUser188@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-31 11:25:19.997851885 +0200 EET m=+1.924734835
+2. [delete record] at 2021-10-31 11:25:19.997852386 +0200 EET m=+1.924735290
+3. [delete record] at 2021-10-31 11:25:19.997852718 +0200 EET m=+1.924735622

@@ -1,0 +1,6 @@
+ID: 638 | Email: comeUser638@gmail.com
+Activity Log:
+1. [logged in] at 2021-10-31 11:25:24.632722365 +0200 EET m=+6.559605297
+2. [delete record] at 2021-10-31 11:25:24.632722766 +0200 EET m=+6.559605655
+8543
+3. [logged out] at 2021-10-28 20:57:54.209725974 +0300 EEST m=+6.550008755

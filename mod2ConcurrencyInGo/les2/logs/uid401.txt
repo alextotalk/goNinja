@@ -1,0 +1,6 @@
+ID: 401 | Email: comeUser401@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-28 20:57:51.768326465 +0300 EEST m=+4.108609325
+2. [create record] at 2021-10-28 20:57:51.768327276 +0300 EEST m=+4.108610086
+3. [logged in] at 2021-10-28 20:57:51.768327534 +0300 EEST m=+4.108610327
+4. [delete record] at 2021-10-28 20:57:51.768327824 +0300 EEST m=+4.108610865

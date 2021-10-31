@@ -1,0 +1,7 @@
+ID: 666 | Email: comeUser666@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-31 11:25:24.919612647 +0200 EET m=+6.846495584
+
+2. [logged out] at 2021-10-28 20:57:54.497550265 +0300 EEST m=+6.837833078
+3. [create record] at 2021-10-28 20:57:54.497550605 +0300 EEST m=+6.837833399
+4. [create record] at 2021-10-28 20:57:54.497550843 +0300 EEST m=+6.837833646

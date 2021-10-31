@@ -1,0 +1,7 @@
+ID: 731 | Email: comeUser731@gmail.com
+Activity Log:
+1. [delete record] at 2021-10-31 11:25:25.589005297 +0200 EET m=+7.515888204
+2. [logged in] at 2021-10-31 11:25:25.589005592 +0200 EET m=+7.515888477
+3. [create record] at 2021-10-31 11:25:25.589005876 +0200 EET m=+7.515888757
+
+4. [delete record] at 2021-10-28 20:57:55.164616716 +0300 EEST m=+7.504899509

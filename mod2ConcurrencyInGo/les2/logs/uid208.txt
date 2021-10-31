@@ -1,0 +1,6 @@
+ID: 208 | Email: comeUser208@gmail.com
+Activity Log:
+1. [logged out] at 2021-10-31 11:25:20.203552404 +0200 EET m=+2.130435379
+2. [create record] at 2021-10-31 11:25:20.203552975 +0200 EET m=+2.130435873
+597
+3. [logged in] at 2021-10-28 20:57:49.784481008 +0300 EEST m=+2.124763767

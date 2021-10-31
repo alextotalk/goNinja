@@ -1,0 +1,4 @@
+ID: 129 | Email: comeUser129@gmail.com
+Activity Log:
+1. [create record] at 2021-10-31 11:25:19.390532733 +0200 EET m=+1.317415783
+2. [create record] at 2021-10-31 11:25:19.390533495 +0200 EET m=+1.317416421

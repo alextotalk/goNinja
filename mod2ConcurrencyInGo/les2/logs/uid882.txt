@@ -1,0 +1,5 @@
+ID: 882 | Email: comeUser882@gmail.com
+Activity Log:
+1. [logged in] at 2021-10-28 20:57:04.021047282 +0300 EEST m=+9.033007320
+2. [logged in] at 2021-10-28 20:57:04.021047602 +0300 EEST m=+9.033007637
+3. [delete record] at 2021-10-28 20:57:04.021047758 +0300 EEST m=+9.033007791

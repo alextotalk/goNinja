@@ -1,0 +1,6 @@
+ID: 540 | Email: comeUser540@gmail.com
+Activity Log:
+1. [create record] at 2021-10-31 11:25:23.624304055 +0200 EET m=+5.551187015
+2. [delete record] at 2021-10-31 11:25:23.624304566 +0200 EET m=+5.551187458
+3. [create record] at 2021-10-31 11:25:23.624304767 +0200 EET m=+5.551187658
+delete record] at 2021-10-28 20:57:00.515766696 +0300 EEST m=+5.527726726
