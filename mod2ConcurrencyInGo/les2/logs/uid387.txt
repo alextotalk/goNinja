@@ -1,5 +1,0 @@
-ID: 387 | Email: comeUser387@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-28 20:57:51.624514367 +0300 EEST m=+3.964797257
-2. [delete record] at 2021-10-28 20:57:51.62451558 +0300 EEST m=+3.964798416
-

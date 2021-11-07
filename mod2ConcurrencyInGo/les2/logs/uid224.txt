@@ -1,4 +1,0 @@
-ID: 224 | Email: comeUser224@gmail.com
-Activity Log:
-1. [logged in] at 2021-10-31 11:25:20.36830701 +0200 EET m=+2.295189943
-2. [create record] at 2021-10-31 11:25:20.368307659 +0200 EET m=+2.295190556

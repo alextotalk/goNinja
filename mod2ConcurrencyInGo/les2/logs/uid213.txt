@@ -1,6 +1,0 @@
-ID: 213 | Email: comeUser213@gmail.com
-Activity Log:
-1. [logged out] at 2021-10-31 11:25:20.25504188 +0200 EET m=+2.181924780
-2. [logged in] at 2021-10-31 11:25:20.25504238 +0200 EET m=+2.181925278
-3. [create record] at 2021-10-31 11:25:20.255042909 +0200 EET m=+2.181925801
-6052378

@@ -1,5 +1,0 @@
-ID: 945 | Email: comeUser945@gmail.com
-Activity Log:
-1. [logged out] at 2021-10-28 20:57:57.368893635 +0300 EEST m=+9.709176444
-2. [logged in] at 2021-10-28 20:57:57.368893964 +0300 EEST m=+9.709176744
-3. [delete record] at 2021-10-28 20:57:57.368894121 +0300 EEST m=+9.709176903

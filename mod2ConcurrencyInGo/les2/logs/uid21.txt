@@ -1,5 +1,0 @@
-ID: 21 | Email: comeUser21@gmail.com
-Activity Log:
-1. [create record] at 2021-10-31 11:25:18.278073135 +0200 EET m=+0.204956104
-
-2. [delete record] at 2021-10-28 20:56:55.192699407 +0300 EEST m=+0.204659478

@@ -1,5 +1,0 @@
-ID: 498 | Email: comeUser498@gmail.com
-Activity Log:
-1. [create record] at 2021-10-31 11:25:23.191126029 +0200 EET m=+5.118008926
-2. [create record] at 2021-10-31 11:25:23.191126328 +0200 EET m=+5.118009219
-5

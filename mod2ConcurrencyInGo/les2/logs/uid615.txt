@@ -1,6 +1,0 @@
-ID: 615 | Email: comeUser615@gmail.com
-Activity Log:
-1. [logged in] at 2021-10-31 11:25:24.395680385 +0200 EET m=+6.322563342
-7013
-2. [logged out] at 2021-10-28 20:57:53.973625276 +0300 EEST m=+6.313908091
-3. [delete record] at 2021-10-28 20:57:53.973625717 +0300 EEST m=+6.313908536

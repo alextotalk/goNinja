@@ -1,7 +1,0 @@
-ID: 172 | Email: comeUser172@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-28 20:57:49.413988728 +0300 EEST m=+1.754271565
-2. [create record] at 2021-10-28 20:57:49.413989206 +0300 EEST m=+1.754272043
-3. [logged in] at 2021-10-28 20:57:49.413989617 +0300 EEST m=+1.754272419
-684
-4. [logged out] at 2021-10-28 20:56:56.739624845 +0300 EEST m=+1.751584910

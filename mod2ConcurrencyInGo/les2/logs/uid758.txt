@@ -1,5 +1,0 @@
-ID: 758 | Email: comeUser758@gmail.com
-Activity Log:
-1. [logged out] at 2021-10-31 11:25:25.866493278 +0200 EET m=+7.793376202
-528
-[delete record] at 2021-10-28 20:57:02.751845453 +0300 EEST m=+7.763805506

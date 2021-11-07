@@ -1,5 +1,0 @@
-ID: 187 | Email: comeUser187@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-31 11:25:19.987550804 +0200 EET m=+1.914433717
-2. [create record] at 2021-10-31 11:25:19.987551182 +0200 EET m=+1.914434064
-logged in] at 2021-10-28 20:57:49.568521334 +0300 EEST m=+1.908804111

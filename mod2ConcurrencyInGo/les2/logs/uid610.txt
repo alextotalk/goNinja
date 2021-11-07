@@ -1,7 +1,0 @@
-ID: 610 | Email: comeUser610@gmail.com
-Activity Log:
-1. [create record] at 2021-10-31 11:25:24.344207217 +0200 EET m=+6.271090185
-2. [delete record] at 2021-10-31 11:25:24.344207691 +0200 EET m=+6.271090579
-3. [delete record] at 2021-10-31 11:25:24.344207888 +0200 EET m=+6.271090773
-4. [create record] at 2021-10-31 11:25:24.344208427 +0200 EET m=+6.271091315
-

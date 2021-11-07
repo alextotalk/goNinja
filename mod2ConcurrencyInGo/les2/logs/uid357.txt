@@ -1,6 +1,0 @@
-ID: 357 | Email: comeUser357@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-31 11:25:21.736524796 +0200 EET m=+3.663407731
-[logged out] at 2021-10-28 20:56:58.637904755 +0300 EEST m=+3.649864811
-3. [logged out] at 2021-10-28 20:56:58.637904941 +0300 EEST m=+3.649864988
-4. [logged out] at 2021-10-28 20:56:58.637905162 +0300 EEST m=+3.649865211

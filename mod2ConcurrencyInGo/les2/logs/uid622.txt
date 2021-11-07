@@ -1,6 +1,0 @@
-ID: 622 | Email: comeUser622@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-31 11:25:24.468178043 +0200 EET m=+6.395061037
-2. [logged in] at 2021-10-31 11:25:24.468178677 +0200 EET m=+6.395061606
-
-3. [delete record] at 2021-10-28 20:57:54.0452979 +0300 EEST m=+6.385580681

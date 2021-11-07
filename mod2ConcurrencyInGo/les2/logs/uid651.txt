@@ -1,7 +1,0 @@
-ID: 651 | Email: comeUser651@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-28 20:57:54.343288304 +0300 EEST m=+6.683571097
-2. [logged in] at 2021-10-28 20:57:54.343288605 +0300 EEST m=+6.683571393
-3. [logged in] at 2021-10-28 20:57:54.343289021 +0300 EEST m=+6.683571811
-4. [delete record] at 2021-10-28 20:57:54.343289236 +0300 EEST m=+6.683572012
-13

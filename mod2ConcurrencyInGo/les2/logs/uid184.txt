@@ -1,5 +1,0 @@
-ID: 184 | Email: comeUser184@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-31 11:25:19.956679854 +0200 EET m=+1.883562787
-2. [delete record] at 2021-10-31 11:25:19.956680954 +0200 EET m=+1.883563841
-3. [delete record] at 2021-10-31 11:25:19.956681719 +0200 EET m=+1.883564620

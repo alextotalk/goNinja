@@ -1,6 +1,0 @@
-ID: 690 | Email: comeUser690@gmail.com
-Activity Log:
-1. [logged out] at 2021-10-31 11:25:25.16629361 +0200 EET m=+7.093176498
-2. [create record] at 2021-10-31 11:25:25.166293897 +0200 EET m=+7.093176782
-3. [create record] at 2021-10-31 11:25:25.166294132 +0200 EET m=+7.093177004
-51

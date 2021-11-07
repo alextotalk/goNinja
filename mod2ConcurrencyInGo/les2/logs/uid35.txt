@@ -1,6 +1,0 @@
-ID: 35 | Email: comeUser35@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-31 11:25:18.42101626 +0200 EET m=+0.347899142
-2. [create record] at 2021-10-31 11:25:18.421016565 +0200 EET m=+0.347899433
-logged in] at 2021-10-28 20:56:55.336141982 +0300 EEST m=+0.348102042
-4. [logged out] at 2021-10-28 20:56:55.336142171 +0300 EEST m=+0.348102228

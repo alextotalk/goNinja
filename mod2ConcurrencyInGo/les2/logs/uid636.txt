@@ -1,5 +1,0 @@
-ID: 636 | Email: comeUser636@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-28 20:57:54.189196253 +0300 EEST m=+6.529479167
-2. [delete record] at 2021-10-28 20:57:54.189213139 +0300 EEST m=+6.529495942
-3. [create record] at 2021-10-28 20:57:54.189213423 +0300 EEST m=+6.529496240

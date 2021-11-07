@@ -1,5 +1,0 @@
-ID: 421 | Email: comeUser421@gmail.com
-Activity Log:
-1. [create record] at 2021-10-31 11:25:22.400134747 +0200 EET m=+4.327017645
-2. [create record] at 2021-10-31 11:25:22.400135026 +0200 EET m=+4.327017929
-3. [logged out] at 2021-10-31 11:25:22.400135217 +0200 EET m=+4.327018100

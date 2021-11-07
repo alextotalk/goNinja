@@ -1,5 +1,0 @@
-ID: 940 | Email: comeUser940@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-28 20:57:57.317439936 +0300 EEST m=+9.657722744
-2. [delete record] at 2021-10-28 20:57:57.317440362 +0300 EEST m=+9.657723172
-3. [create record] at 2021-10-28 20:57:57.317440662 +0300 EEST m=+9.657723466

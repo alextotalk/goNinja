@@ -1,5 +1,0 @@
-ID: 159 | Email: comeUser159@gmail.com
-Activity Log:
-1. [logged in] at 2021-10-28 20:56:56.606468069 +0300 EEST m=+1.618428160
-2. [logged in] at 2021-10-28 20:56:56.606468415 +0300 EEST m=+1.618428466
-3. [delete record] at 2021-10-28 20:56:56.606468581 +0300 EEST m=+1.618428635

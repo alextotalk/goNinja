@@ -1,6 +1,0 @@
-ID: 495 | Email: comeUser495@gmail.com
-Activity Log:
-1. [logged in] at 2021-10-31 11:25:23.160057175 +0200 EET m=+5.086940304
-2. [delete record] at 2021-10-31 11:25:23.160058156 +0200 EET m=+5.086941091
-4
-3. [logged out] at 2021-10-28 20:57:52.73889385 +0300 EEST m=+5.079176636

@@ -1,6 +1,0 @@
-ID: 382 | Email: comeUser382@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-31 11:25:21.99850544 +0200 EET m=+3.925388345
-2. [logged out] at 2021-10-31 11:25:21.998505708 +0200 EET m=+3.925388587
-3. [logged out] at 2021-10-31 11:25:21.998505913 +0200 EET m=+3.925388786
-16

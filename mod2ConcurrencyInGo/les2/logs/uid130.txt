@@ -1,3 +1,0 @@
-ID: 130 | Email: comeUser130@gmail.com
-Activity Log:
-1. [create record] at 2021-10-28 20:56:56.309005914 +0300 EEST m=+1.320965982

@@ -1,7 +1,0 @@
-ID: 520 | Email: comeUser520@gmail.com
-Activity Log:
-1. [logged out] at 2021-10-31 11:25:23.41818739 +0200 EET m=+5.345070334
-2. [create record] at 2021-10-31 11:25:23.418187968 +0200 EET m=+5.345070873
-3. [logged out] at 2021-10-31 11:25:23.418188272 +0200 EET m=+5.345071162
-27
-4. [create record] at 2021-10-28 20:57:52.996460735 +0300 EEST m=+5.336743516

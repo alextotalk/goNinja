@@ -1,5 +1,0 @@
-ID: 275 | Email: comeUser275@gmail.com
-Activity Log:
-1. [logged in] at 2021-10-28 20:57:50.474001803 +0300 EEST m=+2.814284643
-291
-2. [create record] at 2021-10-28 20:56:57.796247531 +0300 EEST m=+2.808207580

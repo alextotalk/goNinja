@@ -1,5 +1,0 @@
-ID: 210 | Email: comeUser210@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-31 11:25:20.224056144 +0200 EET m=+2.150939089
-2. [logged in] at 2021-10-31 11:25:20.224056625 +0200 EET m=+2.150939544
-3. [logged out] at 2021-10-31 11:25:20.224056983 +0200 EET m=+2.150939870

@@ -1,4 +1,0 @@
-ID: 887 | Email: comeUser887@gmail.com
-Activity Log:
-1. [logged out] at 2021-10-28 20:57:04.071989377 +0300 EEST m=+9.083949418
-2. [create record] at 2021-10-28 20:57:04.071989607 +0300 EEST m=+9.083949647

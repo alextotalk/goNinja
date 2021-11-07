@@ -1,6 +1,0 @@
-ID: 482 | Email: comeUser482@gmail.com
-Activity Log:
-1. [logged out] at 2021-10-28 20:57:52.604689176 +0300 EEST m=+4.944972147
-2. [create record] at 2021-10-28 20:57:52.604689942 +0300 EEST m=+4.944972797
-3. [create record] at 2021-10-28 20:57:52.604690442 +0300 EEST m=+4.944973282
-lete record] at 2021-10-28 20:56:59.920480117 +0300 EEST m=+4.932440160

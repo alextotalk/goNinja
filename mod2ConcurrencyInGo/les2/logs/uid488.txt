@@ -1,6 +1,0 @@
-ID: 488 | Email: comeUser488@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-31 11:25:23.088469899 +0200 EET m=+5.015352813
- [logged out] at 2021-10-28 20:57:52.666578369 +0300 EEST m=+5.006861220
-3. [logged in] at 2021-10-28 20:57:52.666578747 +0300 EEST m=+5.006861544
-4. [logged out] at 2021-10-28 20:57:52.666579455 +0300 EEST m=+5.006862271

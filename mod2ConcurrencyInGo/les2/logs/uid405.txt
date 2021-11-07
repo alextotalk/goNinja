@@ -1,6 +1,0 @@
-ID: 405 | Email: comeUser405@gmail.com
-Activity Log:
-1. [logged out] at 2021-10-31 11:25:22.235519439 +0200 EET m=+4.162402343
-2. [logged out] at 2021-10-31 11:25:22.23551982 +0200 EET m=+4.162402715
-3. [delete record] at 2021-10-31 11:25:22.23552 +0200 EET m=+4.162402881
-4. [create record] at 2021-10-31 11:25:22.235520513 +0200 EET m=+4.162403391

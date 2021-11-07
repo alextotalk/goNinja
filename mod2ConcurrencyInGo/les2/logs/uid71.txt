@@ -1,6 +1,0 @@
-ID: 71 | Email: comeUser71@gmail.com
-Activity Log:
-1. [logged in] at 2021-10-31 11:25:18.793878312 +0200 EET m=+0.720761203
-2. [delete record] at 2021-10-31 11:25:18.793878595 +0200 EET m=+0.720761467
-[create record] at 2021-10-28 20:57:48.376225419 +0300 EEST m=+0.716508224
-[logged in] at 2021-10-28 20:56:55.705011119 +0300 EEST m=+0.716971403

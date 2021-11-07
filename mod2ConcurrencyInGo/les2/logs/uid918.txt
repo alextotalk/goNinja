@@ -1,6 +1,0 @@
-ID: 918 | Email: comeUser918@gmail.com
-Activity Log:
-1. [logged in] at 2021-10-28 20:57:57.090267927 +0300 EEST m=+9.430550803
-2. [create record] at 2021-10-28 20:57:57.090268351 +0300 EEST m=+9.430551137
-3. [create record] at 2021-10-28 20:57:57.090268624 +0300 EEST m=+9.430551422
-4. [logged out] at 2021-10-28 20:57:04.395947485 +0300 EEST m=+9.407907515

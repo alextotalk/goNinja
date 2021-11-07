@@ -1,7 +1,0 @@
-ID: 296 | Email: comeUser296@gmail.com
-Activity Log:
-1. [create record] at 2021-10-31 11:25:21.108576308 +0200 EET m=+3.035459261
-
-logged out] at 2021-10-28 20:56:58.011688887 +0300 EEST m=+3.023648945
-3. [create record] at 2021-10-28 20:56:58.011689077 +0300 EEST m=+3.023649146
-4. [logged out] at 2021-10-28 20:56:58.011700531 +0300 EEST m=+3.023660570

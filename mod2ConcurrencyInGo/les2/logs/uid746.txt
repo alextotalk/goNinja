@@ -1,5 +1,0 @@
-ID: 746 | Email: comeUser746@gmail.com
-Activity Log:
-1. [create record] at 2021-10-31 11:25:25.742723328 +0200 EET m=+7.669606296
-2. [logged in] at 2021-10-31 11:25:25.742739429 +0200 EET m=+7.669622347
-3. [create record] at 2021-10-31 11:25:25.742739873 +0200 EET m=+7.669622784

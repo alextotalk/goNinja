@@ -1,6 +1,0 @@
-ID: 895 | Email: comeUser895@gmail.com
-Activity Log:
-1. [logged in] at 2021-10-28 20:57:56.85307879 +0300 EEST m=+9.193361643
-1
-2. [create record] at 2021-10-28 20:57:04.1536506 +0300 EEST m=+9.165610627
-3. [delete record] at 2021-10-28 20:57:04.153650909 +0300 EEST m=+9.165610932

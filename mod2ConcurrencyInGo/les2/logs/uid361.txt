@@ -1,6 +1,0 @@
-ID: 361 | Email: comeUser361@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-31 11:25:21.777613645 +0200 EET m=+3.704496625
-2. [create record] at 2021-10-31 11:25:21.777614422 +0200 EET m=+3.704497364
-3. [delete record] at 2021-10-31 11:25:21.777614783 +0200 EET m=+3.704497704
-4. [logged out] at 2021-10-31 11:25:21.777615184 +0200 EET m=+3.704498109

@@ -1,7 +1,0 @@
-ID: 452 | Email: comeUser452@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-31 11:25:22.718726141 +0200 EET m=+4.645609046
-2. [delete record] at 2021-10-31 11:25:22.718726513 +0200 EET m=+4.645609385
-3. [delete record] at 2021-10-31 11:25:22.718726649 +0200 EET m=+4.645609523
-05
-4. [delete record] at 2021-10-28 20:56:59.612665928 +0300 EEST m=+4.624625971

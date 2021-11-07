@@ -1,7 +1,0 @@
-ID: 105 | Email: comeUser105@gmail.com
-Activity Log:
-1. [logged out] at 2021-10-31 11:25:19.143632422 +0200 EET m=+1.070515383
-2. [delete record] at 2021-10-31 11:25:19.143633801 +0200 EET m=+1.070516719
-3. [create record] at 2021-10-31 11:25:19.143634406 +0200 EET m=+1.070517321
-7
-4. [logged out] at 2021-10-28 20:56:56.053196589 +0300 EEST m=+1.065156644

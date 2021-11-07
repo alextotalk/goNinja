@@ -1,7 +1,0 @@
-ID: 375 | Email: comeUser375@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-31 11:25:21.927041604 +0200 EET m=+3.853924518
-2. [create record] at 2021-10-31 11:25:21.927042028 +0200 EET m=+3.853924935
-2
-3. [logged out] at 2021-10-28 20:57:51.501034264 +0300 EEST m=+3.841317039
-4. [delete record] at 2021-10-28 20:57:51.501034486 +0300 EEST m=+3.841317254

@@ -1,5 +1,0 @@
-ID: 667 | Email: comeUser667@gmail.com
-Activity Log:
-1. [logged out] at 2021-10-31 11:25:24.929842923 +0200 EET m=+6.856725863
-2. [delete record] at 2021-10-31 11:25:24.92984335 +0200 EET m=+6.856726247
-92

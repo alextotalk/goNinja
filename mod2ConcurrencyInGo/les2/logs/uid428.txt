@@ -1,7 +1,0 @@
-ID: 428 | Email: comeUser428@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-31 11:25:22.47219011 +0200 EET m=+4.399073122
-2. [logged in] at 2021-10-31 11:25:22.472190815 +0200 EET m=+4.399073744
-26
-3. [create record] at 2021-10-28 20:56:59.366422199 +0300 EEST m=+4.378382254
-4. [delete record] at 2021-10-28 20:56:59.366422473 +0300 EEST m=+4.378382528

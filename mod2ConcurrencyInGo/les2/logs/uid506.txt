@@ -1,6 +1,0 @@
-ID: 506 | Email: comeUser506@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-31 11:25:23.273413575 +0200 EET m=+5.200296513
-2. [create record] at 2021-10-31 11:25:23.273414257 +0200 EET m=+5.200297146
-3. [logged out] at 2021-10-31 11:25:23.273414609 +0200 EET m=+5.200297495
-4. [delete record] at 2021-10-28 20:57:00.166747825 +0300 EEST m=+5.178707879

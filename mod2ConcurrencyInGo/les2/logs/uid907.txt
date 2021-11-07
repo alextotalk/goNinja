@@ -1,6 +1,0 @@
-ID: 907 | Email: comeUser907@gmail.com
-Activity Log:
-1. [logged in] at 2021-10-28 20:57:56.976913493 +0300 EEST m=+9.317196359
-2. [logged in] at 2021-10-28 20:57:56.976913919 +0300 EEST m=+9.317196729
-3. [create record] at 2021-10-28 20:57:56.976914242 +0300 EEST m=+9.317197045
-7891596

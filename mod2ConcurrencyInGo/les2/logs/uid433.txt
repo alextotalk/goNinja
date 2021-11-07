@@ -1,6 +1,0 @@
-ID: 433 | Email: comeUser433@gmail.com
-Activity Log:
-1. [logged out] at 2021-10-31 11:25:22.523291705 +0200 EET m=+4.450174589
-2. [logged in] at 2021-10-31 11:25:22.523292024 +0200 EET m=+4.450174900
-3. [create record] at 2021-10-31 11:25:22.523292187 +0200 EET m=+4.450175056
-9757611

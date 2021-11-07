@@ -1,6 +1,0 @@
-ID: 842 | Email: comeUser842@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-28 20:57:03.612246023 +0300 EEST m=+8.624206095
-2. [logged out] at 2021-10-28 20:57:03.612246344 +0300 EEST m=+8.624206393
-3. [create record] at 2021-10-28 20:57:03.612246557 +0300 EEST m=+8.624206616
-4. [delete record] at 2021-10-28 20:57:03.612246745 +0300 EEST m=+8.624206796

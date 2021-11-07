@@ -1,5 +1,0 @@
-ID: 844 | Email: comeUser844@gmail.com
-Activity Log:
-1. [create record] at 2021-10-28 20:57:56.326512031 +0300 EEST m=+8.666794848
-2. [create record] at 2021-10-28 20:57:56.326512474 +0300 EEST m=+8.666795265
-3. [logged out] at 2021-10-28 20:57:56.32651277 +0300 EEST m=+8.666795557

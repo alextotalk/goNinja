@@ -1,5 +1,0 @@
-ID: 410 | Email: comeUser410@gmail.com
-Activity Log:
-1. [create record] at 2021-10-31 11:25:22.286917555 +0200 EET m=+4.213800502
-2. [create record] at 2021-10-31 11:25:22.286918052 +0200 EET m=+4.213800990
-3. [create record] at 2021-10-31 11:25:22.28691838 +0200 EET m=+4.213801290

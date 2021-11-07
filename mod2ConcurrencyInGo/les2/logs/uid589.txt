@@ -1,5 +1,0 @@
-ID: 589 | Email: comeUser589@gmail.com
-Activity Log:
-1. [create record] at 2021-10-31 11:25:24.128420627 +0200 EET m=+6.055303509
-2. [create record] at 2021-10-31 11:25:24.128420908 +0200 EET m=+6.055303773
-3. [logged in] at 2021-10-31 11:25:24.128421002 +0200 EET m=+6.055303866

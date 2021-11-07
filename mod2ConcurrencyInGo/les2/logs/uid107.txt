@@ -1,6 +1,0 @@
-ID: 107 | Email: comeUser107@gmail.com
-Activity Log:
-1. [create record] at 2021-10-31 11:25:19.164269843 +0200 EET m=+1.091152760
-2. [logged in] at 2021-10-31 11:25:19.164270132 +0200 EET m=+1.091153019
-. [delete record] at 2021-10-28 20:57:48.745505286 +0300 EEST m=+1.085788077
-4. [logged in] at 2021-10-28 20:57:48.745505889 +0300 EEST m=+1.085788670

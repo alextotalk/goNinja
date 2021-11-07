@@ -1,6 +1,0 @@
-ID: 917 | Email: comeUser917@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-28 20:57:57.079907376 +0300 EEST m=+9.420190233
-2. [logged in] at 2021-10-28 20:57:57.079907913 +0300 EEST m=+9.420190704
-3. [delete record] at 2021-10-28 20:57:57.079908182 +0300 EEST m=+9.420190973
-4. [create record] at 2021-10-28 20:57:04.38564783 +0300 EEST m=+9.397607860

@@ -1,4 +1,0 @@
-ID: 559 | Email: comeUser559@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-28 20:57:53.397466177 +0300 EEST m=+5.737749024
-2. [logged out] at 2021-10-28 20:57:53.39747528 +0300 EEST m=+5.737758080

@@ -1,4 +1,0 @@
-ID: 890 | Email: comeUser890@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-28 20:57:56.801476958 +0300 EEST m=+9.141759786
-2. [logged in] at 2021-10-28 20:57:56.801477611 +0300 EEST m=+9.141760408

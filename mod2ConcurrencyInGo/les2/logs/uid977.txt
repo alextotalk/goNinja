@@ -1,6 +1,0 @@
-ID: 977 | Email: comeUser977@gmail.com
-Activity Log:
-1. [create record] at 2021-10-28 20:57:57.699259153 +0300 EEST m=+10.039542023
-2. [create record] at 2021-10-28 20:57:57.699259761 +0300 EEST m=+10.039542581
-3. [logged in] at 2021-10-28 20:57:57.699260162 +0300 EEST m=+10.039542982
-4. [logged in] at 2021-10-28 20:57:57.699260551 +0300 EEST m=+10.039543383

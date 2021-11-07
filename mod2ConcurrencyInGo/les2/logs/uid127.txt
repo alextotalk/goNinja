@@ -1,5 +1,0 @@
-ID: 127 | Email: comeUser127@gmail.com
-Activity Log:
-1. [logged in] at 2021-10-28 20:57:48.951439121 +0300 EEST m=+1.291721944
-2. [create record] at 2021-10-28 20:57:48.951439562 +0300 EEST m=+1.291722352
-3. [create record] at 2021-10-28 20:56:56.278296545 +0300 EEST m=+1.290256584

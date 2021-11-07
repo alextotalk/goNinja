@@ -1,4 +1,0 @@
-ID: 99 | Email: comeUser99@gmail.com
-Activity Log:
-1. [logged in] at 2021-10-28 20:57:48.663339545 +0300 EEST m=+1.003622333
-2. [delete record] at 2021-10-28 20:57:48.663339782 +0300 EEST m=+1.003622551

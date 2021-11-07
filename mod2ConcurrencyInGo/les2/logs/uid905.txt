@@ -1,7 +1,0 @@
-ID: 905 | Email: comeUser905@gmail.com
-Activity Log:
-1. [logged in] at 2021-10-28 20:57:56.956335106 +0300 EEST m=+9.296617909
-2. [create record] at 2021-10-28 20:57:56.956335377 +0300 EEST m=+9.296618152
-3. [logged in] at 2021-10-28 20:57:56.956335546 +0300 EEST m=+9.296618322
-985
-4. [delete record] at 2021-10-28 20:57:04.255585105 +0300 EEST m=+9.267545139

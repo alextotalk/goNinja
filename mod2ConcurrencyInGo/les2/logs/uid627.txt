@@ -1,6 +1,0 @@
-ID: 627 | Email: comeUser627@gmail.com
-Activity Log:
-1. [create record] at 2021-10-31 11:25:24.519510428 +0200 EET m=+6.446393389
-2. [delete record] at 2021-10-31 11:25:24.519511003 +0200 EET m=+6.446393910
-3. [create record] at 2021-10-31 11:25:24.519511287 +0200 EET m=+6.446394187
-00

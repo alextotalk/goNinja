@@ -1,5 +1,0 @@
-ID: 176 | Email: comeUser176@gmail.com
-Activity Log:
-1. [create record] at 2021-10-28 20:57:49.455161284 +0300 EEST m=+1.795444112
-2. [logged out] at 2021-10-28 20:57:49.455161756 +0300 EEST m=+1.795444548
-3. [create record] at 2021-10-28 20:57:49.455162157 +0300 EEST m=+1.795444946

@@ -1,5 +1,0 @@
-ID: 133 | Email: comeUser133@gmail.com
-Activity Log:
-1. [create record] at 2021-10-28 20:57:49.013019642 +0300 EEST m=+1.353302450
-2. [create record] at 2021-10-28 20:57:49.013020276 +0300 EEST m=+1.353303067
-3. [logged in] at 2021-10-28 20:57:49.013020519 +0300 EEST m=+1.353303302

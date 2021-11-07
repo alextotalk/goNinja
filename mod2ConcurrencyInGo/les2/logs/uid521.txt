@@ -1,7 +1,0 @@
-ID: 521 | Email: comeUser521@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-31 11:25:23.428516468 +0200 EET m=+5.355399473
-
-2. [create record] at 2021-10-28 20:57:53.006794062 +0300 EEST m=+5.347076865
-3. [logged in] at 2021-10-28 20:57:53.006794395 +0300 EEST m=+5.347077191
-4. [logged out] at 2021-10-28 20:57:00.320875744 +0300 EEST m=+5.332835784

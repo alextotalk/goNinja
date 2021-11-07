@@ -1,7 +1,0 @@
-ID: 435 | Email: comeUser435@gmail.com
-Activity Log:
-1. [create record] at 2021-10-28 20:57:52.12082629 +0300 EEST m=+4.461109069
-2. [logged in] at 2021-10-28 20:57:52.120826515 +0300 EEST m=+4.461109274
-3. [create record] at 2021-10-28 20:57:52.12082668 +0300 EEST m=+4.461109438
-4. [logged in] at 2021-10-28 20:57:52.120826761 +0300 EEST m=+4.461109519
-7009

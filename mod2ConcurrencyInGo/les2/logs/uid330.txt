@@ -1,6 +1,0 @@
-ID: 330 | Email: comeUser330@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-31 11:25:21.458369116 +0200 EET m=+3.385252039
- [delete record] at 2021-10-28 20:57:51.038278128 +0300 EEST m=+3.378560899
-3. [create record] at 2021-10-28 20:57:51.038278346 +0300 EEST m=+3.378561128
-4. [delete record] at 2021-10-28 20:57:51.038278503 +0300 EEST m=+3.378561280

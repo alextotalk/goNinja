@@ -1,5 +1,0 @@
-ID: 403 | Email: comeUser403@gmail.com
-Activity Log:
-1. [create record] at 2021-10-31 11:25:22.215102843 +0200 EET m=+4.141985755
-2. [logged out] at 2021-10-31 11:25:22.215103141 +0200 EET m=+4.141986014
-3. [delete record] at 2021-10-31 11:25:22.215103386 +0200 EET m=+4.141986268

@@ -1,6 +1,0 @@
-ID: 53 | Email: comeUser53@gmail.com
-Activity Log:
-1. [logged out] at 2021-10-31 11:25:18.608315477 +0200 EET m=+0.535198458
-2. [delete record] at 2021-10-28 20:56:55.520585483 +0300 EEST m=+0.532545536
-3. [create record] at 2021-10-28 20:56:55.520585749 +0300 EEST m=+0.532545818
-4. [create record] at 2021-10-28 20:56:55.520585916 +0300 EEST m=+0.532545961

@@ -1,6 +1,0 @@
-ID: 70 | Email: comeUser70@gmail.com
-Activity Log:
-1. [create record] at 2021-10-31 11:25:18.783639442 +0200 EET m=+0.710522395
-2. [logged out] at 2021-10-31 11:25:18.783640084 +0200 EET m=+0.710523053
-
-3. [logged in] at 2021-10-28 20:57:48.365919818 +0300 EEST m=+0.706202606

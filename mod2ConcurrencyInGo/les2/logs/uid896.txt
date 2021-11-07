@@ -1,6 +1,0 @@
-ID: 896 | Email: comeUser896@gmail.com
-Activity Log:
-1. [logged out] at 2021-10-28 20:57:56.863440193 +0300 EEST m=+9.203723011
-2. [logged in] at 2021-10-28 20:57:56.86344052 +0300 EEST m=+9.203723303
-3. [logged out] at 2021-10-28 20:57:56.863440689 +0300 EEST m=+9.203723482
-4. [create record] at 2021-10-28 20:57:56.863440853 +0300 EEST m=+9.203723632

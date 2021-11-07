@@ -1,7 +1,0 @@
-ID: 807 | Email: comeUser807@gmail.com
-Activity Log:
-1. [create record] at 2021-10-28 20:57:55.945567392 +0300 EEST m=+8.285850219
-2. [logged in] at 2021-10-28 20:57:55.945567887 +0300 EEST m=+8.285850717
-
-3. [create record] at 2021-10-28 20:57:03.254108972 +0300 EEST m=+8.266069021
-4. [logged out] at 2021-10-28 20:57:03.25410912 +0300 EEST m=+8.266069165

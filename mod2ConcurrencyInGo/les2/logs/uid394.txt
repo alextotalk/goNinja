@@ -1,6 +1,0 @@
-ID: 394 | Email: comeUser394@gmail.com
-Activity Log:
-1. [logged in] at 2021-10-31 11:25:22.122006921 +0200 EET m=+4.048889835
-3952
-2. [logged in] at 2021-10-28 20:57:51.69643179 +0300 EEST m=+4.036714579
-3. [delete record] at 2021-10-28 20:57:51.696432165 +0300 EEST m=+4.036714957

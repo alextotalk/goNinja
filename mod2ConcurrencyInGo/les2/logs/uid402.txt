@@ -1,5 +1,0 @@
-ID: 402 | Email: comeUser402@gmail.com
-Activity Log:
-1. [logged out] at 2021-10-31 11:25:22.204903128 +0200 EET m=+4.131786137
-2. [create record] at 2021-10-31 11:25:22.204903773 +0200 EET m=+4.131786726
-3. [logged in] at 2021-10-31 11:25:22.204904274 +0200 EET m=+4.131787196

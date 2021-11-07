@@ -1,6 +1,0 @@
-ID: 547 | Email: comeUser547@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-31 11:25:23.696674318 +0200 EET m=+5.623557352
-
-2. [delete record] at 2021-10-28 20:57:53.274132177 +0300 EEST m=+5.614414943
-3. [logged out] at 2021-10-28 20:57:53.274132289 +0300 EEST m=+5.614415055

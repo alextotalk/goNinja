@@ -1,6 +1,0 @@
-ID: 147 | Email: comeUser147@gmail.com
-Activity Log:
-1. [logged out] at 2021-10-31 11:25:19.575649441 +0200 EET m=+1.502532416
-2. [delete record] at 2021-10-31 11:25:19.575649895 +0200 EET m=+1.502532796
-[delete record] at 2021-10-28 20:57:49.156951641 +0300 EEST m=+1.497234451
-4. [create record] at 2021-10-28 20:57:49.156952059 +0300 EEST m=+1.497234858

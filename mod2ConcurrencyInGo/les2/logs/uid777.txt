@@ -1,4 +1,0 @@
-ID: 777 | Email: comeUser777@gmail.com
-Activity Log:
-1. [create record] at 2021-10-31 11:25:26.061876477 +0200 EET m=+7.988759419
-2. [delete record] at 2021-10-28 20:57:55.637772398 +0300 EEST m=+7.978055204

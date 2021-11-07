@@ -1,6 +1,0 @@
-ID: 535 | Email: comeUser535@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-31 11:25:23.572766397 +0200 EET m=+5.499649347
-2. [logged in] at 2021-10-31 11:25:23.572766918 +0200 EET m=+5.499649799
-3. [create record] at 2021-10-31 11:25:23.57276717 +0200 EET m=+5.499650051
-4. [create record] at 2021-10-31 11:25:23.572767425 +0200 EET m=+5.499650304

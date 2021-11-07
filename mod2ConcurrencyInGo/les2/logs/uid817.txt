@@ -1,4 +1,0 @@
-ID: 817 | Email: comeUser817@gmail.com
-Activity Log:
-1. [create record] at 2021-10-28 20:57:56.048439202 +0300 EEST m=+8.388722022
-2. [delete record] at 2021-10-28 20:57:56.048439589 +0300 EEST m=+8.388722386

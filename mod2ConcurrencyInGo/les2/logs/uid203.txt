@@ -1,3 +1,0 @@
-ID: 203 | Email: comeUser203@gmail.com
-Activity Log:
-1. [create record] at 2021-10-28 20:57:49.733190829 +0300 EEST m=+2.073473717

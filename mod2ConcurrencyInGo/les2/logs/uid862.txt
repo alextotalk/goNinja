@@ -1,5 +1,0 @@
-ID: 862 | Email: comeUser862@gmail.com
-Activity Log:
-1. [create record] at 2021-10-28 20:57:56.512413332 +0300 EEST m=+8.852696171
-2. [logged out] at 2021-10-28 20:57:56.512413731 +0300 EEST m=+8.852696524
-3. [create record] at 2021-10-28 20:57:56.512414079 +0300 EEST m=+8.852696859

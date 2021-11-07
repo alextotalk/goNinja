@@ -1,6 +1,0 @@
-ID: 215 | Email: comeUser215@gmail.com
-Activity Log:
-1. [create record] at 2021-10-31 11:25:20.275660373 +0200 EET m=+2.202543304
-
-2. [logged in] at 2021-10-28 20:57:49.856361956 +0300 EEST m=+2.196644735
-3. [logged out] at 2021-10-28 20:57:49.856362196 +0300 EEST m=+2.196644975

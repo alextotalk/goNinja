@@ -1,5 +1,0 @@
-ID: 808 | Email: comeUser808@gmail.com
-Activity Log:
-1. [create record] at 2021-10-28 20:57:55.956037709 +0300 EEST m=+8.296320592
-2. [create record] at 2021-10-28 20:57:55.956038999 +0300 EEST m=+8.296321835
-3. [create record] at 2021-10-28 20:57:55.956039344 +0300 EEST m=+8.296322176

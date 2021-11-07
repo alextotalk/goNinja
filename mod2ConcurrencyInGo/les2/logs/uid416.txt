@@ -1,4 +1,0 @@
-ID: 416 | Email: comeUser416@gmail.com
-Activity Log:
-1. [create record] at 2021-10-31 11:25:22.348840189 +0200 EET m=+4.275723170
-2. [logged in] at 2021-10-31 11:25:22.348840897 +0200 EET m=+4.275723822

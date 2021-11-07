@@ -1,5 +1,0 @@
-ID: 848 | Email: comeUser848@gmail.com
-Activity Log:
-1. [logged out] at 2021-10-28 20:57:56.367698048 +0300 EEST m=+8.707980903
-2. [logged in] at 2021-10-28 20:57:56.367698431 +0300 EEST m=+8.707981214
-3. [create record] at 2021-10-28 20:57:56.367698684 +0300 EEST m=+8.707981467

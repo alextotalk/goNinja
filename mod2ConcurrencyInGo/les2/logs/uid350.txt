@@ -1,6 +1,0 @@
-ID: 350 | Email: comeUser350@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-31 11:25:21.664363809 +0200 EET m=+3.591246728
-2. [delete record] at 2021-10-31 11:25:21.664364128 +0200 EET m=+3.591247009
-3. [logged out] at 2021-10-31 11:25:21.664364305 +0200 EET m=+3.591247190
-54

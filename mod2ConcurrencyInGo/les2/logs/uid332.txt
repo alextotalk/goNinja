@@ -1,6 +1,0 @@
-ID: 332 | Email: comeUser332@gmail.com
-Activity Log:
-1. [create record] at 2021-10-31 11:25:21.478858956 +0200 EET m=+3.405741867
-2. [create record] at 2021-10-31 11:25:21.478859313 +0200 EET m=+3.405742209
-3. [create record] at 2021-10-31 11:25:21.478859511 +0200 EET m=+3.405742400
-4. [delete record] at 2021-10-31 11:25:21.478859707 +0200 EET m=+3.405742590

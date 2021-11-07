@@ -1,5 +1,0 @@
-ID: 762 | Email: comeUser762@gmail.com
-Activity Log:
-1. [logged in] at 2021-10-28 20:57:55.483297537 +0300 EEST m=+7.823580371
-2. [create record] at 2021-10-28 20:57:55.483297908 +0300 EEST m=+7.823580684
-55

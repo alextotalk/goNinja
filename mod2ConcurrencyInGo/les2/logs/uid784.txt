@@ -1,6 +1,0 @@
-ID: 784 | Email: comeUser784@gmail.com
-Activity Log:
-1. [logged out] at 2021-10-31 11:25:26.133897225 +0200 EET m=+8.060780159
-2. [logged in] at 2021-10-31 11:25:26.133897576 +0200 EET m=+8.060780460
-3. [create record] at 2021-10-31 11:25:26.133897767 +0200 EET m=+8.060780653
-7

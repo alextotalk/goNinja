@@ -1,6 +1,0 @@
-ID: 976 | Email: comeUser976@gmail.com
-Activity Log:
-1. [logged out] at 2021-10-28 20:57:57.688904862 +0300 EEST m=+10.029187694
-2. [delete record] at 2021-10-28 20:57:57.688905296 +0300 EEST m=+10.029188120
-3. [create record] at 2021-10-28 20:57:57.688905672 +0300 EEST m=+10.029188478
-16

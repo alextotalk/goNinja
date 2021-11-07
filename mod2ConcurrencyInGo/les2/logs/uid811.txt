@@ -1,6 +1,0 @@
-ID: 811 | Email: comeUser811@gmail.com
-Activity Log:
-1. [logged out] at 2021-10-28 20:57:55.986832927 +0300 EEST m=+8.327115766
-2. [delete record] at 2021-10-28 20:57:55.986833366 +0300 EEST m=+8.327116164
-3. [logged out] at 2021-10-28 20:57:55.986833664 +0300 EEST m=+8.327116457
-4. [delete record] at 2021-10-28 20:57:55.986833865 +0300 EEST m=+8.327116663

@@ -1,7 +1,0 @@
-ID: 74 | Email: comeUser74@gmail.com
-Activity Log:
-1. [logged in] at 2021-10-31 11:25:18.824674838 +0200 EET m=+0.751557802
-2. [delete record] at 2021-10-31 11:25:18.824675335 +0200 EET m=+0.751558263
-3. [logged out] at 2021-10-31 11:25:18.824675716 +0200 EET m=+0.751558623
-48
-4. [create record] at 2021-10-28 20:56:55.735796284 +0300 EEST m=+0.747756358

@@ -1,6 +1,0 @@
-ID: 647 | Email: comeUser647@gmail.com
-Activity Log:
-1. [create record] at 2021-10-31 11:25:24.724905255 +0200 EET m=+6.651788213
-2. [logged in] at 2021-10-31 11:25:24.72490593 +0200 EET m=+6.651788841
-3. [logged out] at 2021-10-31 11:25:24.724906344 +0200 EET m=+6.651789259
-4. [create record] at 2021-10-31 11:25:24.724906608 +0200 EET m=+6.651789523

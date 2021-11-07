@@ -1,6 +1,0 @@
-ID: 501 | Email: comeUser501@gmail.com
-Activity Log:
-1. [create record] at 2021-10-31 11:25:23.221960223 +0200 EET m=+5.148843121
-2. [logged out] at 2021-10-31 11:25:23.221960561 +0200 EET m=+5.148843439
-3. [delete record] at 2021-10-31 11:25:23.221960824 +0200 EET m=+5.148843702
-6

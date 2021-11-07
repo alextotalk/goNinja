@@ -1,6 +1,0 @@
-ID: 735 | Email: comeUser735@gmail.com
-Activity Log:
-1. [logged in] at 2021-10-31 11:25:25.630093993 +0200 EET m=+7.556976992
-2. [logged in] at 2021-10-31 11:25:25.630094575 +0200 EET m=+7.556977478
-33394
-3. [delete record] at 2021-10-28 20:57:02.516073635 +0300 EEST m=+7.528033691

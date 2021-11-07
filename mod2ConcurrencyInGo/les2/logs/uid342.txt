@@ -1,6 +1,0 @@
-ID: 342 | Email: comeUser342@gmail.com
-Activity Log:
-1. [logged out] at 2021-10-31 11:25:21.58186994 +0200 EET m=+3.508753099
-2. [delete record] at 2021-10-31 11:25:21.58187063 +0200 EET m=+3.508753537
-3. [delete record] at 2021-10-31 11:25:21.581871188 +0200 EET m=+3.508754093
-

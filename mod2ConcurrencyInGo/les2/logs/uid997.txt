@@ -1,5 +1,0 @@
-ID: 997 | Email: comeUser997@gmail.com
-Activity Log:
-1. [create record] at 2021-10-28 20:57:05.209939448 +0300 EEST m=+10.221899518
-2. [logged in] at 2021-10-28 20:57:05.209939737 +0300 EEST m=+10.221899774
-3. [logged in] at 2021-10-28 20:57:05.209939922 +0300 EEST m=+10.221899964

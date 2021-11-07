@@ -1,6 +1,0 @@
-ID: 810 | Email: comeUser810@gmail.com
-Activity Log:
-1. [logged out] at 2021-10-28 20:57:55.97661284 +0300 EEST m=+8.316895632
-2. [create record] at 2021-10-28 20:57:55.976613108 +0300 EEST m=+8.316895873
-
-3. [logged out] at 2021-10-28 20:57:03.284850981 +0300 EEST m=+8.296811025

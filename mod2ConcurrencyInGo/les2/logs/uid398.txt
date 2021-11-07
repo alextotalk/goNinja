@@ -1,8 +1,0 @@
-ID: 398 | Email: comeUser398@gmail.com
-Activity Log:
-1. [create record] at 2021-10-31 11:25:22.163242021 +0200 EET m=+4.090125032
-
-2. [logged out] at 2021-10-28 20:57:51.737453874 +0300 EEST m=+4.077736686
-3. [delete record] at 2021-10-28 20:57:51.73745421 +0300 EEST m=+4.077737004
-
-4. [create record] at 2021-10-28 20:56:59.058705933 +0300 EEST m=+4.070665973

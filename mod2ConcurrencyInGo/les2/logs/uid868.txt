@@ -1,6 +1,0 @@
-ID: 868 | Email: comeUser868@gmail.com
-Activity Log:
-1. [logged out] at 2021-10-28 20:57:03.878274685 +0300 EEST m=+8.890234761
-2. [logged in] at 2021-10-28 20:57:03.878275038 +0300 EEST m=+8.890235093
-3. [delete record] at 2021-10-28 20:57:03.878275289 +0300 EEST m=+8.890235339
-4. [create record] at 2021-10-28 20:57:03.878275484 +0300 EEST m=+8.890235522

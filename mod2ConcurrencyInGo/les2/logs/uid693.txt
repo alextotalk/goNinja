@@ -1,7 +1,0 @@
-ID: 693 | Email: comeUser693@gmail.com
-Activity Log:
-1. [logged out] at 2021-10-31 11:25:25.197229448 +0200 EET m=+7.124112333
-2. [create record] at 2021-10-31 11:25:25.197229718 +0200 EET m=+7.124112587
-275
-3. [logged out] at 2021-10-28 20:57:54.774959796 +0300 EEST m=+7.115242616
-4. [create record] at 2021-10-28 20:57:54.774960083 +0300 EEST m=+7.115242899

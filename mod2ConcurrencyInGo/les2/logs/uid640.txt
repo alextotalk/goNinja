@@ -1,7 +1,0 @@
-ID: 640 | Email: comeUser640@gmail.com
-Activity Log:
-1. [create record] at 2021-10-31 11:25:24.65317708 +0200 EET m=+6.580060022
-
-2. [logged out] at 2021-10-28 20:57:54.230283199 +0300 EEST m=+6.570565988
-3. [delete record] at 2021-10-28 20:57:54.230283405 +0300 EEST m=+6.570566182
-4. [delete record] at 2021-10-28 20:57:54.230283569 +0300 EEST m=+6.570566348

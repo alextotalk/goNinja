@@ -1,4 +1,0 @@
-ID: 485 | Email: comeUser485@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-28 20:57:52.635624119 +0300 EEST m=+4.975906965
-logged in] at 2021-10-28 20:56:59.951359912 +0300 EEST m=+4.963319941

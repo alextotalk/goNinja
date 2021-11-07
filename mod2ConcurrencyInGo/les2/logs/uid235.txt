@@ -1,7 +1,0 @@
-ID: 235 | Email: comeUser235@gmail.com
-Activity Log:
-1. [logged in] at 2021-10-31 11:25:20.481373238 +0200 EET m=+2.408256242
-2. [delete record] at 2021-10-31 11:25:20.481374002 +0200 EET m=+2.408256934
-3. [delete record] at 2021-10-31 11:25:20.48137444 +0200 EET m=+2.408257344
-4. [create record] at 2021-10-31 11:25:20.481374687 +0200 EET m=+2.408257587
-6

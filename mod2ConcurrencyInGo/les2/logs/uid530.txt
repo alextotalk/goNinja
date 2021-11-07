@@ -1,5 +1,0 @@
-ID: 530 | Email: comeUser530@gmail.com
-Activity Log:
-1. [logged out] at 2021-10-28 20:57:00.413078708 +0300 EEST m=+5.425038763
-2. [delete record] at 2021-10-28 20:57:00.413079005 +0300 EEST m=+5.425039048
-3. [create record] at 2021-10-28 20:57:00.413079253 +0300 EEST m=+5.425039297

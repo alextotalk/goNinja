@@ -1,5 +1,0 @@
-ID: 56 | Email: comeUser56@gmail.com
-Activity Log:
-1. [logged in] at 2021-10-31 11:25:18.639170764 +0200 EET m=+0.566053672
-6382
-2. [create record] at 2021-10-28 20:57:48.22188395 +0300 EEST m=+0.562166736

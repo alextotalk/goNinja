@@ -1,6 +1,0 @@
-ID: 272 | Email: comeUser272@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-31 11:25:20.861909647 +0200 EET m=+2.788792566
-
-2. [create record] at 2021-10-28 20:57:50.443040519 +0300 EEST m=+2.783323302
-3. [logged in] at 2021-10-28 20:57:50.443040782 +0300 EEST m=+2.783323562

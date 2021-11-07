@@ -1,6 +1,0 @@
-ID: 415 | Email: comeUser415@gmail.com
-Activity Log:
-1. [logged in] at 2021-10-31 11:25:22.338597449 +0200 EET m=+4.265480413
-2. [create record] at 2021-10-31 11:25:22.338597883 +0200 EET m=+4.265480771
-. [create record] at 2021-10-28 20:57:51.911326633 +0300 EEST m=+4.251609469
-4. [logged in] at 2021-10-28 20:57:51.911327034 +0300 EEST m=+4.251609853

@@ -1,4 +1,0 @@
-ID: 786 | Email: comeUser786@gmail.com
-Activity Log:
-1. [logged in] at 2021-10-28 20:57:55.730518048 +0300 EEST m=+8.070800883
-2. [delete record] at 2021-10-28 20:57:55.730518565 +0300 EEST m=+8.070801377

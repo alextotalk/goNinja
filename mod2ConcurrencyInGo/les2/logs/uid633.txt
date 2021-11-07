@@ -1,4 +1,0 @@
-ID: 633 | Email: comeUser633@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-28 20:57:01.473374603 +0300 EEST m=+6.485334690
-2. [create record] at 2021-10-28 20:57:01.473374912 +0300 EEST m=+6.485334983

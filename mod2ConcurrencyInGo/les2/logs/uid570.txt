@@ -1,6 +1,0 @@
-ID: 570 | Email: comeUser570@gmail.com
-Activity Log:
-1. [logged out] at 2021-10-31 11:25:23.934176148 +0200 EET m=+5.861059142
-2. [delete record] at 2021-10-31 11:25:23.934176745 +0200 EET m=+5.861059666
-3. [logged out] at 2021-10-31 11:25:23.934177126 +0200 EET m=+5.861060047
-. [create record] at 2021-10-28 20:57:53.51033179 +0300 EEST m=+5.850614580

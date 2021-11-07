@@ -1,4 +1,0 @@
-ID: 368 | Email: comeUser368@gmail.com
-Activity Log:
-1. [logged out] at 2021-10-28 20:57:51.429095392 +0300 EEST m=+3.769378189
-2. [logged in] at 2021-10-28 20:57:51.429095693 +0300 EEST m=+3.769378469

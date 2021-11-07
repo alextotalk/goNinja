@@ -1,6 +1,0 @@
-ID: 684 | Email: comeUser684@gmail.com
-Activity Log:
-1. [logged in] at 2021-10-31 11:25:25.104405591 +0200 EET m=+7.031288538
-2. [create record] at 2021-10-31 11:25:25.104405983 +0200 EET m=+7.031288873
-3. [delete record] at 2021-10-31 11:25:25.104406278 +0200 EET m=+7.031289171
-4. [delete record] at 2021-10-31 11:25:25.104406476 +0200 EET m=+7.031289360

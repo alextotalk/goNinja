@@ -1,6 +1,0 @@
-ID: 809 | Email: comeUser809@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-28 20:57:55.966314361 +0300 EEST m=+8.306597220
-2. [delete record] at 2021-10-28 20:57:55.966314927 +0300 EEST m=+8.306597758
-3. [logged out] at 2021-10-28 20:57:55.966315368 +0300 EEST m=+8.306598175
-4. [create record] at 2021-10-28 20:57:55.966315833 +0300 EEST m=+8.306598656

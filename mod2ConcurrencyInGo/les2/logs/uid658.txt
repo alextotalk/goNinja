@@ -1,6 +1,0 @@
-ID: 658 | Email: comeUser658@gmail.com
-Activity Log:
-1. [logged out] at 2021-10-28 20:57:54.415343693 +0300 EEST m=+6.755626513
-2. [delete record] at 2021-10-28 20:57:54.415344143 +0300 EEST m=+6.755626949
-99
-3. [logged in] at 2021-10-28 20:57:01.729574227 +0300 EEST m=+6.741534273

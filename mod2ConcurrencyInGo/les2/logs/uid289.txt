@@ -1,5 +1,0 @@
-ID: 289 | Email: comeUser289@gmail.com
-Activity Log:
-1. [create record] at 2021-10-31 11:25:21.036702437 +0200 EET m=+2.963585345
- [logged in] at 2021-10-28 20:57:50.617813552 +0300 EEST m=+2.958096329
-3. [create record] at 2021-10-28 20:57:50.617813718 +0300 EEST m=+2.958096501

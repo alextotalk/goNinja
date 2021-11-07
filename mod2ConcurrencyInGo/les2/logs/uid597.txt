@@ -1,4 +1,0 @@
-ID: 597 | Email: comeUser597@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-31 11:25:24.210044185 +0200 EET m=+6.136927054
-[delete record] at 2021-10-28 20:57:53.787962365 +0300 EEST m=+6.128245155

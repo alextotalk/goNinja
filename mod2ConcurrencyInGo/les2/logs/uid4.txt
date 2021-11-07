@@ -1,6 +1,0 @@
-ID: 4 | Email: comeUser4@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-31 11:25:18.103772377 +0200 EET m=+0.030655284
-2. [create record] at 2021-10-31 11:25:18.10377272 +0200 EET m=+0.030655603
-3. [logged out] at 2021-10-31 11:25:18.103772952 +0200 EET m=+0.030655832
-4. [logged in] at 2021-10-31 11:25:18.103773165 +0200 EET m=+0.030656042

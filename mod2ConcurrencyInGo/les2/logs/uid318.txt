@@ -1,7 +1,0 @@
-ID: 318 | Email: comeUser318@gmail.com
-Activity Log:
-1. [logged in] at 2021-10-28 20:57:50.915368487 +0300 EEST m=+3.255651319
-2. [delete record] at 2021-10-28 20:57:50.915369076 +0300 EEST m=+3.255651899
-
-3. [delete record] at 2021-10-28 20:56:58.237978057 +0300 EEST m=+3.249938102
-4. [logged out] at 2021-10-28 20:56:58.237978265 +0300 EEST m=+3.249938316

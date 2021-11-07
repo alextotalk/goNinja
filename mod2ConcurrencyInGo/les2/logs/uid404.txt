@@ -1,7 +1,0 @@
-ID: 404 | Email: comeUser404@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-31 11:25:22.225325649 +0200 EET m=+4.152208627
-2. [create record] at 2021-10-31 11:25:22.225326159 +0200 EET m=+4.152209060
-3. [logged out] at 2021-10-31 11:25:22.225326488 +0200 EET m=+4.152209394
-1
-4. [create record] at 2021-10-28 20:57:51.798912285 +0300 EEST m=+4.139195042

@@ -1,6 +1,0 @@
-ID: 650 | Email: comeUser650@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-31 11:25:24.755800065 +0200 EET m=+6.682683087
-2. [create record] at 2021-10-31 11:25:24.755800855 +0200 EET m=+6.682683776
-[create record] at 2021-10-28 20:57:54.332984579 +0300 EEST m=+6.673267374
-4. [create record] at 2021-10-28 20:57:54.332984825 +0300 EEST m=+6.673267625

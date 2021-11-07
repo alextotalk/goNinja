@@ -1,5 +1,0 @@
-ID: 608 | Email: comeUser608@gmail.com
-Activity Log:
-1. [create record] at 2021-10-31 11:25:24.323507739 +0200 EET m=+6.250390672
-2. [logged out] at 2021-10-31 11:25:24.323508385 +0200 EET m=+6.250391271
-3. [create record] at 2021-10-31 11:25:24.323508878 +0200 EET m=+6.250391759

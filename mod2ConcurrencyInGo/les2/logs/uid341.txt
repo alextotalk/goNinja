@@ -1,6 +1,0 @@
-ID: 341 | Email: comeUser341@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-31 11:25:21.571537515 +0200 EET m=+3.498420460
-2. [logged in] at 2021-10-31 11:25:21.57153804 +0200 EET m=+3.498420953
-3. [create record] at 2021-10-31 11:25:21.571538493 +0200 EET m=+3.498421406
-4. [delete record] at 2021-10-31 11:25:21.571538778 +0200 EET m=+3.498421703

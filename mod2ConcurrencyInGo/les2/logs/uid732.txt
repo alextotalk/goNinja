@@ -1,7 +1,0 @@
-ID: 732 | Email: comeUser732@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-31 11:25:25.599391494 +0200 EET m=+7.526274488
-2. [logged out] at 2021-10-31 11:25:25.599392256 +0200 EET m=+7.526275177
-1655
-3. [logged out] at 2021-10-28 20:57:55.174879209 +0300 EEST m=+7.515162012
-4. [delete record] at 2021-10-28 20:57:55.174879569 +0300 EEST m=+7.515162370

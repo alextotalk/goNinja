@@ -1,6 +1,0 @@
-ID: 578 | Email: comeUser578@gmail.com
-Activity Log:
-1. [create record] at 2021-10-28 20:57:00.905763435 +0300 EEST m=+5.917723500
-2. [delete record] at 2021-10-28 20:57:00.905763768 +0300 EEST m=+5.917723825
-3. [logged in] at 2021-10-28 20:57:00.905763947 +0300 EEST m=+5.917723996
-4. [logged in] at 2021-10-28 20:57:00.905764156 +0300 EEST m=+5.917724205

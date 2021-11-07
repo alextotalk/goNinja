@@ -1,5 +1,0 @@
-ID: 489 | Email: comeUser489@gmail.com
-Activity Log:
-1. [create record] at 2021-10-28 20:57:52.676899357 +0300 EEST m=+5.017182220
-2. [delete record] at 2021-10-28 20:57:52.676899888 +0300 EEST m=+5.017182715
-ged in] at 2021-10-28 20:56:59.992394991 +0300 EEST m=+5.004355049

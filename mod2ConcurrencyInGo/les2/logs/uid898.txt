@@ -1,6 +1,0 @@
-ID: 898 | Email: comeUser898@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-28 20:57:04.184375252 +0300 EEST m=+9.196335289
-2. [logged out] at 2021-10-28 20:57:04.184375474 +0300 EEST m=+9.196335512
-3. [create record] at 2021-10-28 20:57:04.184375649 +0300 EEST m=+9.196335680
-4. [delete record] at 2021-10-28 20:57:04.184375717 +0300 EEST m=+9.196335744

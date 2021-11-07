@@ -1,6 +1,0 @@
-ID: 220 | Email: comeUser220@gmail.com
-Activity Log:
-1. [create record] at 2021-10-31 11:25:20.327015935 +0200 EET m=+2.253899120
-2. [logged in] at 2021-10-31 11:25:20.327016944 +0200 EET m=+2.253899885
-. [logged out] at 2021-10-28 20:57:49.90784428 +0300 EEST m=+2.248127063
-4. [delete record] at 2021-10-28 20:57:49.907844538 +0300 EEST m=+2.248127318

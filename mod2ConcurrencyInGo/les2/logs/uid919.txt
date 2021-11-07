@@ -1,5 +1,0 @@
-ID: 919 | Email: comeUser919@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-28 20:57:57.100613992 +0300 EEST m=+9.440896825
-2. [delete record] at 2021-10-28 20:57:57.100614398 +0300 EEST m=+9.440897174
-3. [delete record] at 2021-10-28 20:57:57.100614558 +0300 EEST m=+9.440897331

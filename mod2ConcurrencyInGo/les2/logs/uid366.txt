@@ -1,6 +1,0 @@
-ID: 366 | Email: comeUser366@gmail.com
-Activity Log:
-1. [create record] at 2021-10-31 11:25:21.834764777 +0200 EET m=+3.761647670
-2. [logged in] at 2021-10-31 11:25:21.834765034 +0200 EET m=+3.761647917
-3. [delete record] at 2021-10-31 11:25:21.83476523 +0200 EET m=+3.761648104
-4. [create record] at 2021-10-31 11:25:21.834765372 +0200 EET m=+3.761648245

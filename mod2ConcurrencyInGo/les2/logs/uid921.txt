@@ -1,4 +1,0 @@
-ID: 921 | Email: comeUser921@gmail.com
-Activity Log:
-1. [logged out] at 2021-10-28 20:57:57.121427822 +0300 EEST m=+9.461710674
-2. [delete record] at 2021-10-28 20:57:57.121428227 +0300 EEST m=+9.461711008

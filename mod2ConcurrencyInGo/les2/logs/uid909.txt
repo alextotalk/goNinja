@@ -1,5 +1,0 @@
-ID: 909 | Email: comeUser909@gmail.com
-Activity Log:
-1. [create record] at 2021-10-28 20:57:56.997426499 +0300 EEST m=+9.337709369
-create record] at 2021-10-28 20:57:04.296288518 +0300 EEST m=+9.308248559
-3. [logged in] at 2021-10-28 20:57:04.296288677 +0300 EEST m=+9.308248706

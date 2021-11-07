@@ -1,6 +1,0 @@
-ID: 431 | Email: comeUser431@gmail.com
-Activity Log:
-1. [logged in] at 2021-10-28 20:57:52.080099065 +0300 EEST m=+4.420381842
-2. [delete record] at 2021-10-28 20:57:52.080099384 +0300 EEST m=+4.420382155
-3. [create record] at 2021-10-28 20:57:52.080099621 +0300 EEST m=+4.420382387
-4. [delete record] at 2021-10-28 20:57:52.080099705 +0300 EEST m=+4.420382472

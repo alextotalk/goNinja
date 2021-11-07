@@ -1,6 +1,0 @@
-ID: 303 | Email: comeUser303@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-31 11:25:21.180549837 +0200 EET m=+3.107432737
-2. [create record] at 2021-10-31 11:25:21.180550185 +0200 EET m=+3.107433083
-3. [create record] at 2021-10-31 11:25:21.1805504 +0200 EET m=+3.107433301
-4. [delete record] at 2021-10-31 11:25:21.180550603 +0200 EET m=+3.107433484

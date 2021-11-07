@@ -1,6 +1,0 @@
-ID: 255 | Email: comeUser255@gmail.com
-Activity Log:
-1. [logged out] at 2021-10-28 20:57:50.268069298 +0300 EEST m=+2.608352139
-2. [logged in] at 2021-10-28 20:57:50.268069848 +0300 EEST m=+2.608352671
-11
-3. [logged in] at 2021-10-28 20:56:57.590663548 +0300 EEST m=+2.602623588

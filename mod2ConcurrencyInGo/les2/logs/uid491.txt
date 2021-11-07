@@ -1,6 +1,0 @@
-ID: 491 | Email: comeUser491@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-28 20:57:52.697497889 +0300 EEST m=+5.037780758
-2. [logged out] at 2021-10-28 20:57:52.697498348 +0300 EEST m=+5.037781159
-3. [create record] at 2021-10-28 20:57:52.697498926 +0300 EEST m=+5.037781720
-4. [logged in] at 2021-10-28 20:57:52.697500142 +0300 EEST m=+5.037782941

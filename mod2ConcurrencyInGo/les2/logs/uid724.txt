@@ -1,5 +1,0 @@
-ID: 724 | Email: comeUser724@gmail.com
-Activity Log:
-1. [logged out] at 2021-10-31 11:25:25.516931206 +0200 EET m=+7.443814165
-2. [logged in] at 2021-10-31 11:25:25.516931758 +0200 EET m=+7.443814665
-3. [create record] at 2021-10-31 11:25:25.516932022 +0200 EET m=+7.443814910

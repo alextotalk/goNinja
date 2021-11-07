@@ -1,6 +1,0 @@
-ID: 338 | Email: comeUser338@gmail.com
-Activity Log:
-1. [logged out] at 2021-10-31 11:25:21.540604887 +0200 EET m=+3.467487798
-2. [create record] at 2021-10-31 11:25:21.540605285 +0200 EET m=+3.467488184
-[create record] at 2021-10-28 20:57:51.120328016 +0300 EEST m=+3.460610816
-207148

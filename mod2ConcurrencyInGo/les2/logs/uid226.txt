@@ -1,6 +1,0 @@
-ID: 226 | Email: comeUser226@gmail.com
-Activity Log:
-1. [logged out] at 2021-10-31 11:25:20.388845815 +0200 EET m=+2.315728724
-2. [delete record] at 2021-10-31 11:25:20.388846231 +0200 EET m=+2.315729125
-
-3. [create record] at 2021-10-28 20:57:49.96965636 +0300 EEST m=+2.309939135

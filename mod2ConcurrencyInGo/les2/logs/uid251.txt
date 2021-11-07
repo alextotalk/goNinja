@@ -1,6 +1,0 @@
-ID: 251 | Email: comeUser251@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-28 20:57:50.226762518 +0300 EEST m=+2.567045398
-2. [delete record] at 2021-10-28 20:57:50.226763083 +0300 EEST m=+2.567045919
-[logged out] at 2021-10-28 20:56:57.549739893 +0300 EEST m=+2.561699930
-4. [logged out] at 2021-10-28 20:56:57.549739981 +0300 EEST m=+2.561700013

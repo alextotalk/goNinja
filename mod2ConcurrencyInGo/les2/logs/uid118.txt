@@ -1,4 +1,0 @@
-ID: 118 | Email: comeUser118@gmail.com
-Activity Log:
-1. [logged out] at 2021-10-28 20:56:56.186112854 +0300 EEST m=+1.198072937
-2. [delete record] at 2021-10-28 20:56:56.186113139 +0300 EEST m=+1.198073199

@@ -1,7 +1,0 @@
-ID: 580 | Email: comeUser580@gmail.com
-Activity Log:
-1. [logged in] at 2021-10-31 11:25:24.036706289 +0200 EET m=+5.963589186
-8417
-2. [delete record] at 2021-10-28 20:57:53.613126267 +0300 EEST m=+5.953409106
-3. [delete record] at 2021-10-28 20:57:53.613126579 +0300 EEST m=+5.953409391
-4. [create record] at 2021-10-28 20:57:53.613126832 +0300 EEST m=+5.953409659

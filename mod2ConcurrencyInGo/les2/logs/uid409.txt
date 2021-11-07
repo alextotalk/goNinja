@@ -1,4 +1,0 @@
-ID: 409 | Email: comeUser409@gmail.com
-Activity Log:
-1. [logged out] at 2021-10-28 20:57:51.849811315 +0300 EEST m=+4.190094108
-2. [create record] at 2021-10-28 20:57:51.849811563 +0300 EEST m=+4.190094328

@@ -1,4 +1,0 @@
-ID: 591 | Email: comeUser591@gmail.com
-Activity Log:
-1. [logged in] at 2021-10-28 20:57:01.043423252 +0300 EEST m=+6.055383321
-2. [delete record] at 2021-10-28 20:57:01.043423548 +0300 EEST m=+6.055383614

@@ -1,5 +1,0 @@
-ID: 929 | Email: comeUser929@gmail.com
-Activity Log:
-1. [logged out] at 2021-10-28 20:57:04.513701016 +0300 EEST m=+9.525661065
-2. [create record] at 2021-10-28 20:57:04.513701359 +0300 EEST m=+9.525661392
-3. [delete record] at 2021-10-28 20:57:04.51370156 +0300 EEST m=+9.525661590

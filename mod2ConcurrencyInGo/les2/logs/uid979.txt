@@ -1,6 +1,0 @@
-ID: 979 | Email: comeUser979@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-28 20:57:57.719730335 +0300 EEST m=+10.060013218
-2. [logged out] at 2021-10-28 20:57:57.719730873 +0300 EEST m=+10.060013679
-3. [create record] at 2021-10-28 20:57:57.719731254 +0300 EEST m=+10.060014054
-ed out] at 2021-10-28 20:57:05.025184116 +0300 EEST m=+10.037144167

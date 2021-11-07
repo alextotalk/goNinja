@@ -1,8 +1,0 @@
-ID: 26 | Email: comeUser26@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-31 11:25:18.329231339 +0200 EET m=+0.256114231
-2. [logged in] at 2021-10-31 11:25:18.329231592 +0200 EET m=+0.256114463
-4
-3. [logged out] at 2021-10-28 20:57:47.91452623 +0300 EEST m=+0.254808997
-269
-4. [delete record] at 2021-10-28 20:56:55.24386259 +0300 EEST m=+0.255822668

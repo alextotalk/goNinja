@@ -1,6 +1,0 @@
-ID: 912 | Email: comeUser912@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-28 20:57:57.028250535 +0300 EEST m=+9.368533343
-2. [logged in] at 2021-10-28 20:57:57.028251032 +0300 EEST m=+9.368533836
-3. [logged in] at 2021-10-28 20:57:57.028251445 +0300 EEST m=+9.368534220
-4. [delete record] at 2021-10-28 20:57:57.028251662 +0300 EEST m=+9.368534439

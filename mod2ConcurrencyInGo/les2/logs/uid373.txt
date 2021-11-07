@@ -1,4 +1,0 @@
-ID: 373 | Email: comeUser373@gmail.com
-Activity Log:
-1. [logged in] at 2021-10-31 11:25:21.906535557 +0200 EET m=+3.833418508
-2. [delete record] at 2021-10-31 11:25:21.90653682 +0200 EET m=+3.833419727

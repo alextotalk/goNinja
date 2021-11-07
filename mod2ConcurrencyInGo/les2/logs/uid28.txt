@@ -1,7 +1,0 @@
-ID: 28 | Email: comeUser28@gmail.com
-Activity Log:
-1. [create record] at 2021-10-31 11:25:18.349576385 +0200 EET m=+0.276459279
-2. [logged out] at 2021-10-31 11:25:18.349582649 +0200 EET m=+0.276465514
-3. [create record] at 2021-10-31 11:25:18.349582836 +0200 EET m=+0.276465701
-4. [delete record] at 2021-10-31 11:25:18.349582935 +0200 EET m=+0.276465799
-

@@ -1,4 +1,0 @@
-ID: 988 | Email: comeUser988@gmail.com
-Activity Log:
-1. [logged in] at 2021-10-28 20:57:57.812385583 +0300 EEST m=+10.152668378
-2. [create record] at 2021-10-28 20:57:57.8123859 +0300 EEST m=+10.152668695

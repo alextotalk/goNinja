@@ -1,6 +1,0 @@
-ID: 261 | Email: comeUser261@gmail.com
-Activity Log:
-1. [logged out] at 2021-10-31 11:25:20.748530473 +0200 EET m=+2.675413372
-2. [create record] at 2021-10-31 11:25:20.748530785 +0200 EET m=+2.675413672
-3. [logged out] at 2021-10-31 11:25:20.748531068 +0200 EET m=+2.675413955
-4. [create record] at 2021-10-31 11:25:20.748531244 +0200 EET m=+2.675414120

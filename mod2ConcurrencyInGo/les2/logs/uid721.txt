@@ -1,5 +1,0 @@
-ID: 721 | Email: comeUser721@gmail.com
-Activity Log:
-1. [logged out] at 2021-10-31 11:25:25.48613252 +0200 EET m=+7.413015419
-2. [delete record] at 2021-10-31 11:25:25.486132808 +0200 EET m=+7.413015690
-3. [delete record] at 2021-10-31 11:25:25.48613305 +0200 EET m=+7.413015924

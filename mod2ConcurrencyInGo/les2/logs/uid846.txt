@@ -1,6 +1,0 @@
-ID: 846 | Email: comeUser846@gmail.com
-Activity Log:
-1. [create record] at 2021-10-28 20:57:56.347038032 +0300 EEST m=+8.687320903
-2. [logged in] at 2021-10-28 20:57:56.347038597 +0300 EEST m=+8.687321400
-3. [delete record] at 2021-10-28 20:57:56.347039035 +0300 EEST m=+8.687321840
-4. [create record] at 2021-10-28 20:57:56.347039472 +0300 EEST m=+8.687322281

@@ -1,4 +1,0 @@
-ID: 333 | Email: comeUser333@gmail.com
-Activity Log:
-1. [logged out] at 2021-10-31 11:25:21.489223987 +0200 EET m=+3.416106858
-2. [delete record] at 2021-10-31 11:25:21.489224331 +0200 EET m=+3.416107204

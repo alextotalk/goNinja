@@ -1,6 +1,0 @@
-ID: 148 | Email: comeUser148@gmail.com
-Activity Log:
-1. [create record] at 2021-10-28 20:57:49.167309414 +0300 EEST m=+1.507592250
-2. [logged in] at 2021-10-28 20:57:49.16731032 +0300 EEST m=+1.507593128
-3. [delete record] at 2021-10-28 20:57:49.167310697 +0300 EEST m=+1.507593524
-4. [delete record] at 2021-10-28 20:57:49.16731105 +0300 EEST m=+1.507593881

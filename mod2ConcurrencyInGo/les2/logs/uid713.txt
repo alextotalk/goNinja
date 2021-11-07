@@ -1,6 +1,0 @@
-ID: 713 | Email: comeUser713@gmail.com
-Activity Log:
-1. [create record] at 2021-10-28 20:57:54.97984965 +0300 EEST m=+7.320132445
-2. [logged out] at 2021-10-28 20:57:54.979849946 +0300 EEST m=+7.320132725
-3. [delete record] at 2021-10-28 20:57:54.979850125 +0300 EEST m=+7.320133136
-4. [delete record] at 2021-10-28 20:57:54.979850543 +0300 EEST m=+7.320133315

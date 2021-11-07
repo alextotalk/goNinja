@@ -1,4 +1,0 @@
-ID: 850 | Email: comeUser850@gmail.com
-Activity Log:
-1. [create record] at 2021-10-28 20:57:56.38822901 +0300 EEST m=+8.728511961
-2. [delete record] at 2021-10-28 20:57:56.388229735 +0300 EEST m=+8.728512550

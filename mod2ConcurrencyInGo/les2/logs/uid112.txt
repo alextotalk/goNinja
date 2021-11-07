@@ -1,5 +1,0 @@
-ID: 112 | Email: comeUser112@gmail.com
-Activity Log:
-1. [logged out] at 2021-10-31 11:25:19.215582507 +0200 EET m=+1.142465452
-2. [create record] at 2021-10-31 11:25:19.215583005 +0200 EET m=+1.142465906
-6028

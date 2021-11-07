@@ -1,8 +1,0 @@
-ID: 780 | Email: comeUser780@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-31 11:25:26.092815155 +0200 EET m=+8.019698146
-2. [logged in] at 2021-10-31 11:25:26.092815626 +0200 EET m=+8.019698527
-3. [delete record] at 2021-10-31 11:25:26.092816003 +0200 EET m=+8.019698904
-
-4. [logged out] at 2021-10-28 20:57:55.668854037 +0300 EEST m=+8.009136823
-

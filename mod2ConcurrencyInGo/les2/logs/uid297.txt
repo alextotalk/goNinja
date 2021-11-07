@@ -1,4 +1,0 @@
-ID: 297 | Email: comeUser297@gmail.com
-Activity Log:
-1. [logged out] at 2021-10-28 20:57:50.700237893 +0300 EEST m=+3.040521146
-. [logged out] at 2021-10-28 20:56:58.021915869 +0300 EEST m=+3.033875905

@@ -1,4 +1,0 @@
-ID: 54 | Email: comeUser54@gmail.com
-Activity Log:
-1. [create record] at 2021-10-28 20:57:48.201383433 +0300 EEST m=+0.541666434
-2. [create record] at 2021-10-28 20:57:48.201384027 +0300 EEST m=+0.541666805

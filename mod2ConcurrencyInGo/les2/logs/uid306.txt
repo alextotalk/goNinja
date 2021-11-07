@@ -1,6 +1,0 @@
-ID: 306 | Email: comeUser306@gmail.com
-Activity Log:
-1. [logged in] at 2021-10-31 11:25:21.211398818 +0200 EET m=+3.138281790
-2. [logged in] at 2021-10-31 11:25:21.211399376 +0200 EET m=+3.138282301
-09766
-3. [delete record] at 2021-10-28 20:56:58.114449973 +0300 EEST m=+3.126410016

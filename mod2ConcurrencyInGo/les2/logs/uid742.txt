@@ -1,5 +1,0 @@
-ID: 742 | Email: comeUser742@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-31 11:25:25.701727711 +0200 EET m=+7.628610630
-2. [logged out] at 2021-10-31 11:25:25.70172808 +0200 EET m=+7.628610951
-. [logged in] at 2021-10-28 20:57:55.277594716 +0300 EEST m=+7.617877540

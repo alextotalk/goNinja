@@ -1,5 +1,0 @@
-ID: 529 | Email: comeUser529@gmail.com
-Activity Log:
-1. [create record] at 2021-10-31 11:25:23.510949111 +0200 EET m=+5.437832125
-2. [logged in] at 2021-10-31 11:25:23.510949645 +0200 EET m=+5.437832573
-3. [create record] at 2021-10-31 11:25:23.510950077 +0200 EET m=+5.437832995

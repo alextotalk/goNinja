@@ -1,5 +1,0 @@
-ID: 765 | Email: comeUser765@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-31 11:25:25.938438938 +0200 EET m=+7.865321869
-2. [delete record] at 2021-10-31 11:25:25.938439382 +0200 EET m=+7.865322294
-3. [create record] at 2021-10-31 11:25:25.938439656 +0200 EET m=+7.865322567

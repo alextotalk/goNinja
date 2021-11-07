@@ -1,4 +1,0 @@
-ID: 449 | Email: comeUser449@gmail.com
-Activity Log:
-1. [logged in] at 2021-10-31 11:25:22.687902995 +0200 EET m=+4.614786009
-2. [delete record] at 2021-10-31 11:25:22.687903633 +0200 EET m=+4.614786570

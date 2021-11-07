@@ -1,6 +1,0 @@
-ID: 749 | Email: comeUser749@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-31 11:25:25.773952586 +0200 EET m=+7.700835571
-2. [logged in] at 2021-10-31 11:25:25.77395338 +0200 EET m=+7.700836297
-. [delete record] at 2021-10-28 20:57:02.659628005 +0300 EEST m=+7.671588066
-4. [logged out] at 2021-10-28 20:57:02.659628248 +0300 EEST m=+7.671588301

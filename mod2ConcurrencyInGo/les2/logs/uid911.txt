@@ -1,5 +1,0 @@
-ID: 911 | Email: comeUser911@gmail.com
-Activity Log:
-1. [logged out] at 2021-10-28 20:57:57.017951188 +0300 EEST m=+9.358233988
-2. [logged in] at 2021-10-28 20:57:57.017951441 +0300 EEST m=+9.358234210
-3. [create record] at 2021-10-28 20:57:57.017951557 +0300 EEST m=+9.358234328

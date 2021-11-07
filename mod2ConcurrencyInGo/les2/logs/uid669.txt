@@ -1,6 +1,0 @@
-ID: 669 | Email: comeUser669@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-31 11:25:24.950468634 +0200 EET m=+6.877351566
-
-logged out] at 2021-10-28 20:57:01.842149814 +0300 EEST m=+6.854109882
-3. [delete record] at 2021-10-28 20:57:01.842150124 +0300 EEST m=+6.854110171

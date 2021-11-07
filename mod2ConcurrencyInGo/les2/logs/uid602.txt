@@ -1,6 +1,0 @@
-ID: 602 | Email: comeUser602@gmail.com
-Activity Log:
-1. [logged out] at 2021-10-28 20:57:53.839766592 +0300 EEST m=+6.180049524
-2. [create record] at 2021-10-28 20:57:53.839767249 +0300 EEST m=+6.180050100
-3. [logged out] at 2021-10-28 20:57:53.839767694 +0300 EEST m=+6.180050530
-4. [logged in] at 2021-10-28 20:57:53.839768039 +0300 EEST m=+6.180050874

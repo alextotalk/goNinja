@@ -1,5 +1,0 @@
-ID: 973 | Email: comeUser973@gmail.com
-Activity Log:
-1. [logged in] at 2021-10-28 20:57:57.658021102 +0300 EEST m=+9.998303935
-2. [logged out] at 2021-10-28 20:57:57.658021435 +0300 EEST m=+9.998304210
-3. [create record] at 2021-10-28 20:57:57.658021595 +0300 EEST m=+9.998304371

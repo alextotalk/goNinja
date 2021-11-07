@@ -1,5 +1,0 @@
-ID: 23 | Email: comeUser23@gmail.com
-Activity Log:
-1. [logged in] at 2021-10-28 20:57:47.883960234 +0300 EEST m=+0.224243011
-2. [create record] at 2021-10-28 20:57:47.883960488 +0300 EEST m=+0.224243256
-3. [create record] at 2021-10-28 20:57:47.883960672 +0300 EEST m=+0.224243438

@@ -1,5 +1,0 @@
-ID: 443 | Email: comeUser443@gmail.com
-Activity Log:
-1. [logged in] at 2021-10-28 20:57:52.202881439 +0300 EEST m=+4.543164293
-. [logged out] at 2021-10-28 20:56:59.520219327 +0300 EEST m=+4.532179386
-3. [create record] at 2021-10-28 20:56:59.520219515 +0300 EEST m=+4.532179570

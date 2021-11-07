@@ -1,5 +1,0 @@
-ID: 814 | Email: comeUser814@gmail.com
-Activity Log:
-1. [create record] at 2021-10-28 20:57:56.017551713 +0300 EEST m=+8.357834556
-2. [logged in] at 2021-10-28 20:57:56.017552263 +0300 EEST m=+8.357835086
-3. [logged in] at 2021-10-28 20:57:56.017552855 +0300 EEST m=+8.357835653

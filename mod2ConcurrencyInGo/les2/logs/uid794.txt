@@ -1,7 +1,0 @@
-ID: 794 | Email: comeUser794@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-31 11:25:26.236932202 +0200 EET m=+8.163815171
-
-2. [logged out] at 2021-10-28 20:57:03.12083375 +0300 EEST m=+8.132793813
-3. [create record] at 2021-10-28 20:57:03.120833984 +0300 EEST m=+8.132794041
-4. [create record] at 2021-10-28 20:57:03.120834178 +0300 EEST m=+8.132794236

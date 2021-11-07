@@ -1,6 +1,0 @@
-ID: 854 | Email: comeUser854@gmail.com
-Activity Log:
-1. [create record] at 2021-10-28 20:57:56.429688567 +0300 EEST m=+8.769971717
-2. [logged out] at 2021-10-28 20:57:56.429689626 +0300 EEST m=+8.769972449
-3. [logged in] at 2021-10-28 20:57:56.429689966 +0300 EEST m=+8.769972770
-89

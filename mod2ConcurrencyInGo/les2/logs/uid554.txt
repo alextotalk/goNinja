@@ -1,5 +1,0 @@
-ID: 554 | Email: comeUser554@gmail.com
-Activity Log:
-1. [logged in] at 2021-10-31 11:25:23.768714687 +0200 EET m=+5.695597658
-2. [create record] at 2021-10-31 11:25:23.768715138 +0200 EET m=+5.695598037
-. [delete record] at 2021-10-28 20:57:53.346164661 +0300 EEST m=+5.686447484

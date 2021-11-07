@@ -1,6 +1,0 @@
-ID: 783 | Email: comeUser783@gmail.com
-Activity Log:
-1. [logged in] at 2021-10-28 20:57:55.699598278 +0300 EEST m=+8.039881107
-2. [delete record] at 2021-10-28 20:57:55.699598768 +0300 EEST m=+8.039881571
-3. [delete record] at 2021-10-28 20:57:03.008039965 +0300 EEST m=+8.020000011
-4. [delete record] at 2021-10-28 20:57:03.008040129 +0300 EEST m=+8.020000184

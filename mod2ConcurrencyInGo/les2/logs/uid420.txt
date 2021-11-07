@@ -1,6 +1,0 @@
-ID: 420 | Email: comeUser420@gmail.com
-Activity Log:
-1. [create record] at 2021-10-31 11:25:22.389927136 +0200 EET m=+4.316810027
-
-2. [create record] at 2021-10-28 20:57:51.962698064 +0300 EEST m=+4.302980920
-3. [logged in] at 2021-10-28 20:57:51.962698702 +0300 EEST m=+4.302981522

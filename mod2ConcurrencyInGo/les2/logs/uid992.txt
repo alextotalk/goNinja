@@ -1,6 +1,0 @@
-ID: 992 | Email: comeUser992@gmail.com
-Activity Log:
-1. [logged out] at 2021-10-28 20:57:57.853452869 +0300 EEST m=+10.193735686
-2. [create record] at 2021-10-28 20:57:05.158569462 +0300 EEST m=+10.170529528
-3. [create record] at 2021-10-28 20:57:05.158569737 +0300 EEST m=+10.170529791
-4. [logged in] at 2021-10-28 20:57:05.158569915 +0300 EEST m=+10.170529971

@@ -1,4 +1,0 @@
-ID: 39 | Email: comeUser39@gmail.com
-Activity Log:
-1. [create record] at 2021-10-28 20:57:48.047691188 +0300 EEST m=+0.387973988
-2. [logged in] at 2021-10-28 20:57:48.047691503 +0300 EEST m=+0.387974289

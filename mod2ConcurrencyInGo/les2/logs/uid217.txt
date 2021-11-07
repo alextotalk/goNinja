@@ -1,4 +1,0 @@
-ID: 217 | Email: comeUser217@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-28 20:57:49.877060934 +0300 EEST m=+2.217343771
-2. [delete record] at 2021-10-28 20:57:49.877061927 +0300 EEST m=+2.217344723

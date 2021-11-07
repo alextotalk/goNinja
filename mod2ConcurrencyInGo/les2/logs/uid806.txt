@@ -1,4 +1,0 @@
-ID: 806 | Email: comeUser806@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-28 20:57:55.935317957 +0300 EEST m=+8.275600776
-2. [logged out] at 2021-10-28 20:57:55.935318429 +0300 EEST m=+8.275601214

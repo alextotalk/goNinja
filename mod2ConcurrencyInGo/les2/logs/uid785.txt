@@ -1,6 +1,0 @@
-ID: 785 | Email: comeUser785@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-31 11:25:26.144205599 +0200 EET m=+8.071088532
-2. [logged out] at 2021-10-31 11:25:26.144206003 +0200 EET m=+8.071088916
-3. [delete record] at 2021-10-31 11:25:26.144206347 +0200 EET m=+8.071089695
-8

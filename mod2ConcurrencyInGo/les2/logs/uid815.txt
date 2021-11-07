@@ -1,5 +1,0 @@
-ID: 815 | Email: comeUser815@gmail.com
-Activity Log:
-1. [logged out] at 2021-10-28 20:57:56.027774238 +0300 EEST m=+8.368057019
-2. [logged out] at 2021-10-28 20:57:56.027774452 +0300 EEST m=+8.368057225
-3. [create record] at 2021-10-28 20:57:56.02777459 +0300 EEST m=+8.368057373

@@ -1,4 +1,0 @@
-ID: 92 | Email: comeUser92@gmail.com
-Activity Log:
-1. [logged out] at 2021-10-31 11:25:19.009747633 +0200 EET m=+0.936630574
-. [delete record] at 2021-10-28 20:57:48.591485115 +0300 EEST m=+0.931767899

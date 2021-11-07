@@ -1,7 +1,0 @@
-ID: 82 | Email: comeUser82@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-31 11:25:18.907124202 +0200 EET m=+0.834007128
-2. [logged in] at 2021-10-31 11:25:18.907124646 +0200 EET m=+0.834007556
-3. [delete record] at 2021-10-31 11:25:18.907124992 +0200 EET m=+0.834007896
-4. [create record] at 2021-10-31 11:25:18.907125304 +0200 EET m=+0.834008194
-9865596

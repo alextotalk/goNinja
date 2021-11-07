@@ -1,5 +1,0 @@
-ID: 512 | Email: comeUser512@gmail.com
-Activity Log:
-1. [create record] at 2021-10-31 11:25:23.335419472 +0200 EET m=+5.262302405
-2. [create record] at 2021-10-31 11:25:23.335419889 +0200 EET m=+5.262302779
-. [delete record] at 2021-10-28 20:57:00.228275435 +0300 EEST m=+5.240235467

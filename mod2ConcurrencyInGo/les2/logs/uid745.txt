@@ -1,6 +1,0 @@
-ID: 745 | Email: comeUser745@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-28 20:57:55.308545248 +0300 EEST m=+7.648828061
-2. [logged out] at 2021-10-28 20:57:55.308545611 +0300 EEST m=+7.648828407
-3. [create record] at 2021-10-28 20:57:02.618713355 +0300 EEST m=+7.630673393
-4. [delete record] at 2021-10-28 20:57:02.61871349 +0300 EEST m=+7.630673528

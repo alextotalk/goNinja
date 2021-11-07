@@ -1,5 +1,0 @@
-ID: 938 | Email: comeUser938@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-28 20:57:04.60553795 +0300 EEST m=+9.617497984
-2. [create record] at 2021-10-28 20:57:04.605538208 +0300 EEST m=+9.617498246
-3. [delete record] at 2021-10-28 20:57:04.605538308 +0300 EEST m=+9.617498336

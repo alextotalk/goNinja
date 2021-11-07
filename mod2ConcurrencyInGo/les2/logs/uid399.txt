@@ -1,5 +1,0 @@
-ID: 399 | Email: comeUser399@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-31 11:25:22.173601118 +0200 EET m=+4.100484093
-2. [logged out] at 2021-10-31 11:25:22.173601591 +0200 EET m=+4.100484507
-3. [create record] at 2021-10-31 11:25:22.173601958 +0200 EET m=+4.100484852

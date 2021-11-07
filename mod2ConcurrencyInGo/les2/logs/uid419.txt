@@ -1,6 +1,0 @@
-ID: 419 | Email: comeUser419@gmail.com
-Activity Log:
-1. [create record] at 2021-10-28 20:57:51.952399587 +0300 EEST m=+4.292682464
-2. [logged out] at 2021-10-28 20:56:59.274117334 +0300 EEST m=+4.286077387
-3. [create record] at 2021-10-28 20:56:59.274117563 +0300 EEST m=+4.286077619
-4. [logged in] at 2021-10-28 20:56:59.274117728 +0300 EEST m=+4.286077781

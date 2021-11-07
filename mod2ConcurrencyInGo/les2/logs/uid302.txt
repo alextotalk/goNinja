@@ -1,4 +1,0 @@
-ID: 302 | Email: comeUser302@gmail.com
-Activity Log:
-1. [create record] at 2021-10-28 20:57:50.751526449 +0300 EEST m=+3.091809234
-2. [delete record] at 2021-10-28 20:56:58.073288351 +0300 EEST m=+3.085248384

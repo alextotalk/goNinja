@@ -1,6 +1,0 @@
-ID: 461 | Email: comeUser461@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-28 20:57:52.388291503 +0300 EEST m=+4.728574299
-2. [create record] at 2021-10-28 20:57:52.388291806 +0300 EEST m=+4.728574589
-3. [logged out] at 2021-10-28 20:57:52.388291953 +0300 EEST m=+4.728574732
-4. [logged in] at 2021-10-28 20:57:52.388292166 +0300 EEST m=+4.728574948

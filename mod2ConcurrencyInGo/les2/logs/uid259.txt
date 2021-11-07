@@ -1,5 +1,0 @@
-ID: 259 | Email: comeUser259@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-31 11:25:20.727906737 +0200 EET m=+2.654789640
-2. [logged out] at 2021-10-31 11:25:20.727907368 +0200 EET m=+2.654790249
-3. [create record] at 2021-10-31 11:25:20.727907809 +0200 EET m=+2.654790703

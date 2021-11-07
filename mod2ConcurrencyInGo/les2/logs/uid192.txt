@@ -1,5 +1,0 @@
-ID: 192 | Email: comeUser192@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-31 11:25:20.038989307 +0200 EET m=+1.965872341
-2. [logged out] at 2021-10-31 11:25:20.038989985 +0200 EET m=+1.965872922
-3. [delete record] at 2021-10-31 11:25:20.038990489 +0200 EET m=+1.965873400

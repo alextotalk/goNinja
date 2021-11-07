@@ -1,6 +1,0 @@
-ID: 752 | Email: comeUser752@gmail.com
-Activity Log:
-1. [create record] at 2021-10-31 11:25:25.804880395 +0200 EET m=+7.731763336
-2. [delete record] at 2021-10-31 11:25:25.80488075 +0200 EET m=+7.731763628
-3. [logged out] at 2021-10-31 11:25:25.804880933 +0200 EET m=+7.731763809
-4. [logged in] at 2021-10-28 20:57:02.69035976 +0300 EEST m=+7.702319819

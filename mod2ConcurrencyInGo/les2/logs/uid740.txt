@@ -1,6 +1,0 @@
-ID: 740 | Email: comeUser740@gmail.com
-Activity Log:
-1. [logged out] at 2021-10-31 11:25:25.681289078 +0200 EET m=+7.608171970
-2. [delete record] at 2021-10-31 11:25:25.68128932 +0200 EET m=+7.608172188
-. [delete record] at 2021-10-28 20:57:55.256955062 +0300 EEST m=+7.597237852
-4. [logged in] at 2021-10-28 20:57:55.256955597 +0300 EEST m=+7.597238387

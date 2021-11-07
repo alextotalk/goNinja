@@ -1,5 +1,0 @@
-ID: 156 | Email: comeUser156@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-31 11:25:19.668510847 +0200 EET m=+1.595393868
-2. [logged out] at 2021-10-31 11:25:19.668511452 +0200 EET m=+1.595394379
-3. [create record] at 2021-10-31 11:25:19.668511849 +0200 EET m=+1.595394757

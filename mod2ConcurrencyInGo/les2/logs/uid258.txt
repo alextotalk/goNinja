@@ -1,6 +1,0 @@
-ID: 258 | Email: comeUser258@gmail.com
-Activity Log:
-1. [create record] at 2021-10-31 11:25:20.717641869 +0200 EET m=+2.644524790
-2. [logged in] at 2021-10-31 11:25:20.717643358 +0200 EET m=+2.644526250
-3. [create record] at 2021-10-31 11:25:20.717644085 +0200 EET m=+2.644526980
-4. [create record] at 2021-10-31 11:25:20.717644789 +0200 EET m=+2.644527685

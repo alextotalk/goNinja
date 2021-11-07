@@ -1,7 +1,0 @@
-ID: 161 | Email: comeUser161@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-31 11:25:19.719983002 +0200 EET m=+1.646865890
-
-2. [delete record] at 2021-10-28 20:56:56.6269851 +0300 EEST m=+1.638945166
-3. [logged out] at 2021-10-28 20:56:56.626985341 +0300 EEST m=+1.638945407
-4. [logged out] at 2021-10-28 20:56:56.626985671 +0300 EEST m=+1.638945722

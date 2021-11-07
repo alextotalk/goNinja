@@ -1,6 +1,0 @@
-ID: 754 | Email: comeUser754@gmail.com
-Activity Log:
-1. [create record] at 2021-10-31 11:25:25.825390068 +0200 EET m=+7.752273128
- [logged in] at 2021-10-28 20:57:02.710911684 +0300 EEST m=+7.722871744
-3. [delete record] at 2021-10-28 20:57:02.710911892 +0300 EEST m=+7.722871950
-4. [logged in] at 2021-10-28 20:57:02.710912137 +0300 EEST m=+7.722872185

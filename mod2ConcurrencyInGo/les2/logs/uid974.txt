@@ -1,6 +1,0 @@
-ID: 974 | Email: comeUser974@gmail.com
-Activity Log:
-1. [logged in] at 2021-10-28 20:57:57.668335645 +0300 EEST m=+10.008618521
-2. [logged out] at 2021-10-28 20:57:57.66833624 +0300 EEST m=+10.008619056
-
-3. [logged in] at 2021-10-28 20:57:04.97414044 +0300 EEST m=+9.986100494

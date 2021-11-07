@@ -1,4 +1,0 @@
-ID: 445 | Email: comeUser445@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-28 20:57:52.223504729 +0300 EEST m=+4.563787596
-2. [delete record] at 2021-10-28 20:57:52.223505317 +0300 EEST m=+4.563788137

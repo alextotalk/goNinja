@@ -1,6 +1,0 @@
-ID: 679 | Email: comeUser679@gmail.com
-Activity Log:
-1. [logged out] at 2021-10-28 20:57:54.631055574 +0300 EEST m=+6.971338478
-2. [logged in] at 2021-10-28 20:57:54.631057892 +0300 EEST m=+6.971341704
-3. [create record] at 2021-10-28 20:57:54.631059152 +0300 EEST m=+6.971341975
-4. [logged out] at 2021-10-28 20:57:54.63105959 +0300 EEST m=+6.971342399

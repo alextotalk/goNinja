@@ -1,4 +1,0 @@
-ID: 857 | Email: comeUser857@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-28 20:57:03.765978729 +0300 EEST m=+8.777938801
-2. [delete record] at 2021-10-28 20:57:03.765978971 +0300 EEST m=+8.777939005

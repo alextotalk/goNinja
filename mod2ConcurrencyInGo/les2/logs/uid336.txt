@@ -1,5 +1,0 @@
-ID: 336 | Email: comeUser336@gmail.com
-Activity Log:
-1. [create record] at 2021-10-31 11:25:21.520006358 +0200 EET m=+3.446889270
-2. [logged in] at 2021-10-31 11:25:21.520006942 +0200 EET m=+3.446889840
-94

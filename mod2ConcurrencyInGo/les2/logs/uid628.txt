@@ -1,6 +1,0 @@
-ID: 628 | Email: comeUser628@gmail.com
-Activity Log:
-1. [logged out] at 2021-10-31 11:25:24.52973771 +0200 EET m=+6.456620622
-2. [logged out] at 2021-10-31 11:25:24.529738001 +0200 EET m=+6.456620877
-3. [delete record] at 2021-10-31 11:25:24.529738157 +0200 EET m=+6.456621040
-434107907

@@ -1,4 +1,0 @@
-ID: 697 | Email: comeUser697@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-28 20:57:54.815893878 +0300 EEST m=+7.156176715
-[delete record] at 2021-10-28 20:57:02.127985135 +0300 EEST m=+7.139945164

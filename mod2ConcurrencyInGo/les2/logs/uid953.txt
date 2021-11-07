@@ -1,5 +1,0 @@
-ID: 953 | Email: comeUser953@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-28 20:57:57.451559978 +0300 EEST m=+9.791842833
-2. [create record] at 2021-10-28 20:57:57.451560314 +0300 EEST m=+9.791843095
-3. [delete record] at 2021-10-28 20:57:57.451560482 +0300 EEST m=+9.791843259

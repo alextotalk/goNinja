@@ -1,5 +1,0 @@
-ID: 75 | Email: comeUser75@gmail.com
-Activity Log:
-1. [create record] at 2021-10-31 11:25:18.835035446 +0200 EET m=+0.761918415
-2. [create record] at 2021-10-31 11:25:18.835035987 +0200 EET m=+0.761918909
-3. [logged in] at 2021-10-31 11:25:18.835036316 +0200 EET m=+0.761919249

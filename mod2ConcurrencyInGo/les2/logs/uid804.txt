@@ -1,6 +1,0 @@
-ID: 804 | Email: comeUser804@gmail.com
-Activity Log:
-1. [logged in] at 2021-10-28 20:57:55.914810153 +0300 EEST m=+8.255092949
-2. [logged in] at 2021-10-28 20:57:55.914810449 +0300 EEST m=+8.255093224
-3. [logged out] at 2021-10-28 20:57:55.914810584 +0300 EEST m=+8.255093360
-4. [create record] at 2021-10-28 20:57:55.9148108 +0300 EEST m=+8.255093575

@@ -1,6 +1,0 @@
-ID: 121 | Email: comeUser121@gmail.com
-Activity Log:
-1. [delete record] at 2021-10-31 11:25:19.308099156 +0200 EET m=+1.234982083
-2. [delete record] at 2021-10-31 11:25:19.308099667 +0200 EET m=+1.234982580
-ogged in] at 2021-10-28 20:56:56.216816935 +0300 EEST m=+1.228776990
-4. [logged out] at 2021-10-28 20:56:56.216817106 +0300 EEST m=+1.228777150
