@@ -2,89 +2,84 @@ package main
 
 import (
 	"fmt"
+	"io"
+	"io/ioutil"
 	"log"
-	"math/rand"
+	"net/http"
+	"net/http/cookiejar"
+	"net/url"
 	"os"
 	"time"
 )
 
-var action = []string{
-	"logged in",
-	"logged out",
-	"create record",
-	"delete record",
-	"update record",
+type loggerRoundTripper struct {
+	logger io.Writer
+	next   http.RoundTripper
 }
 
-type logItem struct {
-	action    string
-	timestamp time.Time
-}
-type User struct {
-	id    int
-	email string
-	logs  []logItem
-}
-
-func (u User) getActivityInfo() string {
-	out := fmt.Sprintf("ID: %d | Email: %s\nActivity Log:\n", u.id, u.email)
-	for i, item := range u.logs {
-		out += fmt.Sprintf("%d. [%s] at %s\n", i+1, item.action, item.timestamp)
+func (l loggerRoundTripper) RoundTrip(r *http.Request) (*http.Response, error) {
+	_, err := fmt.Fprintf(l.logger, "[%s], %s, %s\n", time.Now().Format(time.ANSIC), r.Method, r.URL)
+	if err != nil {
+		return nil, err
 	}
-	return out
+
+	return l.next.RoundTrip(r)
 }
 
 func main() {
+	cookie := &http.Cookie{
+		Name:   "token",
+		Value:  "some_token",
+		MaxAge: 300,
+	}
+	cookies := []*http.Cookie{cookie}
+	u := url.URL{Host: "https://academy.golang-ninja.com/"}
 
-	//user := User{1, "max@ninja",
-	//	[]logItem{
-	//		{action[0], time.Now()},
-	//		{action[2], time.Now()},
-	//		{action[3], time.Now()},
-	//		{action[1], time.Now()},
-	//	}}
-	//fmt.Println(user.getActivityInfo())
+	jar, err := cookiejar.New(nil)
+	jar.SetCookies(&u, cookies)
 
-	rand.Seed(time.Now().Unix())
-	users := generateUsers(1000)
-	for _, user := range users {
-		err := saveUserInfo(user)
-		if err != nil {
-			log.Fatalln(err)
-		}
+	client := &http.Client{
+		CheckRedirect: func(req *http.Request, via []*http.Request) error {
+			fmt.Println(req.Response.Status)
+			fmt.Println("\nCookies", req.Cookies())
+			fmt.Println(req.Response.Header.Get("Location"))
+			fmt.Println("REDIRECT")
+
+			return nil
+		},
+
+		Transport: &loggerRoundTripper{
+			logger: os.Stdout,
+			next:   http.DefaultTransport,
+		},
+
+		Timeout: time.Second * 10,
+
+		Jar: jar,
 	}
 
-}
-func saveUserInfo(user User) error {
-	fmt.Printf("Writing file for user id: %d\n", user.id)
-	fileName := fmt.Sprintf("mod2ConcurrencyInGo/les2/logs/uid%d.txt", user.id)
-	file, err := os.OpenFile(fileName, os.O_RDWR|os.O_CREATE, 0644)
+	resp, err := client.Get("https://academy.golang-ninja.com/")
 	if err != nil {
-		return err
+		log.Fatal(err)
 	}
-	_, err = file.WriteString(user.getActivityInfo())
-	return err
-}
+	defer func(Body io.ReadCloser) {
+		err := Body.Close()
+		if err != nil {
+			log.Fatal(err)
+		}
+	}(resp.Body)
 
-//Count of users
-func generateUsers(count int) []User {
-	users := make([]User, count)
-	for i := 0; i < count; i++ {
-		users[i] = User{
-			id:    i + 1,
-			email: fmt.Sprintf("comeUser%d@gmail.com", i+1),
-			logs:  generateLogs(rand.Intn(5)),
-		}
+	fmt.Println("Response status", resp.StatusCode)
+
+	body, err := ioutil.ReadAll(resp.Body)
+	if err != nil {
+		log.Fatal(err)
 	}
-	return users
-}
-func generateLogs(count int) []logItem {
-	logs := make([]logItem, count)
-	for i := 0; i < count; i++ {
-		logs[i] = logItem{
-			action:    action[rand.Intn(len(action)-1)],
-			timestamp: time.Now(),
-		}
-	}
-	return logs
+	fmt.Println(string(body))
+
+	//	client := &http.Client{}
+	//	fmt.Sprintf("%v", client)
+	//	fmt.Printf("%v \n", client)
+	//	fmt.Printf("%#v", client)
+
 }
