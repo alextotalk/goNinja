@@ -1,89 +1,86 @@
 package main
 
 import (
-	"fmt"
-	"math/rand"
-	"os"
-	"sync"
-	"time"
+	"context"
+	"encoding/json"
+	"io/ioutil"
+	"log"
+	"net/http"
 )
 
-var action = []string{
-	"logged in",
-	"logged out",
-	"create record",
-	"delete record",
-	"update record",
-}
-
-type logItem struct {
-	action    string
-	timestamp time.Time
-}
 type User struct {
-	id    int
-	email string
-	logs  []logItem
+	ID   int
+	Name string
 }
 
-func (u User) getActivityInfo() string {
-	out := fmt.Sprintf("ID: %d | Email: %s\nActivity Log:\n", u.id, u.email)
-	for i, item := range u.logs {
-		out += fmt.Sprintf("%d. [%s] at %s\n", i+1, item.action, item.timestamp)
-	}
-	return out
-}
+var (
+	users = []User{{1, "Vasy"}, {2, "Galy"}}
+)
 
 func main() {
-	rand.Seed(time.Now().Unix())
-	t := time.Now()
-	wg := &sync.WaitGroup{}
-
-	users := make(chan User)
-	go generateUsers(1000, users)
-	for user := range users {
-		wg.Add(1)
-		go saveUserInfo(user, wg)
+	http.HandleFunc("/users", authMiddleware(loggerMiddleware(handleUsers)))
+	if err := http.ListenAndServe(":8080", nil); err != nil {
+		log.Fatal(err)
 	}
-	wg.Wait() //wait go routing is done
-	fmt.Println("TIME ELAPSED", time.Since(t))
 }
-func saveUserInfo(user User, wg *sync.WaitGroup) error {
-	fmt.Printf("Writing file for user id: %d\n", user.id)
-	time.Sleep(time.Millisecond * 10) //wait like a network
-	fileName := fmt.Sprintf("mod2ConcurrencyInGo/les2/logs/uid%d.txt", user.id)
-	file, err := os.OpenFile(fileName, os.O_RDWR|os.O_CREATE, 0644)
-	if err != nil {
-		return err
-	}
-	_, err = file.WriteString(user.getActivityInfo())
-	if err != nil {
-		return err
-	}
-	wg.Done()
-	return nil
-}
-
-//Count of users
-func generateUsers(count int, users chan User) {
-	for i := 0; i < count; i++ {
-		users <- User{
-			id:    i + 1,
-			email: fmt.Sprintf("comeUser%d@gmail.com", i+1),
-			logs:  generateLogs(rand.Intn(5)),
+func authMiddleware(next http.HandlerFunc) http.HandlerFunc {
+	return func(w http.ResponseWriter, r *http.Request) {
+		userID := r.Header.Get("x-id")
+		if userID == "" {
+			log.Printf("[%s] , %s - error. userID is not provided", r.Method, r.RequestURI)
+			w.WriteHeader(http.StatusBadRequest)
+			return
 		}
-		time.Sleep(time.Millisecond * 10)
+		ctx := r.Context()
+		ctx = context.WithValue(ctx, "id", userID)
+		r = r.WithContext(ctx)
+		next(w, r)
 	}
-	close(users)
-	return
 }
-func generateLogs(count int) []logItem {
-	logs := make([]logItem, count)
-	for i := 0; i < count; i++ {
-		logs[i] = logItem{
-			action:    action[rand.Intn(len(action)-1)],
-			timestamp: time.Now(),
+func loggerMiddleware(next http.HandlerFunc) http.HandlerFunc {
+	return func(w http.ResponseWriter, r *http.Request) {
+		idFromCtx := r.Context().Value("id")
+		userId, ok := idFromCtx.(string)
+		if !ok {
+			log.Printf("[%s] %s - error. userID is invalid\n", r.Method, r.URL)
+			w.WriteHeader(http.StatusInternalServerError)
 		}
+		log.Printf("[%s] %s by userID %s \n", r.Method, r.URL, userId)
+		next(w, r)
 	}
-	return logs
+}
+
+func handleUsers(w http.ResponseWriter, r *http.Request) {
+	switch r.Method {
+	case http.MethodGet:
+		getUsers(w, r)
+	case http.MethodPost:
+		addUser(w, r)
+	default:
+		w.WriteHeader(http.StatusNotImplemented)
+	}
+}
+
+func addUser(w http.ResponseWriter, r *http.Request) {
+	reqBytes, err := ioutil.ReadAll(r.Body)
+	if err != nil {
+		w.WriteHeader(http.StatusInternalServerError)
+		return
+	}
+	var user User
+	if err = json.Unmarshal(reqBytes, &user); err != nil {
+		w.WriteHeader(http.StatusBadRequest)
+		return
+	}
+	users = append(users, user)
+	w.Write([]byte("Good"))
+}
+
+func getUsers(w http.ResponseWriter, r *http.Request) {
+	resp, err := json.Marshal(users)
+	if err != nil {
+		w.WriteHeader(http.StatusInternalServerError)
+		return
+	}
+	w.Write(resp)
 }

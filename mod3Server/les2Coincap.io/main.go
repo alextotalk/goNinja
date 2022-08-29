@@ -32,6 +32,7 @@ func main() {
 		Value:  "some_token",
 		MaxAge: 300,
 	}
+
 	cookies := []*http.Cookie{cookie}
 	u := url.URL{Host: "https://academy.golang-ninja.com/"}
 

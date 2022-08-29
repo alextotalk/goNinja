@@ -1,0 +1,18 @@
+GET http://localhost:8080/users
+x-id:1
+####
+POST http://localhost:8080/users
+Content-Type: application/json
+
+{"ID": 3,"Name":"Pety"}
+####
+DELETE http://localhost:8080/users
+
+//if  you watn working with authorization put:
+//###
+
+# curl -v -X GET -H 'x-id:1' localhost:8080/users
+
+
+
+
