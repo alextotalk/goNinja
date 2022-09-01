@@ -1,2 +1,4 @@
+github.com/go-sql-driver/mysql v1.6.0 h1:BCTh4TKNUYmOmMUcQ3IipzF5prigylS7XXjEkfCHuOE=
+github.com/go-sql-driver/mysql v1.6.0/go.mod h1:DCzpHaOWr8IXmIStZouvnhqoel9Qv2LBy8hT2VhHyBg=
 github.com/zhashkevych/scheduler v1.0.0 h1:gEbSIPykQ6OHGo/F4jJoC2iQtzzwOAQ6U6T6nQoo3v8=
 github.com/zhashkevych/scheduler v1.0.0/go.mod h1:x9baACtHSUu78Jvzv7QytjJ9beTJUh6tCRAtYnKYh3c=
